@@ -66,11 +66,20 @@ SSS25/
 
 ## Branch Strategy
 
-- `main` — Clean, reviewed content. Only merge when an arc or document is in good shape.
+**Rule: Never commit directly to `main`.** All work happens on a branch. Merging to `main` requires explicit user approval.
+
+- `main` — Clean, reviewed content. Only merge when the user approves.
 - `arc/XX-name` — One branch per story arc during active drafting
 - `planning/topic` — For planning documents and worldbuilding work
 - `endings/name` — Separate branch per ending variant when writing Arc 6
 - `research/topic` — For research sessions and tip collection
+- `fix/topic` — For corrections to existing documents
+
+**Workflow:**
+1. Create a branch before starting any work
+2. Commit changes to that branch
+3. Inform the user the branch is ready for review
+4. Merge to `main` only when the user says so
 
 ---
 
