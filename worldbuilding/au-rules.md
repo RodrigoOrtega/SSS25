@@ -3,7 +3,7 @@
 ## The Swap
 
 ### What Happened
-One morning, Alex woke up inhabiting the body of tripleS member Song Yooyeon. No explanation is given. The story does not explain the mechanism.
+One morning, Alex woke up inhabiting the body of tripleS member Kim Yooyeon. No explanation is given. The story does not explain the mechanism.
 
 ### Core Rules (Establish Before Writing Arc 1)
 

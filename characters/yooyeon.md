@@ -1,10 +1,10 @@
-# Character: Yooyeon (Song Yooyeon)
+# Character: Yooyeon (Kim Yooyeon)
 
 ## Basic Info
 
 | Field | Value |
 |-------|-------|
-| Full name | Song Yooyeon (송유연) |
+| Full name | Kim Yooyeon (김유연) |
 | Group | tripleS |
 | Unit | LOVElution |
 | Role in story | The person whose body Alex inhabits; a presence felt through her absence |
