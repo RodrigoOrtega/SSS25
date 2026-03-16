@@ -85,19 +85,38 @@ SSS25/
 
 ## Writing Guidelines for Claude
 
-- Match the tone: introspective, slow, emotionally grounded. Avoid melodrama.
-- Alex is 30, male, adult inner world — his voice should be measured, not dramatic.
-- The pacing is intentionally slow. Do not rush scenes or skip emotional processing.
+- Match the tone: introspective, slow, emotionally grounded. Emotions — Alex's and the members' — are central to the story and should be written with full weight. Do not suppress or shorthand genuine feeling; avoid only what is theatrical or unearned.
+- Alex is 30, male, adult inner world — his voice is measured in expression, not in feeling. He may underreact outwardly while processing deeply inwardly.
+- The pacing is intentionally slow. Do not rush scenes or skip emotional processing. Conflicts do not resolve because a chapter is ending or because enough time has passed — they resolve when the characters are ready, and sometimes they don't resolve at all.
+- Characters evolve. The members are not static — their feelings toward Alex (as Yooyeon), toward each other, and toward circumstances shift over time, sometimes gradually and sometimes from specific events. Track and honor that change.
 - Internal monologue is a primary tool. Lean into it.
-- tripleS members are real people used fictionally in an AU — treat them with dignity and avoid putting them in harmful situations.
 - When writing chapters, use scene breaks (`---`) rather than chapter breaks for smaller transitions.
 - Prefer showing over telling, especially for Alex's discomfort with his new identity.
+- This is fiction. Fictional things happen. Do not treat the story's impossibilities as constraints.
+
+---
+
+## Character Tracking
+
+Character continuity is critical. Before writing any scene, read the relevant character files in `characters/`. These files are the source of truth for who each character is at any given point in the story.
+
+Each character file contains:
+- **Profile** — fixed traits, background, role in the story
+- **Current State** — their emotional and relational state as of the last written scene (updated after every writing session)
+- **Event Log** — a chronological record of significant interactions, decisions, and emotional shifts
+
+**Rules:**
+- After writing any scene with significant character development, update the affected character's Current State and Event Log before committing
+- Never contradict an established event in the log without a story reason
+- If a character learns something, note it. If a relationship changes, note it. If they make a decision, note it.
+- When in doubt about what a character knows or feels, check their log before writing
 
 ---
 
 ## Working with Claude
 
 - Use `planning/` documents as the source of truth for story decisions
+- Use `characters/` files as the source of truth for character state
 - When researching, save findings to `planning/research.md`
 - When Claude writes a chapter draft, it goes in `drafts/` first, then moves to `story/` after review
-- Always commit planning changes separately from story content
+- Always commit planning/character updates separately from story content

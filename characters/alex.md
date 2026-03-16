@@ -35,6 +35,28 @@ Alex's narration is:
 
 ---
 
+## Current State
+
+> Updated after each writing session. This is where Alex is right now in the story.
+
+- **Arc position:** Pre-story (not yet drafted)
+- **Emotional state:** —
+- **Physical situation:** —
+- **What he knows:** —
+- **Key relationships at this point:** —
+
+---
+
+## Event Log
+
+> Chronological record of significant events, decisions, and emotional shifts. Updated as scenes are written.
+
+| # | Arc | Event | Impact |
+|---|-----|-------|--------|
+| — | — | Story not yet started | — |
+
+---
+
 ## Arc Progression Notes
 
 ### Arc 0 (Last Week)

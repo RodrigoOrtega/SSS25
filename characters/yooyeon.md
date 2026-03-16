@@ -48,6 +48,26 @@ These questions do not need answers early in the story — but they should feel 
 
 ---
 
+## Current State
+
+> Updated after each writing session.
+
+- **Arc position:** Pre-story
+- **Known to Alex (as of last scene):** —
+- **Her situation (as far as the story addresses it):** —
+
+---
+
+## Event Log
+
+> Significant moments where Yooyeon's presence, past, or absence shapes the story.
+
+| # | Arc | Event | Impact |
+|---|-----|-------|--------|
+| — | — | Story not yet started | — |
+
+---
+
 ## Thematic Role
 
 Yooyeon is not just the body Alex inhabits — she is the person he must reckon with. The story asks: can you live someone's life without becoming complicit in erasing them?
