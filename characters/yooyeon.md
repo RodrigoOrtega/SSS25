@@ -6,7 +6,6 @@
 |-------|-------|
 | Full name | Kim Yooyeon (김유연) |
 | Group | tripleS |
-| Units | AAA (Acid Angel from Asia), EVOLution · Orbital: msnz Sun |
 | Role in story | The person whose body Alex inhabits; a presence felt through her absence |
 | Status | Absent from her own life (from Arc 1 onward) |
 

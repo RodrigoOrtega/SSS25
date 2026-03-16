@@ -1,4 +1,4 @@
-# Character: Mayu (마유)
+﻿# Character: Mayu (마유)
 
 ## Basic Info
 
@@ -7,7 +7,6 @@
 | Full name | Kouma Mayu (코우마 마유 / 마유) |
 | S number | S16 |
 | Nationality | Japanese |
-| Units | EVOLution · Orbital: msnz Sun |
 | Role in story | TBD |
 
 ---

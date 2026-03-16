@@ -1,4 +1,4 @@
-# Character: Shion (박시온)
+﻿# Character: Shion (박시온)
 
 ## Basic Info
 
@@ -6,7 +6,7 @@
 |-------|-------|
 | Full name | Park Shion (박시온) |
 | S number | S20 |
-| Units | Orbital: msnz Moon |
+| Nationality | South Korean |
 | Role in story | TBD |
 
 ---

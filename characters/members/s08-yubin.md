@@ -1,4 +1,4 @@
-# Character: Yubin (공유빈)
+﻿# Character: Yubin (공유빈)
 
 ## Basic Info
 
@@ -6,7 +6,7 @@
 |-------|-------|
 | Full name | Gong Yubin (공유빈) |
 | S number | S8 |
-| Units | AAA (Acid Angel from Asia), LOVElution · Orbital: msnz Zenith |
+| Nationality | South Korean |
 | Role in story | TBD |
 
 ---

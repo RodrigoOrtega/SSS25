@@ -1,4 +1,4 @@
-# Character: Sohyun (박소현)
+﻿# Character: Sohyun (박소현)
 
 ## Basic Info
 
@@ -6,7 +6,7 @@
 |-------|-------|
 | Full name | Park Sohyun (박소현) |
 | S number | S14 |
-| Units | LOVElution · Orbital: msnz Moon |
+| Nationality | South Korean |
 | Role in story | TBD |
 
 ---

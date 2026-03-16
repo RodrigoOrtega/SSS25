@@ -1,4 +1,4 @@
-# Character: Jiyeon (지연)
+﻿# Character: Jiyeon (지연)
 
 ## Basic Info
 
@@ -6,7 +6,7 @@
 |-------|-------|
 | Full name | Jiyeon / 지연 (legal: Ji Seoyeon / 지서연) |
 | S number | S24 |
-| Units | Orbital: msnz Moon |
+| Nationality | South Korean |
 | Role in story | TBD |
 
 > Note: Her legal name (지서연 / Ji Seoyeon) differs by one character from S1 Seoyeon (윤서연 / Yoon Seoyeon). She uses the stage name Jiyeon to avoid confusion.

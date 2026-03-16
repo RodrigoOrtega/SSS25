@@ -1,4 +1,4 @@
-# Character: Dahyun (서다현)
+﻿# Character: Dahyun (서다현)
 
 ## Basic Info
 
@@ -6,7 +6,7 @@
 |-------|-------|
 | Full name | Seo Dahyun (서다현) |
 | S number | S10 |
-| Units | LOVElution · Orbital: msnz Neptune |
+| Nationality | South Korean |
 | Role in story | TBD |
 
 ---

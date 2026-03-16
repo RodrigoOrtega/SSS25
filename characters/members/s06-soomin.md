@@ -1,4 +1,4 @@
-# Character: Soomin (김수민)
+﻿# Character: Soomin (김수민)
 
 ## Basic Info
 
@@ -6,7 +6,7 @@
 |-------|-------|
 | Full name | Kim Soomin (김수민) |
 | S number | S6 |
-| Units | +(KR)ystal Eyes, EVOLution · Orbital: msnz Zenith |
+| Nationality | South Korean |
 | Role in story | TBD |
 
 ---

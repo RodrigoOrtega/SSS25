@@ -1,4 +1,4 @@
-# Character: Nakyung (김나경)
+﻿# Character: Nakyung (김나경)
 
 ## Basic Info
 
@@ -6,7 +6,7 @@
 |-------|-------|
 | Full name | Kim Nakyung (김나경) |
 | S number | S7 |
-| Units | AAA (Acid Angel from Asia), EVOLution · Orbital: msnz Neptune |
+| Nationality | South Korean |
 | Role in story | TBD |
 
 ---

@@ -1,4 +1,4 @@
-# Character: Sullin (설린)
+﻿# Character: Sullin (설린)
 
 ## Basic Info
 
@@ -7,7 +7,6 @@
 | Full name | Pirada Bunraksa (설린 / พิรดา บุญรักษา) |
 | S number | S22 |
 | Nationality | Thai |
-| Units | Orbital: msnz Moon |
 | Role in story | TBD |
 
 ---

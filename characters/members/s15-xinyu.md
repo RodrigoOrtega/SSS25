@@ -1,4 +1,4 @@
-# Character: Xinyu (신위)
+﻿# Character: Xinyu (신위)
 
 ## Basic Info
 
@@ -7,7 +7,6 @@
 | Full name | Zhou Xinyu (저우신위 / 신위) |
 | S number | S15 |
 | Nationality | Chinese |
-| Units | LOVElution · Orbital: msnz Sun |
 | Role in story | TBD |
 
 ---

@@ -1,4 +1,4 @@
-# Character: Seoyeon (윤서연)
+﻿# Character: Seoyeon (윤서연)
 
 ## Basic Info
 
@@ -6,7 +6,7 @@
 |-------|-------|
 | Full name | Yoon Seoyeon (윤서연) |
 | S number | S1 |
-| Units | +(KR)ystal Eyes, LOVElution · Orbital: msnz Neptune |
+| Nationality | South Korean |
 | Role in story | TBD |
 
 ---

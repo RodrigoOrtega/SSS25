@@ -1,4 +1,4 @@
-# Character: Hyerin (정혜린)
+﻿# Character: Hyerin (정혜린)
 
 ## Basic Info
 
@@ -6,7 +6,7 @@
 |-------|-------|
 | Full name | Jeong Hyerin (정혜린) |
 | S number | S2 |
-| Units | AAA (Acid Angel from Asia), LOVElution · Orbital: msnz Sun |
+| Nationality | South Korean |
 | Role in story | TBD |
 
 ---

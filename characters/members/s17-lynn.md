@@ -1,4 +1,4 @@
-# Character: Lynn (린)
+﻿# Character: Lynn (린)
 
 ## Basic Info
 
@@ -7,7 +7,6 @@
 | Full name | Kawakami Rin (카와카미 린 / 린) |
 | S number | S17 |
 | Nationality | Japanese |
-| Units | Orbital: msnz Moon |
 | Role in story | TBD |
 
 ---

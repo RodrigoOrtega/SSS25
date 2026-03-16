@@ -1,4 +1,4 @@
-# Character: Kotone (코토네)
+﻿# Character: Kotone (코토네)
 
 ## Basic Info
 
@@ -7,7 +7,6 @@
 | Full name | Kamimoto Kotone (嘉味元琴音 / 코토네) |
 | S number | S11 |
 | Nationality | Japanese |
-| Units | EVOLution · Orbital: msnz Neptune |
 | Role in story | TBD |
 
 ---

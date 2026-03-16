@@ -1,4 +1,4 @@
-# Character: Yeonji (곽연지)
+﻿# Character: Yeonji (곽연지)
 
 ## Basic Info
 
@@ -6,7 +6,7 @@
 |-------|-------|
 | Full name | Kwak Yeonji (곽연지) |
 | S number | S12 |
-| Units | EVOLution · Orbital: msnz Zenith |
+| Nationality | South Korean |
 | Role in story | TBD |
 
 ---

@@ -1,4 +1,4 @@
-# Character: SeoAh (서아)
+﻿# Character: SeoAh (서아)
 
 ## Basic Info
 
@@ -6,8 +6,7 @@
 |-------|-------|
 | Full name | SeoAh / 서아 (legal: Jeong Haerin / 정해린) |
 | S number | S23 |
-| Nationality | Thai |
-| Units | Orbital: msnz Neptune |
+| Nationality | South Korean |
 | Role in story | TBD |
 
 > Note: Her legal Korean-registered name (정해린) differs by one character from S2 Hyerin (정혜린). She uses the stage name SeoAh to avoid confusion.

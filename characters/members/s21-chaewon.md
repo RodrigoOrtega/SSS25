@@ -1,4 +1,4 @@
-# Character: Chaewon (김채원)
+﻿# Character: Chaewon (김채원)
 
 ## Basic Info
 
@@ -6,7 +6,7 @@
 |-------|-------|
 | Full name | Kim Chaewon (김채원) |
 | S number | S21 |
-| Units | Orbital: msnz Sun |
+| Nationality | South Korean |
 | Role in story | TBD |
 
 ---

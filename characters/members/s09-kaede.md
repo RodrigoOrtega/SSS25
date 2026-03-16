@@ -1,4 +1,4 @@
-# Character: Kaede (카에데)
+﻿# Character: Kaede (카에데)
 
 ## Basic Info
 
@@ -7,7 +7,6 @@
 | Full name | Yamada Kaede (山田楓 / 카에데) |
 | S number | S9 |
 | Nationality | Japanese |
-| Units | LOVElution · Orbital: msnz Moon |
 | Role in story | TBD |
 
 ---

@@ -1,4 +1,4 @@
-# Character: Chaeyeon (김채연)
+﻿# Character: Chaeyeon (김채연)
 
 ## Basic Info
 
@@ -6,7 +6,7 @@
 |-------|-------|
 | Full name | Kim Chaeyeon (김채연) |
 | S number | S4 |
-| Units | +(KR)ystal Eyes, EVOLution · Orbital: msnz Sun |
+| Nationality | South Korean |
 | Role in story | TBD |
 
 ---

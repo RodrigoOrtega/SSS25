@@ -1,4 +1,4 @@
-# Character: Hayeon (정하연)
+﻿# Character: Hayeon (정하연)
 
 ## Basic Info
 
@@ -6,7 +6,7 @@
 |-------|-------|
 | Full name | Jeong Hayeon (정하연) |
 | S number | S19 |
-| Units | Orbital: msnz Zenith |
+| Nationality | South Korean |
 | Role in story | TBD |
 
 ---

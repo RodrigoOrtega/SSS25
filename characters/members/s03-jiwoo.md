@@ -1,4 +1,4 @@
-# Character: Jiwoo (이지우)
+﻿# Character: Jiwoo (이지우)
 
 ## Basic Info
 
@@ -6,7 +6,7 @@
 |-------|-------|
 | Full name | Lee Jiwoo (이지우) |
 | S number | S3 |
-| Units | +(KR)ystal Eyes, EVOLution · Orbital: msnz Zenith |
+| Nationality | South Korean |
 | Role in story | TBD |
 
 ---

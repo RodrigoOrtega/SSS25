@@ -1,4 +1,4 @@
-# Character: Nien (니엔)
+﻿# Character: Nien (니엔)
 
 ## Basic Info
 
@@ -7,7 +7,6 @@
 | Full name | Hsu Nien-tzu (쉬니엔츠 / 니엔) |
 | S number | S13 |
 | Nationality | Taiwanese |
-| Units | LOVElution · Orbital: msnz Neptune |
 | Role in story | TBD |
 
 ---

@@ -1,4 +1,4 @@
-# Character: Joobin (주빈)
+﻿# Character: Joobin (주빈)
 
 ## Basic Info
 
@@ -6,7 +6,7 @@
 |-------|-------|
 | Full name | Joobin (주빈) |
 | S number | S18 |
-| Units | Orbital: msnz Zenith |
+| Nationality | South Korean |
 | Role in story | TBD |
 
 ---
