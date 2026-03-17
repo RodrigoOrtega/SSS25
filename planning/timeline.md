@@ -1,21 +1,39 @@
 # Story Timeline
 
-> Dates are relative (Day 0 = the day of the swap). Absolute dates TBD based on story needs.
+> **Day 0 = June 24, 2024 (Monday).** All relative days map to real calendar dates from this anchor.
+> The number 24 was chosen deliberately — 24 members, 24th of the month.
+
+## Story Calendar Reference
+
+| Relative | Absolute | Notes |
+|----------|----------|-------|
+| Day -7 | June 17, 2024 (Mon) | Arc 0 begins |
+| Day -1 | June 23, 2024 (Sun) | Last ordinary day |
+| Day 0 | June 24, 2024 (Mon) | The swap |
+| Day ~7 | ~June 30–July 1 | End of first week — Visionary Vision Gravity announced |
+
+## Group Context at Day 0
+
+- **ASSEMBLE24** (full-group album) released May 8, 2024 — promotions recently wrapped
+- **Glow** (S21 Chaewon, S22 Sullin, S23 SeoAh, S24 Jiyeon) released *Inner Dance* June 21, 2024 — active promotion as of Day 0
+- Badge War Season 2 aired May 24–June 14, 2024 — recently finished; recent group memory Alex does not share
+- **Visionary Vision** Gravity not yet announced as of Day 0 — expected end of first week
 
 ## Pre-Swap (Arc 0)
 
-| Day | Events |
-|-----|--------|
-| -7 | Arc 0 begins — a week in Alex's life |
-| -1 | The last ordinary day. The night before. |
+| Day | Absolute | Events |
+|-----|----------|--------|
+| -7 | June 17 | Arc 0 begins — a week in Alex's life |
+| -1 | June 23 | The last ordinary day. The night before. |
 
 ## The Swap and Immediate Aftermath (Arcs 1–2)
 
-| Day | Events |
-|-----|--------|
-| 0 | The swap occurs overnight. Alex wakes up as Yooyeon. |
-| 0 | First hours — disorientation, initial crisis |
-| 1–? | Alex navigates Yooyeon's private life, avoiding exposure |
+| Day | Absolute | Events |
+|-----|----------|--------|
+| 0 | June 24 | The swap occurs overnight. Alex wakes up as Yooyeon. |
+| 0 | June 24 | First hours — disorientation, initial crisis |
+| 1–? | June 25+ | Alex navigates Yooyeon's private life, avoiding exposure |
+| ~7 | ~June 30 | Visionary Vision Gravity announced — first external pressure point |
 
 ## Group Integration (Arc 3)
 

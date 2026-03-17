@@ -32,6 +32,8 @@
 ## Current State
 
 - **Arc position:** Pre-story
+- **Group context (Day 0):** Participated in ASSEMBLE24 (May 2024); promotions recently wrapped.
+- **Unit activity:** Promoting with Glow (*Inner Dance*, released June 21, 2024) — active as of Day 0.
 - **Emotional state:** —
 - **Relationship to Alex at this point:** —
 - **What they know:** —

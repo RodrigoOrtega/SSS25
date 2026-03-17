@@ -32,6 +32,7 @@
 ## Current State
 
 - **Arc position:** Pre-story
+- **Group context (Day 0):** Participated in ASSEMBLE24 (May 2024); promotions recently wrapped.
 - **Emotional state:** —
 - **Relationship to Alex at this point:** —
 - **What they know:** —

@@ -11,3 +11,21 @@
 | S number | S5 |
 | Nationality | South Korean |
 | Role in story | The member whose body Alex inhabits |
+
+---
+
+## Current State
+
+- **Arc position:** Pre-story
+- **Group context (Day 0):** Participated in ASSEMBLE24 (May 2024); promotions recently wrapped.
+- **Unit activity:** Visionary Vision member — Gravity not yet announced as of Day 0.
+- **Emotional state:** —
+- **What they know:** —
+
+---
+
+## Event Log
+
+| # | Arc | Event | Impact |
+|---|-----|-------|--------|
+| — | — | Story not yet started | — |
