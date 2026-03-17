@@ -14,14 +14,27 @@
 
 ## Profile (Pre-Swap)
 
-> Fill in as Arc 0 is planned/drafted.
+> Partially established. Continue developing in next session — see note at bottom of section.
 
-- **Occupation:** TBD
-- **Living situation:** TBD (likely alone)
-- **Relationships:** TBD — friends? family? romantic history?
-- **Personality:** Measured, internally complex, somewhat isolated. Processes things slowly and imperfectly. Not dramatic by nature.
-- **Relationship to tripleS/Yooyeon:** TBD — fan? casual listener? how much does he know about her?
-- **Emotional state before swap:** TBD — what is his life actually like? What is he avoiding?
+- **Occupation:** Software developer. Chose it for practical reasons: existing aptitude from years of computer use, good pay, no decade-long study like medicine, less rote memorization than most fields. Was passionate early on; gradually realized he doesn't genuinely enjoy it. Now does it because it is what he does, not because it is what he chose.
+- **Living situation:** TBD — likely alone
+- **Relationships:** TBD — friends? romantic history? (see family below)
+- **Relationship to tripleS/Yooyeon:** TBD
+
+### Family
+
+- **Siblings:** Older brother (successful lawyer, nearing marriage) and older sister (surgeon, respected in her field). Alex is the youngest.
+- **Family pressure:** The high achievement of his siblings created an expectation that preceded him — he felt the need to prove himself before he ever had the space to figure out what he wanted. He went into software development without genuinely asking whether it was right for him; it was available, it was practical, it had a path.
+- **Caretaker role:** As the youngest, it is assumed — explicitly or implicitly — that he will be the one to personally care for his parents as they age. His siblings will contribute financially but not in presence. Any attempt Alex has made to discuss this has ended in arguments he didn't want to escalate, so he has stopped trying.
+- **How he feels about his siblings:** Proud of them. Genuinely wishes them well. But wishes they were people he could rely on, and they are not. The resentment, if it exists, is quiet and unexamined.
+
+### Core Psychology
+
+- **What he wanted:** Freedom — specifically, the freedom to make choices without being judged for them. He never had it. The pressure of performing for a high-achieving family came before he could ask what he actually wanted; then the obligation of future caretaking locked the horizon. He has never had a period of genuine self-determination.
+- **Self-sabotage:** Alex pushes away social connection consciously and with a kind of rationalized care. He doesn't want to make plans he'll cancel. He doesn't want to bring a partner into a future that includes caring for aging parents. He frames his withdrawal as protecting others from a burden that is his to carry. The effect is that he is alone, and the framing keeps him from questioning the pattern.
+- **Trapped:** He knows he is trapped. He has not found a way out, and has largely stopped looking. The life he has is not the life he would have chosen, but it is the one he has built — and he has become complicit in building it.
+
+> **TO CONTINUE:** This is a first pass. Still needed — living situation, how he found tripleS/Yooyeon, emotional texture of Arc 0 days, any specific relationships (friends, past romantic), and the question of what he specifically wishes he could have done instead. Resume in next session.
 
 ---
 
