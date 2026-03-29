@@ -121,6 +121,10 @@ Each character file contains:
 - When Claude writes a chapter draft, it goes in `drafts/` first, then moves to `story/` after review
 - Always commit planning/character updates separately from story content
 
+### Write continuously — do not let development live only in chat
+
+Everything established in a session — character decisions, worldbuilding rules, relationship dynamics, answered questions — must be written into the relevant files before the session ends. Do not leave material only in the conversation. Conversations get compressed over time; content that exists only in chat will be lost, distorted, or forgotten. The files are permanent. The chat is not. If something was decided, it goes into a file. If a question was answered, the answer goes into the profile. If a relationship was defined, it goes into the character document. This is not optional cleanup — it is part of the work.
+
 ---
 
 ## Collaborative Development — How to Build This World

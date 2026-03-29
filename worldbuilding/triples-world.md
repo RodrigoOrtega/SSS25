@@ -73,6 +73,16 @@ tripleS is a 24-member K-pop group under MODHAUS, structured around a "universe"
 
 ---
 
+## Relationships and Attraction in This AU
+
+This story takes place in a world where same-sex relationships are as socially common and unremarkable as opposite-sex relationships. Woman-with-woman and man-with-man pairings carry no special social weight — they are simply how relationships work, one option among others, not marked as different.
+
+Within tripleS specifically: twenty-four people who are talented, attractive, and spend most of their time in close proximity. Attraction between members exists and circulates — not always acted on, not always mutual, sometimes half-formed and never spoken, sometimes acknowledged and left unresolved. This is part of the group's texture, not a plot device. It does not need to be explained or foregrounded; it simply is.
+
+This context is load-bearing for several specific relationships in the story. It is not background decoration.
+
+---
+
 ## Idol Life Context
 
 ### Privacy
