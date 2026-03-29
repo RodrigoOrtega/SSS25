@@ -13,10 +13,15 @@
 
 ## Profile
 
-- **Personality:** Bright, cheery, openly warm. Her energy in group settings is high and easy — she doesn't have an off switch socially the way some members do. This is genuine, not a mask.
-- **Flirtation pattern:** Flirts with members, including Seoyeon, in public settings. This is recognized within the group and by fans as performance — fanservice, not signal. She participates in it lightly and willingly, but there is nothing underneath it directed at any specific member. She is equally flirtatious across several people; the lack of specificity is part of what makes it readable as performance. With Seoyeon specifically: Seoyeon does not reject it, accepts it as the low-stakes warmth it is. Nien is not reading Seoyeon's acceptance as anything more than that — she is performing, and she knows Seoyeon knows she is performing.
-- **Role in the group:** TBD — expand further.
+- **Personality:** Bright, cheery, openly warm. Her energy in group settings is high and easy — she doesn't have an off switch socially the way some members do. This is genuine, not a mask. She is accommodating across different registers and units — she fits in wherever she is placed without friction, not because she is shapeless but because she is genuinely at ease with a wide range of people.
+- **Fanservice dynamic with Seoyeon:** Nien and Seoyeon have a specific, established bit — they perform as a shy couple in front of fans. It is a named dynamic, not just general warmth distributed across many targets. They are each other's scene partner for this. Nien participates willingly and with lightness; Seoyeon accepts it as the low-stakes thing it is. Neither is reading it as more than performance. Nien is not sending a signal; Seoyeon is not receiving one. The safety of it — the absence of real demand — is part of what makes it work for both of them, though for Seoyeon that function is load-bearing in a way she probably hasn't examined.
+- **Role in the group:** Connector. She navigates the group broadly and without difficulty, fitting into different unit dynamics without requiring adjustment from the people around her.
 - **Relationship with Yooyeon (pre-swap):** TBD.
+
+### Relationships
+
+- **Xinyu (friends, language):** They bonded through shared language — both speak Mandarin, and were introduced to the group in close succession (S13, S15). The friendship likely carries the specific relief of being able to speak naturally, without managing translation or register. TBD what else characterizes it beyond that foundation.
+- **Seoyeon (close, shy couple dynamic):** See fanservice note above. The closeness is real within the terms of their established dynamic; what exists beneath the performance layer is TBD.
 
 ---
 
@@ -47,7 +52,9 @@ Nien's fanservice dynamic with Seoyeon is relevant background for Seoyeon's emot
 ## TO CONTINUE
 
 - Personality established at a surface level; needs depth. What does she want? What is she like when the brightness drops, if it ever does? Is the cheerfulness a consistent trait or does it have an off-switch in private?
-- Her broader role in the group and her relationship with Yooyeon pre-swap both TBD.
+- Open question: What does the Xinyu friendship look like beyond the language foundation — is it purely comfort-in-shared-tongue, or has it built into something more specific?
+- Relationship with Yooyeon pre-swap TBD.
+- Broader individual role TBD.
 
 ---
 
