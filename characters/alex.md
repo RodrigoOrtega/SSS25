@@ -74,8 +74,6 @@
 - **Anger:** Almost never surfaces externally. Fewer times than he can count on one hand. Internal anger manifests the same way everything else does: goes quiet, goes minimal, blood pressure climbs. He doesn't raise his voice. He waits for it to pass.
 
 > **TO CONTINUE:**
-> - Open question: The performance for the family audience — does he believe on some level that it has worked, that they see him as distinct from his father? Or has he quietly accepted that their verdict was fixed before he could do anything about it, and the performance is habit now rather than hope? He hasn't committed to an answer. Worth holding.
-> - Open question: He has never been in a room where the family-specific vigilance fully switched off. Is there a person — not a context, a specific person — with whom something close to that has existed? Hold as a question for Arc 3 onward.
 > - Observation to carry: The Twice concert inversion — he stood in an arena moved by performers, and now he *is* one. Pay off in Arc 2–3.
 > - Observation to carry: "Let's see what happens next" posture will be tested harder than anything in his life. Not resilience, not nihilism — passive curiosity that the swap will stress-test.
 > - Observation to carry: The conditional care inversion — he fantasized about being someone else so he could be cared for without conditions. Now he is someone else. The care will come. It will be addressed to Yooyeon. (Flag for Arc 3 — first moment a member shows him warmth.)
