@@ -8,11 +8,13 @@
 | S number | S8 |
 | Nationality | South Korean |
 | Role in story | TBD — expand as arc develops |
+| MBTI | ISTP |
 
 ---
 
 ## Profile
 
+- **MBTI:** ISTP — Tolerant and flexible; quiet observer until something needs handling, then moves quickly and practically; focuses on cause-and-effect. The loud, deliberate playfulness in comfortable company is warmth expressed through action — she generates rather than warms.
 - **Personality:** Loud — her laugh is genuinely loud, her screams are loud, her presence in a room is loud when she's comfortable. Around people she is close with she acts very silly: not the drifting absentness of Nakyung, but deliberate, enthusiastic playfulness. She is being silly on purpose. She is fully present and choosing chaos.
 - **Role in the group:** The counterbalance to Hyerin. Hyerin is the voice of reason — the one who interfaces with problems, surfaces concerns, makes the "are you seeing what I'm seeing?" face when something goes sideways. Yubin is frequently the thing Hyerin is reacting to. This dynamic exists in their friendship without either of them naming it as such; it is simply how they occupy space together. Hyerin manages; Yubin generates things to manage. The closeness between them means Hyerin does not do this from exasperation alone — she stays close.
 - **Relationship with Yooyeon (pre-swap):** TBD.

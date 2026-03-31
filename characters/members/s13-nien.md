@@ -8,11 +8,13 @@
 | S number | S13 |
 | Nationality | Taiwanese |
 | Role in story | TBD — expand as arc develops |
+| MBTI | ESFP |
 
 ---
 
 ## Profile
 
+- **MBTI:** ESFP — Outgoing, adaptable, warm; fits into different dynamics without friction; at ease with a wide range of people. Her connector quality is ESFP warmth applied naturally to whoever is in the room.
 - **Personality:** Bright, cheery, openly warm. Her energy in group settings is high and easy — she doesn't have an off switch socially the way some members do. This is genuine, not a mask. She is accommodating across different registers and units — she fits in wherever she is placed without friction, not because she is shapeless but because she is genuinely at ease with a wide range of people.
 - **Fanservice dynamic with Seoyeon:** Nien and Seoyeon have a specific, established bit — they perform as a shy couple in front of fans. It is a named dynamic, not just general warmth distributed across many targets. They are each other's scene partner for this. Nien participates willingly and with lightness; Seoyeon accepts it as the low-stakes thing it is. Neither is reading it as more than performance. Nien is not sending a signal; Seoyeon is not receiving one. The safety of it — the absence of real demand — is part of what makes it work for both of them, though for Seoyeon that function is load-bearing in a way she probably hasn't examined.
 - **Role in the group:** Connector. She navigates the group broadly and without difficulty, fitting into different unit dynamics without requiring adjustment from the people around her.

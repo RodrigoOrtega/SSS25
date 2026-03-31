@@ -11,12 +11,16 @@
 | S number | S5 |
 | Nationality | South Korean |
 | Role in story | The member whose body Alex inhabits |
+| MBTI | INTP |
 
 ---
 
 ## Group Role and Relationships
 
+- **MBTI:** INTP — Theoretical, observant, internal. Shares the type with Alex. The same cognitive architecture in two completely different lives: a performer and emotional anchor in hers, an isolated software developer in his. Note: the shared type is thematically significant. See `characters/alex.md`.
 - **Oldest member:** Yooyeon is the oldest member of tripleS by age. Members seek her out privately for advice and guidance. This gives her an informal emotional authority within the group distinct from Seoyeon's structural leadership — she is not the one who interfaces with management, but she is the one people go to when something is personal. These two leadership centers coexist without conflict.
+- **Emotional anchor:** She has taken on the role of the person others lean on, and she does not resist it. What this produces privately: she performs emotional strength as a function, not just as personality. She does not often lean on others in return. She does not want to be seen as weak, and she rarely shows it when she is. She is observant — reads rooms, notices things — but rarely volunteers her own interior for extended disclosure. She rarely cries, at least not where anyone can see. Nakyung is a partial exception: the one person Yooyeon can exist next to without being the anchor. She can rest her head on Nakyung's shoulder, and Nakyung won't investigate what she's carrying.
+- **Alex's inheritance:** He steps into a role where twenty-three people have learned that "Yooyeon" is stable, available, and someone you can bring things to. He has no template for being the person who holds others' weight. His own default is to deflect concern directed at him — not to receive it and hold it for someone else.
 - **Seoyeon:** The oldest and most complicated relationship in the group. Shared a bunkbed in the early days; built a real closeness before either had learned to perform. That closeness has drifted — gradually, without a clean break, and without the reason being public. See `s01-seoyeon.md` for the full history. They still talk and care for each other, but are no longer the pair they were. The distance is managed, not healed.
 - **Kotone:** Friends. TBD — establish depth and texture when Kotone's profile is developed.
 - **Nakyung:** Friends. TBD — establish depth and texture when Nakyung's profile is developed.

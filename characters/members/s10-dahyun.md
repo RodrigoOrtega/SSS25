@@ -8,12 +8,13 @@
 | S number | S10 |
 | Nationality | South Korean |
 | Role in story | TBD — expand as arc develops |
+| MBTI | ISFP |
 
 ---
 
 ## Profile
 
-- **Personality:** TBD — needs development beyond relationship dynamics.
+- **MBTI:** ISFP — Quiet, sensitive, present-moment; carries feelings privately before expressing them; acts from inner value rather than outward principle. The developing, unnamed feeling toward Kotone is consistent: ISFPs accumulate something for a long time before it surfaces.
 - **Role in the group:** TBD — expand as arc develops.
 - **Relationship with Yooyeon (pre-swap):** TBD.
 

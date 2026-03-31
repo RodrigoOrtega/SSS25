@@ -8,11 +8,13 @@
 | S number | S19 |
 | Nationality | South Korean |
 | Role in story | TBD — expand as arc develops |
+| MBTI | ENTP |
 
 ---
 
 ## Profile
 
+- **MBTI:** ENTP — Quick, outspoken, generates situations; sees mechanisms clearly. The consent-checking before fanservice is ENTP self-awareness applied deliberately: she identified the dynamic, saw how it could go wrong, and made a policy. Not reckless — operating with a framework she built herself.
 - **Personality:** The member who most fully embodies fanservice — she generates it naturally, she's good at it, and she has a clear trajectory: she has kissed, or been close to kissing, most of the group. This is not reckless. She has thought about the fact that some people find this uncomfortable, and before initiating with any member, she asks privately whether they're okay with it. The asking happens off-camera, in a quiet moment — not as a formal negotiation, just a direct and considerate check. Members who aren't comfortable don't get pushed; members who are comfortable get Hayeon in full effect. The "mission" framing is how she talks about it lightly, a self-aware joke about her own tendency. The consent-checking is not a joke. It is what makes the whole thing not a problem.
 - **Fanservice record:** Has kissed (on lips): Mayu, Dahyun, Xinyu, Soomin, Nakyung, Chaeyeon. Has had non-lip moments with: Chaewon, Joobin, Hyerin. The list of members not yet on either side is still open.
 - **With Yooyeon:** Conditional clearance. Yooyeon would allow it in a specific staged context — a couple skit, a fanmeeting cosplay moment, something where the situation sets it up. Not casually, not on a whim. Hayeon knows this. She does not push outside that frame.

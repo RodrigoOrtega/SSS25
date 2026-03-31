@@ -8,12 +8,13 @@
 | S number | S9 |
 | Nationality | Japanese |
 | Role in story | TBD — expand as arc develops |
+| MBTI | INFP |
 
 ---
 
 ## Profile
 
-- **Personality:** TBD — needs development beyond relationship dynamics.
+- **MBTI:** INFP — Idealistic, values-driven, adaptable. The bond with Dahyun — built on mutual private disclosure and genuine trust — is how INFPs form close relationships: slowly, through the exchange of real things, with people who feel safe.
 - **Role in the group:** TBD — expand as arc develops.
 - **Relationship with Yooyeon (pre-swap):** TBD.
 

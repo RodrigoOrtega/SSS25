@@ -8,12 +8,13 @@
 | S number | S15 |
 | Nationality | Chinese |
 | Role in story | TBD — expand as arc develops |
+| MBTI | ENTP |
 
 ---
 
 ## Profile
 
-- **Personality:** TBD — needs development beyond relationship dynamics.
+- **MBTI:** ENTP — Quick, conceptually-oriented, outspoken; finds novel solutions; driven by ideas and engagement. Broader personality TBD beyond the Sohyun dynamic.
 - **Role in the group:** TBD — expand as arc develops.
 - **Relationship with Yooyeon (pre-swap):** TBD.
 

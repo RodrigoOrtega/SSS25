@@ -8,12 +8,13 @@
 | S number | S11 |
 | Nationality | Japanese |
 | Role in story | TBD — expand as arc develops |
+| MBTI | ENFP |
 
 ---
 
 ## Profile
 
-- **Personality:** TBD — needs development beyond relationship dynamics.
+- **MBTI:** ENFP — Warmly enthusiastic; sees connections and possibilities; values authenticity over performance. Her opt-out of fanservice is ENFP refusing to perform warmth she doesn't mean — it is not against warmth itself, it is against hollow warmth.
 - **Role in the group:** TBD — expand as arc develops.
 - **Relationship with Yooyeon (pre-swap):** Friends. Listed among Kotone's actual close relationships — not group proximity but genuine friendship.
 

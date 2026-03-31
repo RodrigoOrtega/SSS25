@@ -8,11 +8,13 @@
 | S number | S17 |
 | Nationality | Japanese |
 | Role in story | TBD — expand as arc develops |
+| MBTI | ISFP |
 
 ---
 
 ## Profile
 
+- **MBTI:** ISFP — Quiet, generous, present-moment; gives without tracking it; loyal to what she values. The kindness is not overhead — she values the people around her being okay, and she acts on it.
 - **Personality:** The member most often described as the kindest. This is not a reputation she maintains or performs — it is simply what she does. She gives her share of food to someone who wants it. She shows up for people without needing to be asked and without tracking it afterward. She does things for herself too; she is not a martyr and she is not self-erasing. She just genuinely wants the people around her to be okay, and acts on that want. The giving is effortless in the sense that she does not experience it as a cost.
 - **Fanservice:** Does not initiate it, does not shy away from it. When Mayu turns it on her — which is often — she goes along without hesitation and without it meaning anything for either of them. This is the group's most consistent running dynamic; it has become comfortable through repetition. She occupies a middle space among the members: not a generator of fanservice (like Hayeon), not someone who declines it. She participates comfortably when it comes to her and lets it go just as easily when it doesn't.
 - **Role in the group:** A reliable, low-pressure warmth. She does not generate the chaos and she does not have to manage it either. Her presence in a room makes the room a little easier. People who are stressed or uncertain tend to settle near her without necessarily intending to.

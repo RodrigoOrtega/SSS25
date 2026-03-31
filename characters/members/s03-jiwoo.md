@@ -8,12 +8,13 @@
 | S number | S3 |
 | Nationality | South Korean |
 | Role in story | TBD — expand as arc develops |
+| MBTI | INTP |
 
 ---
 
 ## Profile
 
-- **Personality:** TBD — needs development beyond relationship dynamics.
+- **MBTI:** INTP — Theoretical and abstract; concentrates deeply on things that interest her; processes internally; more comfortable with ideas and systems than social performance. The suppressed feeling for Yubin is consistent: she can identify what she feels but finds no clean resolution path, so she holds it.
 - **Role in the group:** TBD.
 - **Relationship with Yooyeon (pre-swap):** TBD — not yet established as a close relationship.
 

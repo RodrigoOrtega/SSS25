@@ -8,12 +8,13 @@
 | S number | S4 |
 | Nationality | South Korean |
 | Role in story | TBD — expand as arc develops |
+| MBTI | ESFP |
 
 ---
 
 ## Profile
 
-- **Personality:** TBD beyond what's established in relationships — notably: gets flustered easily, tendency to pull back when something real starts to form. This detail is load-bearing; it implies someone who is aware of her own feelings but doesn't trust herself to follow through on them. Whether that's shyness, fear of consequence, or something else is worth establishing.
+- **MBTI:** ESFP — Outgoing, spontaneous, warm; acts in the moment; enjoys people and connection. The flustered-retreat pattern is interesting against this baseline: she is warm and forward until something real catches, then pulls back. The ESFP explains the forward motion; what drives the retreat is a separate question. This detail is load-bearing; it implies someone who is aware of her own feelings but doesn't trust herself to follow through on them. Whether that's shyness, fear of consequence, or something else is worth establishing.
 - **Role in the group:** TBD. Pre-tripleS she had TV work and presence in previous groups — she arrived with an existing public profile, which distinguishes her from members who came up entirely within tripleS. How that history sits in her now is TBD.
 - **Relationship with Yooyeon (pre-swap):** Yooyeon lists her as a friend. TBD — how close, how frequent, what the dynamic is.
 

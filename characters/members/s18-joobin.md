@@ -8,11 +8,13 @@
 | S number | S18 |
 | Nationality | South Korean |
 | Role in story | TBD — expand as arc develops |
+| MBTI | ISFJ |
 
 ---
 
 ## Profile
 
+- **MBTI:** ISFJ — Responsible, conscientious, attentive to others' needs; fulfills obligations accurately; notices what people require before they ask. The knowledgeable-but-not-showy quality fits: she has done the work, surfaces it when useful, not as display.
 - **Personality:** Knowledgeable and thoughtful — the kind of member who has usually read more about something than she lets on. She is not showy about it; it surfaces when it's useful. Best English speaker in the group by a significant margin, which she uses with ease and without self-consciousness.
 - **The "daughter" dynamic:** The group informally treats her as the daughter of Yubin (S8) and Jiwoo (S3). This is not about personality — the label is rooted in her name (주빈, a syllabic echo of 유빈 and 지우) and in a physical resemblance to both of them that the group finds funny and slightly uncanny. She has inherited the title without necessarily inheriting their traits. The label is affectionate and the group deploys it freely; Joobin receives it with the equanimity of someone who has long accepted the bit.
 - **Fanservice:** Does not initiate it. Has moments anyway — in particular with Hayeon, who has a way of producing them regardless of who the other person is. TBD what Joobin's response typically looks like when Hayeon turns it on: whether she plays it off, whether there's a moment of flustered, whether she redirects with the English.

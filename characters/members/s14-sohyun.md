@@ -8,12 +8,13 @@
 | S number | S14 |
 | Nationality | South Korean |
 | Role in story | TBD — expand as arc develops |
+| MBTI | INTJ |
 
 ---
 
 ## Profile
 
-- **Personality:** TBD — needs development beyond relationship dynamics.
+- **MBTI:** INTJ — Original, independent, long-range thinker; high internal standards; develops clear private maps of situations. Her protectiveness toward SeoAh is INTJ care: not demonstrative, but decided. She identified someone who needed watching out for and does it.
 - **Role in the group:** TBD — expand as arc develops.
 - **Protective quality:** Takes on a caretaking role toward SeoAh, the youngest member of the group. The protectiveness is genuine, not performed — she looks out for her. Whether this extends to a general tendency to care for people who are newer or more vulnerable in the group, or whether it is specific to SeoAh, is TBD.
 - **Relationship with Yooyeon (pre-swap):** Friends. Listed among Sohyun's real friendships within the group.

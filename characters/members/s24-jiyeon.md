@@ -8,6 +8,7 @@
 | S number | S24 |
 | Nationality | South Korean |
 | Role in story | TBD |
+| MBTI | ISTJ |
 
 > Note: Her legal name (지서연 / Ji Seoyeon) differs by one character from S1 Seoyeon (윤서연 / Yoon Seoyeon). She uses the stage name Jiyeon to avoid confusion.
 
@@ -15,7 +16,7 @@
 
 ## Profile
 
-- **Personality:** TBD — needs development beyond the specifics below.
+- **MBTI:** ISTJ — Quiet, thorough, dependable; takes responsibilities seriously; high standards. The ballet background fits: ISTJ capacity for sustained, disciplined practice toward an exacting standard. The flustered quality in fanservice is notable: what breaks through the composed baseline is probably real.
 - **Ballet background:** Trained in ballet before joining tripleS. She still has the technique — posture, awareness of her body in space, the precision that dance training embeds. The group uses "ballerina" as a light nickname; it is affectionate and a little funny given the context, the gap between classical training and idol performance. How she relates to the nickname — whether she receives it warmly, rolls her eyes with fondness, or genuinely likes it — is TBD and worth establishing. Her relationship to the ballet identity more broadly (pride, ambivalence, nostalgia, just a fact) is also open.
 - **Fanservice:** Rarely initiates it. When other members bring it to her, she gets flustered — visibly, without performing it. She does not deny or redirect; she just gets there. The flustering is real, not staged. She participates in a visible flirtatious dynamic with Yubin specifically (per Yubin's profile), which is the most consistent exception to her generally non-initiating stance. The flustered quality in other moments suggests that even when it is expected or staged, it still actually reaches her.
 - **Role in the group:** TBD — the youngest cohort, active in Glow, and the only member selected for both Glow and Visionary Vision. She is about to become very busy.

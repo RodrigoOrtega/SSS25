@@ -8,11 +8,13 @@
 | S number | S16 |
 | Nationality | Japanese |
 | Role in story | TBD — expand as arc develops |
+| MBTI | ENFJ |
 
 ---
 
 ## Profile
 
+- **MBTI:** ENFJ — Warm, empathetic, attuned to others' emotions and motivations; helps people without being asked; reads the room as a default. Fits precisely: the tracking of who hasn't eaten, the moving toward people who seem off, the care that is not performed.
 - **Personality:** Flirtatious with anyone who lets their guard down — she puts it out there freely, and when it gets deflected (which it often does) she pouts. The pout is theatrical. It passes quickly. She does not actually hold the rejection; the pout is a release valve, a way of letting it go without it becoming real hurt. Then she turns around and makes sure the person who just rejected her has eaten. That is the real shape of her: the flirting is a surface social energy, a way of making contact; the care is what is underneath it. People who know her know this. People who don't yet know her sometimes misread the pout as genuine.
 - **Maternal quality:** Mayu is considered a motherly figure within the group — including by members who are older than her. This has nothing to do with age; it is entirely temperament. She tracks who hasn't eaten. She notices when someone is off — not dramatically, just a slight shift in energy, a quietness that doesn't belong — and she moves toward them without making it a moment. Physically she is someone who puts her arms around people, pats heads, pulls someone into her side without asking if that's okay (with people she knows won't mind). She checks in verbally on the members she's close to, and does it in a way that doesn't feel like an interrogation. The caring is not performed. It is simply how she operates.
 - **Flirtation with Lynn:** Her most frequent fanservice partner. This is a running dynamic in the group — Mayu turns it on, Lynn doesn't shy away from it, both of them know it means nothing, the group has seen it enough times that nobody reads anything into it. Purely entertainment. The consistency of it has made it comfortable; there is no ambiguity to navigate.

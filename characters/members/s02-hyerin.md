@@ -8,12 +8,13 @@
 | S number | S2 |
 | Nationality | South Korean |
 | Role in story | TBD — expand as arc develops |
+| MBTI | ESTP |
 
 ---
 
 ## Profile
 
-- **Personality:** TBD — needs development beyond relationship dynamics.
+- **MBTI:** ESTP — Pragmatic, energetic, action-oriented; focuses on immediate results; flexible and tolerant; engages problems directly rather than theorizing about them. The voice-of-reason role fits: she interfaces with situations when they arise and handles them.
 - **Role in the group:** S2; one of the earliest members. TBD further.
 - **Relationship with Yooyeon (pre-swap):** TBD — not yet established as a close relationship. Expand when reached.
 

@@ -8,11 +8,13 @@
 | S number | S1 |
 | Nationality | South Korean |
 | Role in story | Structural leader of tripleS; Yooyeon's oldest and most complicated relationship |
+| MBTI | ISFP |
 
 ---
 
 ## Profile
 
+- **MBTI:** ISFP — Quiet, sensitive, and kind; acts from authentic inner feeling rather than abstract principle; loyal to personal values; dislikes conflict. The confession to Yooyeon was a genuine, unguarded ISFP move. The managed withdrawal afterward is consistent with someone who does not force confrontation when the cost is too high.
 - **Leadership role:** S1 — first member introduced, de-facto group leader by seniority. She fulfills the role practically, not just nominally: acts as the communication channel between members and management, surfaces individual needs or concerns to the team, and tends toward problem-solving when something goes wrong. The role fits her. She did not manufacture it.
 - **Two kinds of leader:** tripleS effectively has two leadership centers. Seoyeon is the structural one — the one who interfaces with the institution. Yooyeon, as the oldest member by age, is the emotional one — the person members seek out privately when something is wrong. These coexist without direct conflict, but they are different kinds of authority, and Seoyeon is aware of the distinction.
 - **Relationship with Yooyeon (pre-swap, history):** Among the earliest members; lived in the same Haus from the beginning, shared a bunkbed in the early period. The closeness that built during that time was real — the kind that forms when you go through the beginning of something difficult together, in close physical proximity, before either person has learned to perform. That closeness was the baseline for years.

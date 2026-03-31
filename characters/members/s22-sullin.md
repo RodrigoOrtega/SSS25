@@ -8,11 +8,13 @@
 | S number | S22 |
 | Nationality | Thai |
 | Role in story | TBD — expand as arc develops |
+| MBTI | INFJ |
 
 ---
 
 ## Profile
 
+- **MBTI:** INFJ — Seeks meaning and connection; understands others' motivations beneath the surface; develops quiet internal maps of people and situations. Her humor through the language barrier may be INFJ pattern-recognition: finding the shape of what went wrong before anyone else names it.
 - **Personality:** Funny. Not accidentally — she has a genuine comedic sensibility. The language barrier produces moments, and those moments have become part of her identity in the group, but the humor is not limited to when the Korean falls short. She is funny in her own right; the language just adds a texture to it.
 - **Language:** Thai native. Korean is still being learned — she joined the group with the least Korean experience of any member, and while she has made real progress and can hold a conversation, some words do not come easily. Pronunciation catches on certain sounds. Sometimes a word simply is not there when she needs it. This produces genuine comedic moments that the group has incorporated without embarrassment — it is part of the Sullin experience, not a sore point. She does not flinch from it. TBD whether she leans into the humor deliberately in moments where she knows the group will find it funny, or whether the humor arises more naturally from what happens when the word just doesn't arrive. Probably some of both.
 - **English:** Speaks it — relevant because it creates a communication channel with members who are comfortable in English (primarily Joobin). In a group with primarily Korean communication, the English-fluent cluster (Joobin, and occasionally others) is where Sullin has the easiest exchange.

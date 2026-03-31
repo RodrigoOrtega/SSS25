@@ -8,6 +8,7 @@
 | S number | S23 |
 | Nationality | South Korean |
 | Role in story | TBD |
+| MBTI | INTP |
 
 > Note: Her legal Korean-registered name (정해린) differs by one character from S2 Hyerin (정혜린). She uses the stage name SeoAh to avoid confusion.
 
@@ -15,7 +16,7 @@
 
 ## Profile
 
-- **Personality:** TBD — needs development beyond her role in the group dynamic.
+- **MBTI:** INTP — Theoretical, abstract, internal processor. Her personality is underdeveloped beyond the youngest-protected role, but the INTP baseline establishes that her inner world is more active than her surface presence may suggest.
 - **Role in the group:** The youngest member. The group has a collective, unspoken instinct to protect her — not from anything specific, and not through any rule anyone made. Nobody flirts with her. Nobody puts her in that register. It is simply not where the group goes with her. This is not because she is fragile — it is a dynamic the group produces around her, which may or may not reflect what she actually needs or wants.
 - **The Mayu incident:** Once, in a fanservice context, Mayu crossed the line briefly. It was light — a fleeting gesture, not sustained — and has since passed cleanly. The group noticed. It was not a transgression that left damage; it is simply the one documented exception to an otherwise consistent group behavior. Whether SeoAh found it funny, awkward, or something else is TBD.
 - **Relationship with Yooyeon (pre-swap):** TBD.

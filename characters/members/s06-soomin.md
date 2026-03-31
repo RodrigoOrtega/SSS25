@@ -8,11 +8,13 @@
 | S number | S6 |
 | Nationality | South Korean |
 | Role in story | TBD — expand as arc develops |
+| MBTI | ENTP |
 
 ---
 
 ## Profile
 
+- **MBTI:** ENTP — Quick, outspoken, generates energy and situations; notices her own patterns even when that awareness doesn't produce behavioral change; dislikes routine. The chattiness, the mischief, and the self-aware checking-in all fit.
 - **Personality:** Chatty and warm, with a tendency to fill any silence she's in. Flirts lightly with members — not with intent, more as a default register of affection; it is part of how she shows she likes someone. She has a playful streak: light pranks, low-stakes mischief, the kind of humor that lands because it is affectionate rather than sharp. She is not subtle. She doesn't especially try to be.
 - **Self-awareness:** She knows she can be a lot. She checks in with members about it — a genuine, recurring habit, not performative. She wants to know she isn't crossing a line. She rarely actually tones it down when reassured; the checking-in functions more as permission than as recalibration. The members have been fond of her long enough that they receive it as one of her antics — the checking-in itself included.
 - **Role in the group:** TBD — expand as arc develops.

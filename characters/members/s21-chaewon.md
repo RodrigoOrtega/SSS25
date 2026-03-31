@@ -8,11 +8,13 @@
 | S number | S21 |
 | Nationality | South Korean |
 | Role in story | TBD — expand as arc develops |
+| MBTI | INTP |
 
 ---
 
 ## Profile
 
+- **MBTI:** INTP — Theoretical, internal, comfortable holding contradictions without resolving them. The nunchucks are the tell: she built expertise in something unexpected because it interested her, and holds the gap between that and her aesthetic without needing to explain it. That's INTP comfort with internal consistency over external legibility.
 - **Personality:** The embodiment of the "am I cute?" persona — pink, strawberries, very girly, fully inhabited. She is not performing femininity ironically and she is not at war with it. It is just who she is, and she is completely comfortable in it. She knows she is cute. She invites you to agree.
 - **The nunchucks:** Chaewon has studied martial arts and handles nunchucks with genuine expertise. This is not something she conceals or leads with — she treats it as an ordinary fact about herself, unremarkable in her own mind. The gap between her aesthetic and this skill is something the group and fans find funny; she is aware of the gap and does not rush to resolve it. She lets it be what it is. The humor is in the mismatch, and she does not need to explain that both things are simply true.
 - **Strawberries and pink:** Specific, real preferences, not a character bit. Strawberries are a comfort. Pink is not a phase she grew out of. She is consistent.
