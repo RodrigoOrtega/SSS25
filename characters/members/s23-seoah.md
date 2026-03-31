@@ -31,7 +31,7 @@
 ## Group Unit Context
 
 - **Glow** (active promotion as of Day 0): Chaewon, Sullin, SeoAh, Jiyeon. *Inner Dance* released June 21, 2024. Actively promoting when the swap occurs. As the Glow unit is promoting, SeoAh is one of the most visible members at the story's opening.
-- **Neptune orbital unit:** Seoyeon, Nakyung, Dahyun, Kotone, Nien, SeoAh.
+- **Neptune orbital unit:** Seoyeon, Nakyoung, Dahyun, Kotone, Nien, SeoAh.
 
 ---
 

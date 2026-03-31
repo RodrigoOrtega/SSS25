@@ -17,10 +17,10 @@ tripleS is a 24-member K-pop group under MODHAUS, structured around a "universe"
 > Sources: triplescosmos.com, kprofiles.com, en.namu.wiki
 
 ### Named Sub-Units
-- **Acid Angel from Asia (AAA):** S2 Hyerin, S5 Yooyeon, S7 Nakyung, S8 Yubin
+- **Acid Angel from Asia (AAA):** S2 Hyerin, S5 Yooyeon, S7 Nakyoung, S8 Yubin
 - **+(KR)ystal Eyes (KRE):** S1 Seoyeon, S3 Jiwoo, S4 Chaeyeon, S6 Soomin
 - **LOVElution:** S1 Seoyeon, S2 Hyerin, S8 Yubin, S9 Kaede, S10 Dahyun, S13 Nien, S14 Sohyun, S15 Xinyu
-- **EVOLution:** S3 Jiwoo, S4 Chaeyeon, S5 Yooyeon, S6 Soomin, S7 Nakyung, S11 Kotone, S12 Yeonji, S16 Mayu
+- **EVOLution:** S3 Jiwoo, S4 Chaeyeon, S5 Yooyeon, S6 Soomin, S7 Nakyoung, S11 Kotone, S12 Yeonji, S16 Mayu
 
 ### Story-Relevant DIMENSION Units (as of Day 0 — June 24, 2024)
 
@@ -30,7 +30,7 @@ tripleS is a 24-member K-pop group under MODHAUS, structured around a "universe"
 - The four newest members of tripleS; their unit promotion is ongoing when the swap occurs
 
 **Visionary Vision** *(Divine01 DIMENSION — not yet announced as of Day 0)*
-- Members (12): S2 Hyerin, S5 Yooyeon, S7 Nakyung, S8 Yubin, S9 Kaede, S11 Kotone, S12 Yeonji, S13 Nien, S14 Sohyun, S15 Xinyu, S17 Lynn, S24 Jiyeon
+- Members (12): S2 Hyerin, S5 Yooyeon, S7 Nakyoung, S8 Yubin, S9 Kaede, S11 Kotone, S12 Yeonji, S13 Nien, S14 Sohyun, S15 Xinyu, S17 Lynn, S24 Jiyeon
 - Dance-focused DIMENSION; 12 of 24 members selected through Gravity
 - Gravity expected to be announced approximately end of first week (story: ~June 30, 2024)
 - Note: Jiyeon (S24) is in both Glow and Visionary Vision
@@ -39,7 +39,7 @@ tripleS is a 24-member K-pop group under MODHAUS, structured around a "universe"
 ### Orbital Units (msnz DIMENSION)
 - **Sun:** S2 Hyerin, S4 Chaeyeon, S5 Yooyeon, S15 Xinyu, S16 Mayu, S21 Chaewon
 - **Moon:** S9 Kaede, S14 Sohyun, S17 Lynn, S20 Shion, S22 Sullin, S24 Jiyeon
-- **Neptune:** S1 Seoyeon, S7 Nakyung, S10 Dahyun, S11 Kotone, S13 Nien, S23 SeoAh
+- **Neptune:** S1 Seoyeon, S7 Nakyoung, S10 Dahyun, S11 Kotone, S13 Nien, S23 SeoAh
 - **Zenith:** S3 Jiwoo, S6 Soomin, S8 Yubin, S12 Yeonji, S18 Joobin, S19 Hayeon
 
 > Sources: namu.wiki, kprofiles.com, dbkpop.com

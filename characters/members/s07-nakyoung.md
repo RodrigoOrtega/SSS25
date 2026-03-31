@@ -1,10 +1,10 @@
-# Character: Nakyung (김나경)
+# Character: Nakyoung (김나경)
 
 ## Basic Info
 
 | Field | Value |
 |-------|-------|
-| Full name | Kim Nakyung (김나경) |
+| Full name | Kim Nakyoung (김나경) |
 | S number | S7 |
 | Nationality | South Korean |
 | Role in story | TBD — expand as arc develops |
@@ -22,7 +22,7 @@
 
 ### Relationships
 
-- **Yooyeon (friends):** A friendship built from complementary parts. Yooyeon's intelligence and composure produce a particular kind of stability; Nakyung's goofy, absent quality makes Yooyeon laugh — genuinely, not politely. Nakyung is also one of the few people Yooyeon can exist next to without performing: she can rest her head on Nakyung's shoulder while thinking hard about something, and Nakyung will not ask what she's thinking about. She doesn't push. She is simply there. Nakyung is not consciously aware that she occupies this role for Yooyeon — she is drawn to Yooyeon for the security she brings and behaves accordingly, without either of them naming what the dynamic is. She finds Yooyeon beautiful; she compliments her looks openly and is sometimes seen staring. More often than not the staring is just Nakyung lost in her own world, but it lands the same way either way. When Yooyeon does something Nakyung doesn't like — takes a position she disagrees with, makes a choice that bothers her — she gets cutely sulky about it. She doesn't argue or press; she just goes slightly quiet and soft in a way that is visible. Yooyeon generally notices.
+- **Yooyeon (friends):** A friendship built from complementary parts. Yooyeon's intelligence and composure produce a particular kind of stability; Nakyoung's goofy, absent quality makes Yooyeon laugh — genuinely, not politely. Nakyoung is also one of the few people Yooyeon can exist next to without performing: she can rest her head on Nakyoung's shoulder while thinking hard about something, and Nakyoung will not ask what she's thinking about. She doesn't push. She is simply there. Nakyoung is not consciously aware that she occupies this role for Yooyeon — she is drawn to Yooyeon for the security she brings and behaves accordingly, without either of them naming what the dynamic is. She finds Yooyeon beautiful; she compliments her looks openly and is sometimes seen staring. More often than not the staring is just Nakyoung lost in her own world, but it lands the same way either way. When Yooyeon does something Nakyoung doesn't like — takes a position she disagrees with, makes a choice that bothers her — she gets cutely sulky about it. She doesn't argue or press; she just goes slightly quiet and soft in a way that is visible. Yooyeon generally notices.
 - **Kotone (friends):** TBD — relationship established; texture to be filled when Kotone's arc develops.
 - **Lynn (friends):** TBD — Lynn's profile not yet developed.
 
@@ -30,7 +30,7 @@
 
 ## Thematic Note
 
-Nakyung being a friend of Yooyeon's matters for Arc 3: she will have a real reference point for how "Yooyeon" normally behaves in low-stakes, casual settings. The teasing dynamic in the group also means Alex may have to respond to jokes at "his" expense without knowing the established rhythm — how Yooyeon usually reacts, what the correct level of mock-annoyance is, whether she plays along or stays dry.
+Nakyoung being a friend of Yooyeon's matters for Arc 3: she will have a real reference point for how "Yooyeon" normally behaves in low-stakes, casual settings. The teasing dynamic in the group also means Alex may have to respond to jokes at "his" expense without knowing the established rhythm — how Yooyeon usually reacts, what the correct level of mock-annoyance is, whether she plays along or stays dry.
 
 ---
 
@@ -54,8 +54,8 @@ Nakyung being a friend of Yooyeon's matters for Arc 3: she will have a real refe
 
 ## TO CONTINUE
 
-- The specific texture of the Nakyung-Yooyeon friendship is now established: the complementary pull, the security dynamic, the beauty, the cute sulkiness. What remains TBD: how this friendship survives the reveal — or doesn't. The security Nakyung felt was real, but it was built around someone who was not there. That specific loss will need to be written with care.
-- Open question: The teasing dynamic — does Nakyung genuinely not mind, or is there some part of it she manages? Her settled quality suggests she's fine, but worth confirming.
+- The specific texture of the Nakyoung-Yooyeon friendship is now established: the complementary pull, the security dynamic, the beauty, the cute sulkiness. What remains TBD: how this friendship survives the reveal — or doesn't. The security Nakyoung felt was real, but it was built around someone who was not there. That specific loss will need to be written with care.
+- Open question: The teasing dynamic — does Nakyoung genuinely not mind, or is there some part of it she manages? Her settled quality suggests she's fine, but worth confirming.
 - Broader personality and group role TBD.
 
 ---
