@@ -35,6 +35,22 @@ Kotone is one of the few members who has thought explicitly about what the perfo
 
 ---
 
+## Role in the Reveal (Arc 4)
+
+**Kotone is the first member to discover the truth.**
+
+Her discovery comes not through emotional attunement but through seeing clearly. She has always looked for the real person underneath the performed surface — her decision to opt out of fanservice is rooted in the same instinct. Alex is performing Yooyeon constantly. Kotone looks for the actual Yooyeon and doesn't find her. The gap between what is being performed and what she expects to find is not explained by any ordinary change.
+
+- **Discovery trigger:** TBD — must be something that closes off every other explanation. Not behavioral accumulation alone; something that makes replacement the unavoidable conclusion.
+- **Confrontation:** She approaches Alex directly, shaken but not explosive. She does not immediately accuse — she asks. *"What do you mean you're not Yooyeon?"* arrives before Alex has confirmed anything. She has already concluded.
+- **Response to the truth:** She holds silence until Alex finishes explaining. Then she mourns — cries softly, not dramatically. Grief and understanding coexist in the same sitting; she does not need to separate them. She arrives at the conclusion that Alex is a victim too.
+- **Decision:** Agrees to help where possible. Agrees to keep the secret initially. Recommends telling Seoyeon — an innocent suggestion, not strategic. She does not know the romantic history between them.
+- **What she doesn't know:** The recommendation she makes is catastrophic in its consequences. She gave it from genuine care. She will have to live with that once she sees what it produces.
+- **Next step:** Tells Mayu. The two of them form the core of the ally structure.
+- **Faction:** Allies.
+
+---
+
 ## Relationship with Alex (as Yooyeon)
 
 - **First impression of "Yooyeon" post-swap:** —

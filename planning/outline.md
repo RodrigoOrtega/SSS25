@@ -72,6 +72,43 @@ Key beats:
 - Alex's internal turmoil reaches a peak
 - The reveal itself (how it happens, to whom, in what order)
 
+### Reveal Structure (established 2026-04-01)
+
+**Stage 1 — Kotone discovers**
+Kotone is the first to know. Her discovery is not through emotional attunement but through seeing: she looks for the real Yooyeon and what she finds isn't her. She has always looked past performance to the person underneath — she opted out of fanservice for the same reason — and Alex's constant performance of Yooyeon registers as fundamentally wrong to her in a way it may not to others.
+- Trigger mechanism: TBD — must be something that closes off every other explanation and produces "you're not Yooyeon" rather than "something is wrong with you"
+- Kotone confronts Alex, shaken but controlled: *"What do you mean you're not Yooyeon?"*
+- Alex asks her to listen. She does — holds silence until he finishes.
+- She mourns visibly (cries softly). Reaches the understanding that Alex is a victim too.
+- Agrees to help where possible. Agrees to keep the secret initially.
+- Recommends telling Seoyeon — an innocent suggestion. She does not know the romantic history.
+
+**Stage 2 — Mayu enters**
+Kotone tells Mayu. Mayu becomes the emotional anchor of the forming ally structure.
+- Mayu has been watching Seoyeon struggle — trying to reach "Yooyeon," visibly suffering, carrying something she can't name. Mayu tracks this the way she tracks everyone.
+- Her motivation for pressuring Alex toward telling Seoyeon is compassion for Seoyeon, not strategy. She has watched Seoyeon hurt long enough.
+- Over several days, as pressure mounts from multiple directions, the recommendation becomes pressure. Alex eventually agrees.
+
+**Stage 3 — Alex tells Seoyeon**
+Alex tells Seoyeon directly. He does not know the romantic history when he walks in.
+- Seoyeon has already been asking — has had at least one conversation where she asked Yooyeon what is wrong. She arrives at this conversation already carrying accumulated suspicion and unresolved feeling.
+- Alex delivers it flat, minimal — a status update. That register is the most damaging possible. Not the content. The way.
+- Her enemy arc begins here, not as a decision but as a collapse. Her grief has been building without a target; it now has one.
+- Multiple layers of damage: he occupied the body of the person she loves, he performed Yooyeon badly in exactly the places that mattered most to her, he caused her to suffer through what felt like rejection that was never even real.
+
+**Stage 4 — Chain to the group**
+Seoyeon controls the information flow. She tells some members before the full group meeting.
+- The people she tells first hear a version colored by her grief and anger — not lies, but framing.
+- Alex has no agency in how the story reaches everyone else. He made the one choice he ever makes, and it was immediately taken out of his hands.
+- By the time a full group meeting occurs, some members already know. Alex is explaining himself to people who have already been given a shape for it.
+- Who she tells first, and in what order: TBD
+
+**The three factions (post-reveal)**
+- **Allies** — understand Alex as victim; Kotone and Mayu are anchors
+- **Enemies** — disgust-based, not malicious; Seoyeon is in this camp, last to come to terms
+- **Undecided middle** — not comfortable with the situation, don't want to further divide the group; will not escalate
+- All three factions agree: the secret stays within the group. No management, no fans, no public knowledge.
+
 Tone note: This arc should feel like a pressure cooker. The pacing tightens here.
 
 ---

@@ -30,6 +30,20 @@
 
 ---
 
+## Role in the Reveal (Arc 4)
+
+**Mayu is the second person to know, and the emotional anchor of the ally structure.**
+
+Kotone tells her. Mayu's role is not discovery — it is what happens after. She becomes the person who holds the ally camp together and who eventually provides the decisive pressure that moves Alex toward telling Seoyeon.
+
+- **How she receives the truth:** Her ENFJ pattern means she processes through people. The immediate question is not "what does this mean for me" but "what does this mean for everyone." She will grieve for Yooyeon. She will also, almost immediately, begin tracking the implications for every person in the group.
+- **Why she pushes Alex toward Seoyeon:** She has been watching Seoyeon. Mayu tracks who is suffering — it is how she operates — and Seoyeon's attempts to reach "Yooyeon," the quiet struggle of it, have registered. Her motivation for the recommendation is not strategy. It is: *she is already hurting. The longer this continues, the worse it gets. She deserves to know.*
+- **What she doesn't know:** The romantic history. The recommendation to tell Seoyeon is made from compassion, not from knowledge of what that conversation will cost Seoyeon.
+- **The pressure she applies:** Over several days, as Alex resists, Mayu continues to push. She watches. She reports what she sees. The pressure is gentle but persistent — ENFJ sustained care rather than ESTP confrontation.
+- **Faction:** Allies. One of the two anchors alongside Kotone.
+
+---
+
 ## Relationship with Alex (as Yooyeon)
 
 - **First impression of "Yooyeon" post-swap:** —

@@ -120,6 +120,15 @@ Each character file contains:
 - When researching, save findings to `planning/research.md`
 - When Claude writes a chapter draft, it goes in `drafts/` first, then moves to `story/` after review
 - Always commit planning/character updates separately from story content
+- Use `planning/open-questions.md` as the central registry for unresolved story decisions, unanswered character questions, and plot flows still in development
+
+### Tracking open questions
+
+`planning/open-questions.md` is the source of truth for what has not yet been decided. Rules:
+- When a story question is raised but not resolved in a session, add it to the file before committing
+- When a question is resolved, move it to the Resolved section with the decision and session date — do not delete it
+- Before starting any scene or arc, check this file for open questions that affect what you are about to write
+- If writing would require answering an open question, stop and surface it to the user rather than making a silent assumption
 
 ### Write continuously — do not let development live only in chat
 

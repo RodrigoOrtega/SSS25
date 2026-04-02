@@ -30,6 +30,21 @@ Seoyeon is the most structurally dangerous member for Alex, not despite the drif
 
 Alex inherits a damaged relationship whose damage he cannot see. He will navigate Seoyeon without knowing the shape of what is between them. He may step directly on the wound without knowing it is there. Alternatively — and more interesting — he may handle something in a way Yooyeon never would have, and Seoyeon will notice the difference without being able to name what she is noticing.
 
+**Alex's behavior toward Seoyeon carries an additional damage:** he is performing a person who held an unanswered question over her for years. Every signal he sends is noise — he doesn't know the wound is there — but Seoyeon will read it as signal. Is Yooyeon closing the door? Is something shifting? She will be constructing a story about what Yooyeon is feeling, and that story will be entirely wrong. When the truth comes out, she will learn: the changed behavior wasn't Yooyeon deciding anything. It was a stranger who didn't know she existed. She wasn't being rejected. She was being ignored by someone who didn't know she was there. That is a different grief than rejection. It is almost worse — it removes even the dignity of having been considered.
+
+---
+
+## Role in the Reveal (Arc 4)
+
+**Seoyeon is the third person to know, told directly by Alex. She becomes the enemy faction's anchor.**
+
+- **Before Alex tells her:** She has already been asking. At least once she has approached "Yooyeon" and asked what is wrong — she sensed the drift deepening, tried to reach through it. She arrived at the conversation already carrying accumulated suspicion and unresolved feeling.
+- **How Alex tells her:** Flat, minimal. A status update. He does not know the romantic history when he walks in. He may find out in this scene — from her reaction, from something she says — or he may leave still not fully understanding what he walked into.
+- **Her response:** The enemy arc begins here, not as a decision but as a collapse. Her grief has been building without a target. It now has one. The specific layers of damage: he occupied the body of the person she loves; he performed Yooyeon badly in exactly the places that mattered most to her; he caused her to suffer through what felt like rejection that was never real.
+- **She controls the aftermath:** As structural leader, her instinct even in grief is to manage the information. She decides who knows and when. She tells some members before the full group. The people she tells first hear a version colored by her grief and anger — not lies, but framing. Alex has no agency in how the story reaches everyone else.
+- **Faction:** Enemies. Rooted in romantic grief, not principle. Last of the group to come to terms — not until nearly everyone else has.
+- **Arc toward resolution:** Cannot complete through anything Alex does or says. May require something about Yooyeon herself — some trace, some evidence of what she actually felt. Whether that is possible depends on story decisions not yet made.
+
 ---
 
 ## Relationship with Alex (as Yooyeon)
