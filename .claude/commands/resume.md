@@ -4,10 +4,11 @@ Read the following files in order to restore full context for this project sessi
 2. `planning/outline.md` — full arc-by-arc outline
 3. `planning/themes.md` — themes, tone, motifs, what to avoid
 4. `planning/timeline.md` — in-story timeline and Day 0 context
-5. `characters/alex.md` — protagonist profile and current state
-6. `characters/yooyeon.md` — Yooyeon's profile and current state
-7. `worldbuilding/au-rules.md` — swap mechanics and AU rules
-8. `worldbuilding/triples-world.md` — group context, units, story-period setting
+5. `planning/open-questions.md` — unresolved story decisions, character questions, and plot flows
+6. `characters/alex.md` — protagonist profile and current state
+7. `characters/yooyeon.md` — Yooyeon's profile and current state
+8. `worldbuilding/au-rules.md` — swap mechanics and AU rules
+9. `worldbuilding/triples-world.md` — group context, units, story-period setting
 
 Do NOT read all 24 member files unless a specific member is relevant to the current task — read them on demand instead.
 
