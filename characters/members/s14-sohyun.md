@@ -56,6 +56,22 @@ There is also a private asymmetry in the opposite direction: Sohyun occasionally
 
 ---
 
+## Role in the Reveal (Arc 4)
+
+**Faction: Enemy.**
+
+Her position is rooted in two distinct layers she cannot fully separate and would not try to articulate.
+
+The first is the production sessions. She let Yooyeon into a part of her work she doesn't open to most people — the contributing and directing layer, not the lyric layer, but still specific trust, specifically placed. Finding out that trust was given to a stranger produces something cold. Not explosive. She doesn't make it loud. She simply closes.
+
+The second layer is personal and unspoken, and she would not name it even if pressed. Her own mild insecurity about being read as androgynous — the private envy of the conventionally feminine, the way she moves between registers without fully owning either — gives the specific nature of the swap an added dimension she cannot account for. A man inhabiting and performing a woman's body, navigating gender presentation from the inside. It does not map directly onto her situation. But it rhymes with a territory she keeps quiet, and the resonance produces something she could not name and would not try to. The disgust has a personal dimension she herself may not recognize.
+
+Xinyu enters the faction alongside her, following her reaction. When Xinyu eventually shifts — her ENTP curiosity reasserting, the borrowed position dissolving — Sohyun is left holding it alone. The cost is now personal rather than principled: the stance has put distance between her and the person she's closest to. An INTJ works things out on her own internal timeline, but the question of whether this position is worth what it is costing with Xinyu becomes harder to avoid. Her reckoning is not about Alex directly. It is about whether she is right.
+
+Her resolution, when it comes, is fully her own. Not derivative of anyone else's journey.
+
+---
+
 ## Relationship with Alex (as Yooyeon)
 
 - **First impression of "Yooyeon" post-swap:** —
@@ -81,6 +97,7 @@ There is also a private asymmetry in the opposite direction: Sohyun occasionally
 - Open question: Is the protective quality toward SeoAh a general trait — does she take on caretaking roles broadly — or is the SeoAh thing specific?
 - Open question: What is the Sohyun-Kotone friendship built on — what do they share or do together that makes it specifically theirs?
 - Open question: How will Alex navigate Sohyun's production sessions? He has no knowledge of Yooyeon's contribution style there — this is one of the more specific reference points Sohyun holds that Alex cannot replicate.
+- Open question: When Xinyu shifts and Sohyun is left holding the enemy position alone, what does that internal reckoning look like? She does not confront this outwardly. Does she reach toward Xinyu before she has resolved it internally, or does she resolve it first and then move?
 - Broader group role TBD.
 
 ---
