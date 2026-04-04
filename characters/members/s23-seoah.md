@@ -28,7 +28,7 @@
 
 ### No Same Age Line
 
-A named friendship group within tripleS: Yooyeon (S5, born 2001), Yeonji (S12, born 2008), Joobin (S18, born 2007), and SeoAh (S23, born 2010). All four are the only member born in their respective birth year — none has an age-mate in the group. The name reflects this shared quality: the line of members with no same-age companion. Yooyeon is the oldest extreme; SeoAh is the youngest. Alex inherits Yooyeon's membership here without knowing its texture or what it has looked like in practice.
+A named friendship group within tripleS: Yooyeon (S5, born 2001), Yeonji (S12, born 2008), Joobin (S18, born 2009), and SeoAh (S23, born 2010). All four are the only member born in their respective birth year — none has an age-mate in the group. The name reflects this shared quality: the line of members with no same-age companion. Yooyeon is the oldest extreme; SeoAh is the youngest. Alex inherits Yooyeon's membership here without knowing its texture or what it has looked like in practice.
 
 ### Members who come to her
 
