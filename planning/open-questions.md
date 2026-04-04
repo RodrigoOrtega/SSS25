@@ -7,10 +7,7 @@
 ## Standing Tasks
 
 ### MBTI Audit — All 24 Members
-- **Status:** Unresolved
-- **What's established:** SeoAh's MBTI was listed as INTP in the profile but confirmed as ESTP across multiple sources. The error was significant — the two types produce opposite personalities on the page. Other member MBTIs may have similar errors.
-- **Task:** Research each member's MBTI across at least two independent sources (kprofiles, namu.wiki, triples fandom wiki, etc.) and confirm or correct what is currently in the profiles. Any profile whose MBTI underpins written personality text (Nakyoung, Kotone, Mayu, Seoyeon, etc.) needs to be checked before drafting Arc 3 scenes.
-- **Priority:** Before any Arc 3 drafting begins.
+- **Status:** Resolved — see Resolved section
 
 ---
 
@@ -93,3 +90,4 @@
 | Who discovers first? | Kotone (S11) — discovers through seeing past the performance, not through emotional attunement. Her ENFP instinct for authenticity and her habit of looking past the performed surface makes her the right person. | 2026-04-01 |
 | Who is the second to know / ally anchor? | Mayu (S16) — Kotone tells her. Mayu watches Seoyeon suffering and becomes the pressure that eventually moves Alex toward telling Seoyeon. Her motivation is compassion, not strategy. | 2026-04-01 |
 | First discoverer emotional profile | Kotone: shaken but controlled, holds silence through Alex's explanation, cries softly, reaches understanding Alex is victim too, agrees to help, recommends Seoyeon innocently | 2026-04-01 |
+| MBTI Audit — all 24 members | Researched against kprofiles, triples fandom wiki, kpop fandom wiki. Three corrections made: Jiwoo S03 INTP→INFP, Nien S13 ESFP→ENFP, Shion S20 ESFP→ESFJ. 21 others confirmed correct. Hyerin noted to have prior type history (ENFP→ISFJ→ESTP); current ESTP confirmed. | 2026-04-03 |

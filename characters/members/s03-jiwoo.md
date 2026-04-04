@@ -8,13 +8,13 @@
 | S number | S3 |
 | Nationality | South Korean |
 | Role in story | TBD — expand as arc develops |
-| MBTI | INTP |
+| MBTI | INFP |
 
 ---
 
 ## Profile
 
-- **MBTI:** INTP — Theoretical and abstract; concentrates deeply on things that interest her; processes internally; more comfortable with ideas and systems than social performance. The suppressed feeling for Yubin is consistent: she can identify what she feels but finds no clean resolution path, so she holds it.
+- **MBTI:** INFP — Idealistic, values-driven, inward; guided by a strong internal sense of what matters; processes feeling deeply but rarely externalizes it; loyal to people who have earned that loyalty. The suppressed feeling for Yubin is consistent: INFPs can hold something with great clarity and great silence at the same time — they know exactly what it is, and they know exactly why they're not saying it.
 - **Role in the group:** TBD.
 - **Relationship with Yooyeon (pre-swap):** TBD — not yet established as a close relationship.
 

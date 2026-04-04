@@ -8,13 +8,13 @@
 | S number | S20 |
 | Nationality | South Korean |
 | Role in story | TBD — expand as arc develops |
-| MBTI | ESFP |
+| MBTI | ESFJ |
 
 ---
 
 ## Profile
 
-- **MBTI:** ESFP — Warm, adaptable, accepting; softer in register than the typical ESFP, but the genuine enthusiasm surfaces clearly when something earns it. The bread passion, the vocal ability — these are the exuberance coming through on the things that are real.
+- **MBTI:** ESFJ — Harmony-oriented, attuned to the group's emotional state, stable and consistent; holds her role in the social fabric without having to assert it; cares about people through presence and continuity rather than gesture. Her soft-spoken quality is not introversion — it is Fe pointed inward toward the group's equilibrium. The bread passion fits the Si undercurrent: accumulated, specific, detailed knowledge of a thing she has decided matters. She knows what she likes, she knows it thoroughly, and she has been this way long enough that everyone around her has simply incorporated it.
 - **Personality:** Soft-spoken. Her quietness is temperamental, not social anxiety — she is not nervous or uncertain, she just operates at a lower volume than most. The softness in her voice and manner often reads as sheepishness to people who don't know her; she looks like someone who is about to apologize even when she is not. People who know her know that the impression is misleading. She is present and settled in a way that sheepishness isn't.
 - **Bread:** Genuinely, seriously interested in bread. Different kinds, different textures, where they come from, how they're made. She talks about it, brings it up naturally in conversation, notices it in new places. This is not a bit. It is a real enthusiasm that surfaces regularly and that the group has simply incorporated as a fact about her. A bread conversation with Shion is not short.
 - **Singing:** One of the best vocalists in the group — sits just below Dahyun and Kaede in overall ability. Her voice has a quietness to it that fits her off-stage presence, but on a recording or in a live performance the clarity and control are unmistakable.
