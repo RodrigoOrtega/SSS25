@@ -51,7 +51,7 @@
 ### The Factions — Composition
 - **Status:** Partially established
 - **What's established:** Three factions post-reveal: allies, enemies (disgust-based, not malicious), undecided middle. All agree to contain the secret within the group — no management, no fans, no public knowledge. Seoyeon is in the enemy faction, at least until nearly everyone else has come to terms. Enemy faction confirmed: Seoyeon (anchor, romantic grief), Sohyun (production trust betrayal + androgyny resonance), Xinyu (by addition, follows Sohyun — gateway to acceptance, first to shift). Allies confirmed: Kotone (anchor), Mayu (anchor).
-- **Open:** Nakyoung, Hayeon, Jiyeon flagged as possible enemy faction candidates — hold until remaining member profiles are developed. Full faction composition cannot be finalized until all 24 profiles have sufficient depth. Undecided middle composition TBD. Three additional ally members needed. Three additional enemy members needed.
+- **Open:** Nakyoung, Hayeon, Jiyeon flagged as possible enemy faction candidates — hold until remaining member profiles are developed. Full faction composition cannot be finalized until all 24 profiles have sufficient depth. Undecided middle composition TBD. Three additional ally members needed. Three additional enemy members needed. Nien (S13) flagged as uncertain: instinct toward undecided middle, but loyalty pull toward enemy (closest relationships are Xinyu and Seoyeon, both confirmed enemy). Most likely lands in enemy by loyalty rather than conviction — evaluate when haus assignments are finalized.
 
 ### The Factions — Seoyeon's Arc Out of Enemy Position
 - **Status:** Partially established
