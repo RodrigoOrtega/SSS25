@@ -4,6 +4,16 @@
 
 ---
 
+## Standing Tasks
+
+### MBTI Audit — All 24 Members
+- **Status:** Unresolved
+- **What's established:** SeoAh's MBTI was listed as INTP in the profile but confirmed as ESTP across multiple sources. The error was significant — the two types produce opposite personalities on the page. Other member MBTIs may have similar errors.
+- **Task:** Research each member's MBTI across at least two independent sources (kprofiles, namu.wiki, triples fandom wiki, etc.) and confirm or correct what is currently in the profiles. Any profile whose MBTI underpins written personality text (Nakyoung, Kotone, Mayu, Seoyeon, etc.) needs to be checked before drafting Arc 3 scenes.
+- **Priority:** Before any Arc 3 drafting begins.
+
+---
+
 ## Story Structure
 
 ### The Reveal — Who Discovers First
@@ -29,8 +39,8 @@
 
 ### The Factions — Composition
 - **Status:** Partially established
-- **What's established:** Three factions post-reveal: allies, enemies (disgust-based, not malicious), undecided middle. All agree to contain the secret within the group — no management, no fans, no public knowledge. Seoyeon is in the enemy faction, at least until nearly everyone else has come to terms.
-- **Open:** Which members land where? Which faction is Mayu in? Nakyoung? Hyerin? Kaede?
+- **What's established:** Three factions post-reveal: allies, enemies (disgust-based, not malicious), undecided middle. All agree to contain the secret within the group — no management, no fans, no public knowledge. Seoyeon is in the enemy faction, at least until nearly everyone else has come to terms. Enemy faction confirmed: Seoyeon (anchor, romantic grief), Sohyun (production trust betrayal + androgyny resonance), Xinyu (by addition, follows Sohyun — gateway to acceptance, first to shift). Allies confirmed: Kotone (anchor), Mayu (anchor).
+- **Open:** Nakyoung, Hayeon, Jiyeon flagged as possible enemy faction candidates — hold until remaining member profiles are developed. Full faction composition cannot be finalized until all 24 profiles have sufficient depth. Undecided middle composition TBD.
 
 ### The Factions — Seoyeon's Arc Out of Enemy Position
 - **Status:** Partially established
