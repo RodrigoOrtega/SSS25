@@ -81,6 +81,25 @@
 
 ---
 
+## Thematic Arc
+
+> Authorial note — what this story is doing to Alex, underneath the plot.
+
+Alex's life before the swap was built around a single operating principle: keep the status quo, make others comfortable, avoid risk, survive. He knew it was the wrong way to live. He had read enough philosophy to name the pattern precisely. The knowing changed nothing — because understanding was always available to him, and avoidance was always easier.
+
+The swap does not persuade him to change. It removes the option of not changing. His apartment, his careful distances, his practiced exits from intimacy — none of it is available anymore. He is surrounded by twenty-three people he cannot avoid, in a body that belongs to someone else, with no retreat.
+
+What the story is doing to him:
+- Learning to put himself first — not at others' expense, but as a legitimate act rather than a failure of responsibility
+- Learning to receive care without immediately categorizing it as addressed to Yooyeon, or unearned, or a burden he hasn't asked for
+- Learning to be in relationships without managing people out of them
+
+This is not achieved through insight. He already has insight. It is achieved through brute contact — sustained, inescapable proximity with people who will not stop being present. The learning happens whether he intends it or not, through situations that make the old patterns structurally unavailable.
+
+Whether he gets to keep what he learns — whether any of it belongs to him, given the body it was learned in — is a question the endings hold differently.
+
+---
+
 ## Internal Voice
 
 Alex's narration is:

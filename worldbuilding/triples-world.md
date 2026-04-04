@@ -49,7 +49,9 @@ tripleS is a 24-member K-pop group under MODHAUS, structured around a "universe"
 ## Relevant Group Dynamics
 
 ### Living Arrangements
-- Do members share dorms, or do they have individual/shared apartments? TBD — verify and note here, as this directly affects Alex's isolation or exposure.
+All 24 members live in the same building in residential units called **hauses** — see [worldbuilding/hauses.md](hauses.md) for full detail.
+
+Summary: four hauses of 6 members each, named after seasons (Spring / Summer / Autumn / Winter), on floors 3 and 4. Floor 2 holds communal areas, floor 1 is a gym, the basement is a practice room. Assignments are agency-determined and rotate periodically. The rotation system becomes narratively significant in Arc 4.
 
 ### Daily Schedule Structure
 - Typical schedule for an active tripleS member: TBD

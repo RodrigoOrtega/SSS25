@@ -34,10 +34,24 @@
 - **What's established:** Seoyeon controls the information flow after Alex tells her. She tells some members before the full group. The people she tells first hear a version colored by her grief and anger — not necessarily lies, but framing. Alex has no agency in how the story reaches everyone else.
 - **Open:** Who does Seoyeon tell first, and in what order? Does the first discoverer (Alex's ally) find out that Seoyeon is framing it, and do they push back?
 
+### The Hauses — Member-to-Haus Mapping
+- **Status:** Unresolved
+- **What's established:** Four hauses named Spring / Summer / Autumn / Winter, 6 members each, corresponding to orbital unit membership at the meta/author level. Which season name maps to which orbital grouping has not been decided. Which hauses are on floor 3 vs floor 4 is also TBD.
+- **Open:** Assign season names to the four orbital groupings. Decide floor placement.
+
+### The Hauses — Bedroom and Rooming Arrangements
+- **Status:** Unresolved
+- **Open:** How many bedrooms per haus? Do members share bedrooms? If so, who rooms with whom in Yooyeon's haus specifically? This directly affects Alex's available private space in Arcs 1–2.
+
+### The Hauses — Post-Reveal Faction Assignment
+- **Status:** Partially established
+- **What's established:** One haus = 6 enemies, two hauses = 12 middle, one haus = Alex + 5 allies.
+- **Open:** Which season haus holds which faction? Cannot be decided until faction composition is finalized.
+
 ### The Factions — Composition
 - **Status:** Partially established
 - **What's established:** Three factions post-reveal: allies, enemies (disgust-based, not malicious), undecided middle. All agree to contain the secret within the group — no management, no fans, no public knowledge. Seoyeon is in the enemy faction, at least until nearly everyone else has come to terms. Enemy faction confirmed: Seoyeon (anchor, romantic grief), Sohyun (production trust betrayal + androgyny resonance), Xinyu (by addition, follows Sohyun — gateway to acceptance, first to shift). Allies confirmed: Kotone (anchor), Mayu (anchor).
-- **Open:** Nakyoung, Hayeon, Jiyeon flagged as possible enemy faction candidates — hold until remaining member profiles are developed. Full faction composition cannot be finalized until all 24 profiles have sufficient depth. Undecided middle composition TBD.
+- **Open:** Nakyoung, Hayeon, Jiyeon flagged as possible enemy faction candidates — hold until remaining member profiles are developed. Full faction composition cannot be finalized until all 24 profiles have sufficient depth. Undecided middle composition TBD. Three additional ally members needed. Three additional enemy members needed.
 
 ### The Factions — Seoyeon's Arc Out of Enemy Position
 - **Status:** Partially established

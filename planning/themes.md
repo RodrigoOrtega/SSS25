@@ -17,6 +17,11 @@ Alex is surrounded by people (the members) who think they know him (as Yooyeon).
 ### Slow Change
 Alex changes over the course of the story whether he intends to or not. So do his relationships with the members. The story is interested in gradual, nearly imperceptible shifts — the kind that only become visible in retrospect.
 
+### Forced Growth
+Alex's pre-swap life was organized around avoidance: keep the status quo, manage others out of closeness, survive without risking anything. He understood this pattern and could name it. The understanding changed nothing, because avoidance was always the easier option.
+
+The swap closes that option by force. It is not a lesson or a persuasion. It is the removal of the architecture he used to avoid change. The story is interested in what happens to someone when the only way forward is the thing they have spent years not doing — not because they are now ready, but because the alternative is no longer available.
+
 ---
 
 ## Tone Notes
