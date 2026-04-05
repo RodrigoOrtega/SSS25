@@ -122,6 +122,8 @@ Key beats:
 - Some relationships deepen unexpectedly; others break
 - Alex confronts what he wants — to go back? to stay? does he even know?
 - Yooyeon's existence/perspective becomes a question that cannot be avoided
+- **The assault scene:** A male fan attempts to touch Alex inappropriately. Private setting. Alex absorbs it alone, then eventually tells Mayu — the first time he voluntarily asks someone for something. Mayu holds it, then decides Seoyeon needs to know and carries it to her directly. Seoyeon's protective instinct fires before her resentment can stop it: first involuntary crack in her enemy position. Hayeon finds out separately (through Mayu or Alex), completing the echo of the pinky promise scene.
+- **The pressure architecture:** No single event is the breaking point. Grinding pressures (exhaustion, diet, choreography, idol persona) hollow him out; identity-destabilizing events (female biology, fan admiration, performing as Yooyeon) attack his sense of self; the Seoyeon situation carries the heaviest relational weight; the assault is categorically different — the only one that introduces physical vulnerability and safety in a register he has never had to navigate before.
 
 Tone note: This is the emotional core. Do not rush it. Let scenes breathe.
 

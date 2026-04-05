@@ -55,8 +55,18 @@
 
 ### The Factions — Seoyeon's Arc Out of Enemy Position
 - **Status:** Partially established
-- **What's established:** Seoyeon's enemy position is grief that has nowhere else to go — rooted in the romantic history with Yooyeon, not purely in principle. She can't forgive quickly because forgiving requires untangling a narrative she'd been holding onto. Almost everyone else comes to terms before she does.
-- **Open:** What, if anything, allows her arc to complete? Does it require something about Yooyeon herself — some trace, some evidence of what Yooyeon actually felt? Or does it resolve through her relationship with Alex, or through time alone?
+- **What's established:** Seoyeon's enemy position is grief that has nowhere else to go — rooted in the romantic history with Yooyeon, not purely in principle. She can't forgive quickly because forgiving requires untangling a narrative she'd been holding onto. Almost everyone else comes to terms before she does. One specific event is structurally positioned to produce the first involuntary crack in her position: the assault scene (see below). When Mayu tells her what happened to Yooyeon's body, Seoyeon's protective instinct fires before her resentment can stop it. She did not choose this reaction. She cannot easily walk it back.
+- **Open:** What, if anything, allows her arc to complete beyond that first crack? Does it require something about Yooyeon herself — some trace, some evidence of what Yooyeon actually felt? Or does it resolve through her relationship with Alex, or through time alone?
+
+### Arc 5 — The Assault Scene
+- **Status:** Partially established
+- **What's established:** A male fan attempts to touch Alex inappropriately. Private setting — no public witnesses, not at a fansign. Happens after the reveal. Alex absorbs it alone initially; this is consistent with his pattern of carrying things solo and not asking for help. He eventually tells Mayu — the first time in the story he voluntarily asks for something from someone. He asks her to keep it quiet. Mayu holds the information, then decides Seoyeon needs to hear it, and carries it to Seoyeon directly without Alex's involvement. This is the first involuntary crack in Seoyeon's enemy position. Hayeon finds out separately — either through Mayu or through Alex in a later, quieter moment — completing the echo of the pinky promise scene (first time he couldn't receive her grace; this becomes an instance of him finally turning toward someone).
+- **Open:** Exact timing within Arc 5 relative to other events. Who else in the ally/middle network hears about it and in what order. Whether Seoyeon's reaction when she hears is visible to Alex or happens entirely off-screen. Whether Hayeon finds out through Mayu or through Alex directly.
+
+### Arc 5 — The Pressure Architecture (Multiple Breaking Points)
+- **Status:** Established as a structural principle
+- **What's established:** There is no single biggest breaking point for Alex. The pressures he faces are categorically different in kind: grinding erosion (diet, exhaustion, learning choreography, maintaining idol persona), identity destabilization (female biology, being perceived as Yooyeon, the fan admiration scene), relational damage (the cost to Yooyeon's relationships of him being there — Seoyeon as the heaviest of these), and safety (the assault scene, categorically different from all others). These do not accumulate the same way. The grinding pressures hollow him out so that when acute events hit, there is less left to absorb them. No single event produces the collapse; the collapse, if it comes, is the result of accumulated structural failure across all categories at once.
+- **Open:** Which acute event functions as the last weight — the one that finally exceeds capacity? Is this the assault scene, or something in the Seoyeon relationship, or something else not yet identified?
 
 ---
 
@@ -90,6 +100,13 @@
 ### Hyerin
 - What gives the Soomin connection its depth if it isn't romantic?
 - Has anyone seen her unperformed layer — the smaller, quieter reaction underneath the Whiteface?
+
+### Alex — The Three-Layer Architecture
+- The surface rationalization ("protecting others from disappointment"), the self-blame fallback ("I'm bad and deserve this"), and the severed biographical fact (the overheard argument, being unplanned) form a three-layer defense structure that has held for thirty years. At what point in the story does this fully collapse — all three layers failing at once? Is this within Arc 5, or does it happen differently across the ending branches? The non-conclusive ending may be the one where it never fully collapses. The bad-for-Alex ending may be the one where it collapses inward.
+- Does Alex ever consciously connect the overheard argument to his behavioral patterns, or does the story end with that connection present in the text but unmade by him?
+
+### Alex — Receiving Care From Mayu (Post-Assault)
+- Mayu's care, post-reveal, is directed at Alex specifically — not at Yooyeon, not at the body. She is the first person who knows who he actually is and offers him something without asking for anything back. Does Alex let it land, even partially? Or does the self-blame layer fire immediately and categorize it as unearned? This scene is the first real test of whether the architecture can be breached from the outside.
 
 ---
 
