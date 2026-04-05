@@ -58,6 +58,8 @@ Her discovery comes not through emotional attunement but through seeing clearly.
 - **Decision:** Agrees to help where possible. Agrees to keep the secret initially. Recommends telling Seoyeon — an innocent suggestion, not strategic. She does not know the romantic history between them.
 - **What she doesn't know:** The recommendation she makes is catastrophic in its consequences. She gave it from genuine care. She will have to live with that once she sees what it produces.
 - **Next step:** Tells Mayu. The two of them form the core of the ally structure.
+- **At the group meeting:** Kotone does not lead the structural response — Mayu does. Kotone adds her voice in support, standing with Mayu when she steps forward. Her guilt about the chain she set in motion (discovery → told Mayu → recommended Seoyeon → this room) is real and present in the meeting. She does not use it as the reason she speaks; it surfaces differently, in how she relates to Alex in private afterward.
+- **The guilt and whether it belongs to her:** The recommendation to tell Seoyeon was innocent — made without knowledge of the romantic history, from genuine care for Seoyeon. Whether Kotone actually did something wrong is not straightforward. She carries the guilt anyway, because she is someone for whom the weight of a feeling arrives before the logic of it. At some point she will have to reckon with whether the guilt belongs to her or whether she has been holding something that was never hers to carry. That reckoning is its own arc.
 - **Faction:** Allies.
 
 ---
@@ -87,6 +89,7 @@ Her discovery comes not through emotional attunement but through seeing clearly.
 - Open question: How does the Yeonji kissing-evasion behavior connect? Yeonji's profile notes she doesn't participate in physical fanservice and appears to have adopted this by proximity to Kotone. If Kotone's is playful evasion rather than principled refusal, did Yeonji absorb a more principled version of it — or is she also just running when Mayu comes at her?
 - Open question: The fromm messages reveal someone who says true things at professional cost. In Arc 4, she agrees to keep Alex's secret. Does that create internal pressure for her — someone who defaults to saying true things now having to hold a large one? How long does she hold it before it shows somewhere?
 - Story flag: The discovery trigger mechanism is still TBD. The mimic-based attunement gives her the reference data to feel the wrongness, but something specific has to close off every alternative explanation and produce "you're not Yooyeon" as a conclusion. Develop before writing Arc 4.
+- Open question: When does Kotone reckon with whether her guilt actually belongs to her? Is this a private arc, or does it surface in a specific scene — possibly with Alex, possibly with Mayu? And does she reach absolution, or does the story leave it unresolved?
 
 ---
 

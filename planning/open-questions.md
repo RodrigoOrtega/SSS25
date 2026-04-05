@@ -31,8 +31,28 @@
 
 ### The Reveal — Chain to Group Discovery
 - **Status:** Partially established
-- **What's established:** Seoyeon controls the information flow after Alex tells her. She tells some members before the full group. The people she tells first hear a version colored by her grief and anger — not necessarily lies, but framing. Alex has no agency in how the story reaches everyone else.
+- **What's established:** Seoyeon controls the information flow after Alex tells her. She tells some members before the full group. The people she tells first hear a version colored by her grief and anger — not necessarily lies, but framing. Alex has no agency in how the story reaches everyone else. The majority of the group discovers the truth at the group meeting, not beforehand — only the small number Seoyeon pre-briefed know going in.
 - **Open:** Who does Seoyeon tell first, and in what order? Does the first discoverer (Alex's ally) find out that Seoyeon is framing it, and do they push back?
+
+### The Group Meeting — Alex's Behavior During Deliberation
+- **Status:** Unresolved
+- **What's established:** After telling his account, Alex goes physically still and defensive — present but without standing. The group deliberates about him in third person while he is in the room. This is his rock bottom.
+- **Open:** Does Alex say anything during the deliberation phase, or does he stay silent the entire time? Does anyone address him directly, or is he spoken about as if absent? His established shutdown pattern (monosyllabic, minimal) would produce silence — but the spiral from loss of control may override that pattern and produce something different.
+
+### The Group Meeting — Haus Movement Mechanics
+- **Status:** Unresolved
+- **What's established:** The meeting ends with the enemy faction's reluctant acceptance of Mayu's stewardship, which initiates the haus reshuffling. Factions become physically real through living arrangements.
+- **Open:** Does the haus movement happen immediately after the meeting, or is it organized over days? Who manages the logistics — does Seoyeon push for it to happen fast, or does it settle gradually? This affects the pacing of Arc 4's aftermath.
+
+### Seoyeon — Accepting Mayu's Stewardship
+- **Status:** Partially established
+- **What's established:** Seoyeon accepts Mayu's "I'll take responsibility" with major reluctance. This is structural acceptance, not emotional. She has agreed to a structure in which the person she trusts most actively protects the person she resents most.
+- **Open:** Does this tension surface in specific scenes between Seoyeon and Mayu in Arc 5? Does Mayu's position as protector of Alex eventually strain their relationship — or does Mayu manage to hold both without fracture?
+
+### Kotone — The Guilt Arc
+- **Status:** Partially established
+- **What's established:** Kotone's guilt about the chain she initiated is real. But the recommendation to tell Seoyeon was innocent — made without knowledge of the romantic history, from genuine care. Whether she actually did something wrong is not straightforward. The guilt may not belong to her.
+- **Open:** When does she reckon with this? Is it a private arc, or does it surface in a specific scene? Does she reach absolution, or does the story leave it unresolved?
 
 ### The Hauses — Member-to-Haus Mapping
 - **Status:** Unresolved
