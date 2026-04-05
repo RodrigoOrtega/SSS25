@@ -76,6 +76,9 @@
 - What is the specific trigger for their discovery?
 - What faction do they lead or anchor among the allies?
 
+### Kotone (post-discovery complication)
+- Kotone is the first to discover Alex and agrees to keep the secret. Yeonji is Kotone's closest member in the group. Yeonji also has a warm, real relationship with Yooyeon. Kotone will be managing a secret that directly concerns someone she is closest to — while watching Yeonji give Alex's version of Yooyeon the same patient generosity she once gave the real one. Does Kotone find this unbearable? Does it accelerate her push toward telling Seoyeon, or does the closeness to Yeonji actually make her more protective of the secret (she doesn't want to hurt her)?
+
 ### Mayu
 - What is the specific texture of her relationship with Yooyeon pre-swap? Did Yooyeon lean into the maternal dynamic or resist it?
 - When she senses something wrong with Alex-as-Yooyeon, how persistent is she before it becomes a confrontation?
