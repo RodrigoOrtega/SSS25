@@ -39,11 +39,15 @@
 
 - **Lynn (S17 — Muhaez, 06z, closest pairing):** The most documented bilateral relationship. They self-named the pairing "06Motherz" for their shared caretaker disposition, then renamed it Muhaez — derived from the Korean for "harmless" — based on a shared wish not to hurt anyone. They share: birth month (April, nine days apart), training history (both at P NATION), same haus (MOD Forest), same sub-units (NXT, Moon), and graduation from Hanlim on the same date. Fans describe them as a "Twisted Identity Duo" — Shion is Korean but carries an energy that reads as Japanese-adjacent to fans; Lynn is Japanese but reads as Korean-adjacent. Whether this is acknowledged or just observed from the outside is uncertain, but it is documented as a recognized thing about them. This is Shion's closest bilateral friendship.
 
-- **Yubin (S8 — closest in the full group):** Multiple sources document that Shion considers Yubin her closest member in the full group of 24. No specific moments are documented in available sources; the claim is consistent across profile compilations. The specific texture of this friendship — what it looks like in practice, what they share — is TBD.
+- **Hayeon (S19 — NXT, very close):** They joined tripleS at the same time as part of the four-member NXT sub-unit (Shion, Lynn, Joobin, Hayeon). The debut experience binds the quartet specifically — a shared entry point into a group that already had formed relationships. Within NXT, Shion and Hayeon are the closest bilateral pairing: they do Cosmo Lives together frequently and share a playful, comfortable dynamic that runs on the easy familiarity of people who have been through the same things at the same time. Hayeon's high-energy, physically expressive quality sits in contrast to Shion's soft-spoken manner; the dynamic works partly because of that gap rather than despite it.
 
-- **Sullin (S22 — 06z):** All three of the 06z line (Shion, Lynn, Sullin) share Moon unit membership. Shion and Lynn live in MOD Forest HAUS; Sullin lives elsewhere — proximity is unit-based rather than residential. No specific Shion–Sullin bilateral moments are documented. The open question about how they communicate given Sullin's still-developing Korean and Shion's soft-spoken manner remains unanswered.
+- **Kotone (S11 — roommate, close):** They live together in MOD Forest HAUS alongside Hayeon, Lynn, Nakyoung, and SeoAh. The closeness that exists is built from the natural intimacy of shared daily life rather than from unit overlap — they are not in a unit together, but they interact off-camera every day. The warmth Kotone extends to people around her, and Shion's attunement to exactly that quality, makes the proximity build into something real. This is a more established friendship than previously noted; it developed through living together, not through content.
 
-- **Kotone (S11 — aspiration):** She has stated she wants to be closer to Kotone, drawn to Kotone's smile and positive energy. Currently an expressed wish, not an established closeness. Worth tracking as the story develops, since Kotone's arc (first to discover Alex) will pull her into significant story territory.
+- **SeoAh (S23 — roommate, close):** Also in MOD Forest HAUS. The closeness is the same structural origin as Kotone — shared living space, off-camera daily interaction. SeoAh's directness and Shion's softness are different registers, but SeoAh is specifically noted (per her profile) as someone who notices when Shion gets talked over. That attentiveness from SeoAh's side is its own form of care.
+
+- **Sohyun (S14 — Japan promotions):** They grew closer during a period of unit promotions in Japan when they roomed together. Sohyun has spoken about bonding with Shion over shared meals during that time. A friendship built in specific circumstances — close quarters, foreign country, the intimacy of eating together — that then persisted after those circumstances ended.
+
+- **Sullin (S22 — 06z):** All three of the 06z line (Shion, Lynn, Sullin) share Moon unit membership. Sullin lives in a different haus from Shion and Lynn. The 06z bond is real; the bilateral Shion–Sullin texture is not yet documented. How they communicate given Sullin's still-developing Korean and Shion's soft-spoken manner is an open question.
 
 - **Yooyeon (S5 — YooSyo, warm but thin):** Named pairing. Both Korean, both in Hatchi and Alphie tour units. The connection is real in the sense that the group has recognized it, and the warmth between them is genuine. But Yooyeon's closer relationships run toward the older, earlier members — the ones whose friendships formed before the group reached its current size. Shion joined later, and by that point Yooyeon's inner circle was already established. What exists is comfortable surface warmth from shared contexts, not depth. The named pairing reflects proximity and affinity, not intimacy. Alex inherits a relationship that requires maintaining a light, easy warmth — not reproducing a close friendship. The gap he creates is subtler than with some members, and may take longer to register.
 
@@ -51,8 +55,9 @@
 
 ## Group Unit Context
 
-- **Moon orbital unit:** Kaede, Sohyun, Lynn, Shion, Sullin, Jiyeon. Shion's closest daily proximity is this unit.
-- **NXT:** Former sub-unit leader. Leadership held quietly.
+- **Moon orbital unit:** Kaede, Sohyun, Lynn, Shion, Sullin, Jiyeon.
+- **NXT:** Four-member sub-unit with Lynn, Joobin, and Hayeon — all joined at the same time. Shion was NXT's sub-unit leader. Leadership held quietly.
+- **MOD Forest HAUS:** Shion lives here alongside Kotone, SeoAh, Hayeon, Lynn, and Nakyoung. This is the confirmed real-world living arrangement; AU haus naming and floor assignment are still TBD.
 
 ---
 
@@ -94,9 +99,9 @@
 
 ## TO CONTINUE
 
-- The Yubin friendship — closest in the full group but no documented texture. Worth establishing before writing any scenes where Shion and Yubin share space.
-- Sullin dynamic — the 06z bond exists but the bilateral texture between Shion and Sullin specifically is open. How do they communicate given the language gap?
-- The aspiration toward Kotone: does this develop into an actual friendship before or after the reveal? Kotone's arc position makes this meaningful.
+- Sullin dynamic — the 06z bond exists but the bilateral texture between Shion and Sullin specifically is open. How do they navigate each other given the language gap?
+- The Hayeon dynamic in the story: Hayeon is consistently fanservice-forward; Shion doesn't shy away from it. What does their Cosmo Live chemistry actually look like — who drives the energy and who follows? Worth establishing before writing them in scenes.
+- The Sohyun friendship has a specific origin (Japan promotions, shared meals). Whether it has deepened beyond that or remained at the level it was formed is open.
 - The voice experience and what it left in her — the clarity she arrived at ("they were wrong") — is worth developing if a scene ever puts her in a position where she has to defend someone else being unfairly reduced. That reflex exists in her.
 
 ---
