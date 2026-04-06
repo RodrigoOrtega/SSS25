@@ -59,6 +59,7 @@ The initial-cold-impression she had of Yooyeon is a story asset. She calibrated 
 
 - **First impression of "Yooyeon" post-swap:** She has a template for "Yooyeon seeming withdrawn." She will apply patience before suspicion.
 - **How quickly they notice something is off:** Later than most. Her attention is outward and associative — she is not tuned to absence. A quieter-than-usual Yooyeon will slot initially into the existing mental category of "Yooyeon having a moment." The gap will accumulate before it registers.
+- **Post-reveal:** Ally haus. Her arrival is not immediate — in the meeting room she's in grief and disorientation, ENFP processing loudly. But she gets to empathy within days: once the grief has a shape, she can hold it alongside "he's a victim too." She commits fourth among the allies. The Kotone connection accelerates the arrival but doesn't determine it; she'd have gotten there herself.
 - **Emotional arc with Alex:** TBD.
 
 ---

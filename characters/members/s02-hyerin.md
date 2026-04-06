@@ -54,6 +54,12 @@ The Visionary Vision structure compounds this. Hyerin leads the unit; Alex is in
 
 ---
 
+## Faction (Post-Reveal)
+
+**Middle A.** Her ESTP pragmatism and voice-of-reason role mean she does not generate sustained contempt. Her Visionary Vision leadership of the unit that Alex is in creates a specific irony: professional authority she cannot revoke over someone she doesn't know what to do with. She does not rush to a position. She watches.
+
+---
+
 ## TO CONTINUE
 
 - Open question: What gives the Soomin connection its depth if it isn't romantic? What do they share or understand about each other that produces that quality?

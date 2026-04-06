@@ -75,7 +75,7 @@
 
 ## Faction (Post-Reveal)
 
-**Likely undecided middle, anchored by the Muhaez orientation.** She will not be able to choose a side that requires hurting someone. The enemy faction requires directed anger she does not carry. The ally position requires comfort with the situation she may not yet have. She will hold the middle not strategically but structurally — because every exit from it costs something she is not willing to spend.
+**Middle B, anchored by the Muhaez orientation.** She will not be able to choose a side that requires hurting someone. The enemy faction requires directed anger she does not carry. The ally position requires a comfort with the situation she may not yet have. She holds the middle not strategically but structurally — every exit from it costs something she is not willing to spend. Her ESFJ attunement to the group's emotional state means she is one of the members most aware of how the haus division is affecting everyone — and most distressed by it — without being able to do anything decisive about it.
 
 ---
 

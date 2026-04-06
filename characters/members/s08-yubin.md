@@ -104,11 +104,19 @@ For Alex, she is the low-stakes recurring presence who is most likely to catch s
 
 ---
 
+## Faction (Post-Reveal)
+
+**Enemy.** Her position is ISTP-flavored: she doesn't shout it, she settles into it. She was in the original eight — the members who have been together longest. The timeline of deception she has personally lived through is the longest of any enemy member outside Seoyeon. The "2Yooz" warmth, real and longstanding, has been revealed as misdirected for months. She goes very still in the meeting room. She doesn't cry or confront. In the days after, when the positions harden, hers is quiet and durable: *this happened in my space and it was wrong.* Not dramatic disgust — settled wrongness that does not revise easily.
+
+Jiwoo (her closest person) is in Middle A. The haus separation adds a specific cost. Yubin has no framework for what Jiwoo carries for her; the haus split puts daily distance between them that is not about their friendship but will affect it.
+
+---
+
 ## TO CONTINUE
 
 - Open question: Does Yubin have any awareness that the Jiyeon dynamic bothers Jiwoo, even at the edges? She is precise about people when she pays attention — but she has no reason to pay attention here.
 - Open question: The Source Music / alternate-path history — does it surface in specific moments, or is it fully integrated background? Worth knowing before writing her in scenes where performance or belonging comes up.
-- Open question: Which faction does she land in post-reveal? Her precision and self-containment make her harder to predict than most.
+- Open question: How does the enemy position affect the Yubin-Jiwoo friendship across different hauses — does the distance create strain, or do they maintain it regardless?
 - Broader group role TBD.
 
 ---

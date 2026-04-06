@@ -57,9 +57,9 @@ The support ecosystem matters too: after the swap, both Yooyeon's anchor functio
 
 ## Role in the Reveal (Arc 4)
 
-**Faction: Undecided, drifting toward ally.**
+**Faction: Middle B, drifting toward ally faster than most.**
 
-Her ESTP pragmatism does not produce calcified positions. She looks at situations and asks what to do with them. The reveal is a fact; she will want to understand its shape rather than assign it a moral weight she holds indefinitely. Her four closest friends are almost certainly in the undecided middle, and she is reading that room. Her arc toward acceptance is not dramatic — she simply arrives there faster than some.
+Her ESTP pragmatism does not produce calcified positions. She looks at situations and asks what to do with them. The reveal is a fact; she will want to understand its shape rather than assign it a moral weight she holds indefinitely. Her Middle B housemates are mostly undecided and she is reading that room. Her arc toward acceptance is not dramatic — she simply arrives there faster than some, probably the first in Middle B to reach genuine coexistence with Alex.
 
 ---
 

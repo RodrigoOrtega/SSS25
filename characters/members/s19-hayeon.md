@@ -125,6 +125,16 @@ She will notice. She pays attention to people even when she's doing the talking.
 
 ## TO CONTINUE
 
+## Faction (Post-Reveal)
+
+**Middle A.** Her ENTP framework-building doesn't generate sustained disgust. The pinky promise scene gives her a specific earlier reference point — she already experienced something going wrong with "Yooyeon" and handled it by asking rather than escalating. That instinct carries into the reveal: she wants to understand the situation, not punish it. She will be one of the earlier middle members to move toward genuine coexistence, though she starts middle because the sheer scale of the reveal requires processing even for her.
+
+Living in Middle A alongside Chaewon — the Mochiz friendship — means the haus itself is not a hardship.
+
+---
+
+## TO CONTINUE
+
 - Open question: Does Hayeon sense what she does not name in the Chaewon dynamic? Is the not-naming conscious management, natural avoidance, or genuine absence of naming?
 - Open question: Which members remain on the "not yet cleared" list as of Day 0 — and which of those does she intend to get to, versus those she has implicitly accepted as permanent exceptions?
 - Open question: Her leadership of Zenith — how settled is she in that role? Does she take it seriously, carry it lightly, or alternate? The advance-drawing origin makes the role feel random to her sometimes, even if she performs confidence.
