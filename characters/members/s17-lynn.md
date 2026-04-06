@@ -70,7 +70,7 @@
 
 ## Faction (Post-Reveal)
 
-**Status: TBD.** Nothing in her profile generates disgust-based enmity. Her instinct is to give, to not track it, to remain present. The middle is the most consistent initial placement. Whether the closeness she builds through VV (with Alex in Yooyeon's place) shifts her toward ally territory is a question for Arc 4–5.
+**Middle B.** Nothing in her profile generates disgust-based enmity. Her instinct is to give, to not track it, to remain present. The Muhaez orientation (shared with Shion) — a stated wish not to hurt anyone — means she cannot easily adopt a hostile position. She starts middle and drifts toward genuine warmth for Alex over time, probably among the fastest-moving Middle B members toward practical ally behavior, even if she doesn't formally commit. The VV closeness that develops with Alex may be the specific context that moves her.
 
 ---
 

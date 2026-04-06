@@ -92,9 +92,19 @@ This makes her a specific kind of witness for Alex. She is not the most emotiona
 
 ## TO CONTINUE
 
+## Faction (Post-Reveal)
+
+**Middle A.** Nothing in her ESFP processing generates sustained enemy-faction contempt. What she does carry is the specific sting of not catching what she was positioned to catch: she knows what performing looks like, and the Peachez friendship has now been retroactively reframed as a performance she didn't read. That produces a complicated, specific grief — not disgust. Her ESFP fast processing means she moves through the acute phase relatively quickly. She will be one of the earlier middle members to find a way to coexist without hostility.
+
+Living in Middle A alongside Jiwoo — her closest friend — means the haus is not a hardship.
+
+---
+
+## TO CONTINUE
+
 - Open question: What specifically has Chaeyeon noticed about Jiwoo and Yubin — is it behavioral, or something more ambient? Does she have a word for it even privately, or just a sense?
 - Open question: Her pre-tripleS career is extensive and she has spoken about what early debut cost her. How much of that sits in her now — is it integrated, something she has processed, or something that surfaces in specific moments?
-- Open question: Which faction does she land in post-reveal? Her experience reading performance gaps makes her a potentially early mover. TBD.
+- Open question: Does Chaeyeon ever have a direct moment with Alex — one where her experience reading performance produces a specific exchange — or does that observation stay internal?
 - Haus assignment TBD — will affect how much daily proximity she has with Alex in Arcs 1–3.
 - Broader group role and Yooyeon relationship depth TBD.
 

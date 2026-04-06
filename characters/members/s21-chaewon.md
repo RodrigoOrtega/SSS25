@@ -65,10 +65,19 @@
 
 ## TO CONTINUE
 
+## Faction (Post-Reveal)
+
+**Middle A.** Her INTP processing holds contradictions without resolving them — she will not rush to a verdict. Her Sun orbital unit connection to Alex (as Yooyeon) was thin; the grief is not as sharp as it is for older members who built something real with Yooyeon. She sits in the middle and watches. Her alien operating logic means she does not feel strong social pressure to match the positions of people around her, which makes her middle placement stable rather than anxious.
+
+Living in Middle A alongside Hayeon — the Mochiz friendship — means the haus is comfortable regardless of the faction question.
+
+---
+
+## TO CONTINUE
+
 - Open question: Is the Chaewon–Hayeon not-naming stable for both of them, or does one carry more awareness of the edge than the other?
 - Open question: What does Chaewon's "am I cute?" energy look like when it doesn't land — when someone is not in the mood, or when she is the one who needs something? Is there a version of her that exists outside the persona, or is the alien quality the thing underneath?
 - Open question: How does she calibrate within the Sun unit's generational dynamic — is she deferential with the older members, or does the alien register make that kind of social hierarchy not fully apply to her?
-- Open question: Where does Chaewon land in the post-reveal factions? Her friendship with Hayeon (ally) and her orbital unit overlap with Yooyeon suggest possible ally pull, but her specific reaction to the swap is not yet established.
 - The Glow unit dynamics (SeoAh, Jiyeon, Sullin) are barely sketched. Will need development as Arc 3 approaches.
 - Chaewon–Yooyeon relationship remains genuinely thin — no documented bilateral moments in the research. Probably needs to be built from unit context rather than direct observation.
 

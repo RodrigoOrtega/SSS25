@@ -62,7 +62,7 @@
 
 ## Faction (Post-Reveal)
 
-**Status: Likely undecided middle.** Her instinct is to observe and hold rather than act or escalate. She is non-confrontational. Her closest relationships (Hayeon, Yubin, Jiwoo, Soomin, Yeonji) are not established enemy or ally — most are undecided as well. Nothing in her profile generates disgust-based enmity, and she is not positioned as someone who would anchor an ally response either. The middle is the most consistent placement with her character. Her early observation of discrepancies in Alex's behavior may eventually inform her movement out of the middle, but not quickly.
+**Middle B.** Her instinct is to observe and hold rather than act or escalate. She is non-confrontational. Nothing in her profile generates disgust-based enmity, and she is not positioned as someone who would anchor an ally response either. She holds the middle with her characteristic composure. Her accumulated observations about Alex pre-reveal (the English thread, the discrepancies she filed without acting on) will eventually factor into how she moves, but not quickly. She processes quietly rather than publicly.
 
 ---
 

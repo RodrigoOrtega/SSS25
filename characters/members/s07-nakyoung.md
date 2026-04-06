@@ -52,10 +52,19 @@ Nakyoung being a friend of Yooyeon's matters for Arc 3: she will have a real ref
 
 ---
 
+## Faction (Post-Reveal)
+
+**Enemy.** Her position is grief-based, not principled cruelty. The specific texture of what she loses is the most intimate Yooyeon connection of any enemy member: the complementary pull, the security of being next to someone who doesn't ask what you're thinking, the beauty she found openly and the laughter she genuinely provoked. When she discovers this was built with someone who wasn't there, the security collapses. For an INFP whose values run deep, this is a violation of something foundational, not just a loss.
+
+Her enemy position sits in painful proximity to Kotone, who is one of her friends and the anchor of the ally haus. That specific discomfort is real and unresolved. She does not argue with Kotone's choice — she simply cannot make it herself.
+
+---
+
 ## TO CONTINUE
 
 - The specific texture of the Nakyoung-Yooyeon friendship is now established: the complementary pull, the security dynamic, the beauty, the cute sulkiness. What remains TBD: how this friendship survives the reveal — or doesn't. The security Nakyoung felt was real, but it was built around someone who was not there. That specific loss will need to be written with care.
 - Open question: The teasing dynamic — does Nakyoung genuinely not mind, or is there some part of it she manages? Her settled quality suggests she's fine, but worth confirming.
+- Open question: How does the Nakyoung-Kotone friendship operate with both of them in opposite hauses? Does she ever go to Kotone, or does the haus boundary hold completely?
 - Broader personality and group role TBD.
 
 ---

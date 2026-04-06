@@ -64,14 +64,12 @@
 - **Open:** How many bedrooms per haus? Do members share bedrooms? If so, who rooms with whom in Yooyeon's haus specifically? This directly affects Alex's available private space in Arcs 1–2.
 
 ### The Hauses — Post-Reveal Faction Assignment
-- **Status:** Partially established
-- **What's established:** One haus = 6 enemies, two hauses = 12 middle, one haus = Alex + 5 allies.
-- **Open:** Which season haus holds which faction? Cannot be decided until faction composition is finalized.
+- **Status:** Partially resolved — composition finalized, season name mapping TBD
+- **What's established:** Ally haus: Alex, Mayu, Kotone, Sullin, Yeonji, Dahyun. Enemy haus: Seoyeon, Nakyoung, Sohyun, Xinyu, Yubin, Soomin. Middle A: Hyerin, Jiwoo, Chaeyeon, Kaede, Hayeon, Chaewon. Middle B: Nien, Lynn, Joobin, Shion, SeoAh, Jiyeon.
+- **Open:** Which season name maps to which faction haus? Floor placement TBD.
 
 ### The Factions — Composition
-- **Status:** Partially established
-- **What's established:** Three factions post-reveal: allies, enemies (disgust-based, not malicious), undecided middle. All agree to contain the secret within the group — no management, no fans, no public knowledge. Seoyeon is in the enemy faction, at least until nearly everyone else has come to terms. Enemy faction confirmed: Seoyeon (anchor, romantic grief), Sohyun (production trust betrayal + androgyny resonance), Xinyu (by addition, follows Sohyun — gateway to acceptance, first to shift). Allies confirmed: Kotone (anchor), Mayu (anchor).
-- **Open:** Nakyoung, Hayeon, Jiyeon flagged as possible enemy faction candidates — hold until remaining member profiles are developed. Full faction composition cannot be finalized until all 24 profiles have sufficient depth. Undecided middle composition TBD. Three additional ally members needed. Three additional enemy members needed. Nien (S13) flagged as uncertain: instinct toward undecided middle, but loyalty pull toward enemy (closest relationships are Xinyu and Seoyeon, both confirmed enemy). Most likely lands in enemy by loyalty rather than conviction — evaluate when haus assignments are finalized.
+- **Status:** Resolved — see Resolved section
 
 ### The Factions — Seoyeon's Arc Out of Enemy Position
 - **Status:** Partially established
@@ -145,3 +143,5 @@
 | Who is the second to know / ally anchor? | Mayu (S16) — Kotone tells her. Mayu watches Seoyeon suffering and becomes the pressure that eventually moves Alex toward telling Seoyeon. Her motivation is compassion, not strategy. | 2026-04-01 |
 | First discoverer emotional profile | Kotone: shaken but controlled, holds silence through Alex's explanation, cries softly, reaches understanding Alex is victim too, agrees to help, recommends Seoyeon innocently | 2026-04-01 |
 | MBTI Audit — all 24 members | Researched against kprofiles, triples fandom wiki, kpop fandom wiki. Three corrections made: Jiwoo S03 INTP→INFP, Nien S13 ESFP→ENFP, Shion S20 ESFP→ESFJ. 21 others confirmed correct. Hyerin noted to have prior type history (ENFP→ISFJ→ESTP); current ESTP confirmed. | 2026-04-03 |
+| The Factions — Composition | **Ally haus:** Alex, Mayu (anchor), Kotone (anchor), Sullin, Yeonji, Dahyun — in order of commitment. **Enemy haus:** Seoyeon (anchor), Nakyoung, Sohyun, Xinyu (first to shift), Yubin, Soomin. **Middle A:** Hyerin, Jiwoo, Chaeyeon, Kaede, Hayeon, Chaewon. **Middle B:** Nien, Lynn, Joobin, Shion, SeoAh, Jiyeon. Faction placement determined by personality-first analysis — what each member's personality does with raw grief in the immediate aftermath of the reveal. Connection-to-ally-or-enemy-members was considered only when it mapped onto a personality mechanism (e.g. Xinyu's emotional porousness absorbing Sohyun's reaction), not as a standalone reason. | 2026-04-05 |
+| The practice room — night of the reveal | Alex cannot return to the Sun haus (Xinyu, enemy, is there). The same night as the group meeting, Mayu moves him to the practice room in the basement and stays with him. Kotone involved from the floor above. This is the first physical expression of Mayu's "I'll be responsible" declaration — not a speech, just her making a bed in the basement and sitting there. | 2026-04-05 |

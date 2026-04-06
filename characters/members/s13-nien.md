@@ -51,13 +51,9 @@ The Yooyeon relationship is load-bearing for Arc 3. The ease Alex fails to repro
 
 ## Faction (Post-Reveal)
 
-**Status: Uncertain — flag for evaluation when haus assignments are finalized.**
+**Middle B.** Her personality is the deciding factor: the connector quality is structural — dividing the room runs against how she moves through the world. Her ENFP instinct does not produce sustained contempt. She ends up in Middle B, not the enemy haus. The loyalty pull toward Xinyu and Seoyeon is real and is felt, but it does not override her personality under personality-first analysis.
 
-Her instinct runs against disgust and against taking hard sides. The connector quality is structural — dividing the room runs against how she moves through the world. On its own, that points toward undecided middle.
-
-Against that: her two closest relationships (Xinyu, Seoyeon) are both confirmed enemy faction. She won't feel the same thing they feel, but loyalty is its own pull. She would not easily stand apart from the people she loves most in the group's most significant conflict.
-
-Most likely outcome: she lands in enemy by loyalty rather than conviction, making her positioning unstable and her the most viable early shift candidate alongside or after Xinyu. But this should be decided when faction composition is finalized against haus structure.
+The cost of this: she is in a different haus from both her closest friends. She is the member of Middle B most likely to spend time in the enemy haus as a visitor — not as a defector, just as someone who cannot hold the separation cleanly.
 
 ---
 

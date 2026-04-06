@@ -95,7 +95,7 @@ Born February 13, 2004 in Yongin, Gyeonggi-do. Her legal name is Ji Seoyeon (지
 - Open question: The Counselling Center function — which members specifically come to her, and what kinds of things do they bring? This affects her visibility in Arc 3 and her relational position post-reveal.
 - Open question: The Lynn friendship — does it have its own texture beyond Moon unit proximity, or does it stay at the level of comfortable co-membership?
 - Story flag: Jiyeon's ballet eye in Visionary Vision is a parallel threat to Kaede's dancer's read. Together they create two different but overlapping danger zones for Alex in rehearsal. Worth coordinating when Arc 3 is planned.
-- Faction post-reveal: TBD. Nothing in her profile generates disgust-based enmity. Her ISTJ reliability and the Kotone friendship (ally) both pull away from the enemy camp. Most likely undecided middle or ally-adjacent. Establish when faction composition is finalized.
+- Faction post-reveal: **Middle B.** Her ISTJ instinct under information this large is to hold still, assess, and not commit before she's ready. She doesn't generate enemy-faction contempt, but she also doesn't move to ally quickly — she processes methodically. She starts middle and may shift toward ally territory over time; the Kotone closeness is a pull in that direction but doesn't override her deliberate pace. She is the Middle B member most likely to eventually move toward ally, but on her own timeline.
 
 ---
 

@@ -94,13 +94,21 @@ The practical constraint Jiwoo operates under is worth separating from the emoti
 
 ---
 
+## Faction (Post-Reveal)
+
+**Middle A.** Her INFP depth means the betrayal of trust runs real — the EVOLution intimacy was not nothing. But she also has a temperament that has already settled one unresolved thing (the Yubin feeling) by deciding the situation is what it is and finding it livable. She applies that same capacity to this. She does not reach contempt. She holds a complicated grief and stays in the middle while she processes it.
+
+Yubin (her closest person) is in the enemy haus. The haus separation doesn't change the friendship — that's not how Jiwoo works — but it adds friction to what was previously unmanaged daily proximity.
+
+---
+
 ## TO CONTINUE
 
 - Open question: Does Jiwoo have any read on the Seoyeon-Yooyeon drift, even partial? She is in EVOLution with both of them; she may have observed the distance without knowing its cause.
 - Open question: Does anyone in the group have a read on Jiwoo's feeling for Yubin, even partly? Or is it fully invisible? Chaeyeon is the most likely candidate — she was their roommate before Yubin was.
 - Open question: What does Jiwoo's relationship with Yooyeon look like pre-swap? They share EVOLution; it is not a distant relationship, but how close is it specifically?
+- Open question: How does the Yubin haus separation affect Jiwoo in Arc 5 — does she move toward the enemy haus to maintain proximity, does the distance accumulate, or does she find a way to hold both?
 - The baking and the ice hockey are both available as Arc 3 texture — small moments of gap between who the group thinks they know and who they actually are.
-- Broader personality and group role TBD.
 
 ---
 

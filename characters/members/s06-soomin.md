@@ -53,12 +53,21 @@ Soomin will be one of the early stress-tests for Alex in Arc 3: she is in the ha
 
 ---
 
+## Faction (Post-Reveal)
+
+**Enemy.** Her route there is specific to her: she was actively monitoring her own reception from "Yooyeon" the entire time — her checking-in habit meant she was paying closer attention to the warmth coming back than most members. Finding out the person who was receiving her wasn't there is not just a betrayal; it is a retroactive void where she was looking specifically. Her ENTP self-awareness fires on herself: she catalogues, rapidly and painfully, how many moments she was checking in with no one. The "daughter" dynamic collapses in the same motion — she was performing a fiction whose shape she never consented to knowing.
+
+Her enemy position is hotter than Yubin's and less durable. She processes fast and moves. She is not the last enemy to shift. But in the initial weeks, the rawness is real.
+
+Yeonji (her close friend) is in the ally haus. That separation adds texture: Yeonji arrived at a position Soomin cannot hold. Whether they maintain the friendship across the haus divide is open.
+
+---
+
 ## TO CONTINUE
 
 - Open question: What gives the Yeonji friendship its texture — is it the chatty-meets-chatty dynamic, shared history, something specific they do together? Worth establishing given how different their engines are.
 - Open question: Does Soomin have any read on the Seoyeon-Yooyeon drift, even partial? Or is the drift invisible to her because she only sees the performative surface of the pair she's been assigned to as "daughter"?
-- Open question: Has she ever had a checking-in moment that actually landed — where someone was honest enough that she genuinely adjusted? If so, who was it?
-- Open question: What is Soomin's relationship with Chaewon specifically — they are in the same daily circle, and Chaewon has the near-romantic Hayeon friendship. Does Soomin have a distinct dynamic with Chaewon, or is she part of the broader group texture?
+- Open question: How does the Soomin-Yeonji friendship operate with one in enemy and one in ally? Does the haus divide strain it, or do they find a way to hold it?
 - Broader personality and group role TBD.
 
 ---

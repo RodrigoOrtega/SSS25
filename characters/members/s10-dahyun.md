@@ -90,11 +90,21 @@ The contrast between her voice and her personality is not just characterization 
 
 ## TO CONTINUE
 
+## Faction (Post-Reveal)
+
+**Ally haus — arrives last among the five.** Her ISFP processing is internal and private; she doesn't commit in the meeting room. But her altruism is constitutive, not a learned habit — once she has processed enough to form a position, the question she naturally arrives at is "what does this person in front of me actually need?" She commits fifth, after private consideration. When she does, it is settled and not provisional.
+
+The Kotone feeling (still pre-conscious) is an accelerant: her gravitational pull toward Kotone in behavior makes the ally haus the direction she was already leaning. But the destination is the same without it.
+
+---
+
+## TO CONTINUE
+
 - Open question: Is Dahyun aware of what she feels toward Kotone, or is it still pre-conscious — showing up in behavior before she has articulated it to herself?
 - Open question: Does Kaede notice the Kotone feeling? Kaede is her closest person; if anyone has picked up on it, it would be her.
 - Open question: Does Dahyun hold any feeling about not being selected for Visionary Vision, or does the logic of it (dance-focused unit, not her primary strength) fully account for it in her mind?
-- Open question: Which faction does she land in post-reveal? Her relationship with Yooyeon was real but not deeply specific — she may not carry the same grief as those closer to her. Her altruism and supportive nature might pull toward the middle or even ally camp. TBD.
 - The self-deprecating "cheerleader or supporting actor" framing — worth tracking as a character note. Does she actually see herself that way, or is it a social habit? A story moment where her real standing is visible to Alex (who doesn't know what she is) could land quietly.
+- Open question: Living in the ally haus alongside Kotone — does the proximity finally surface the feeling Dahyun hasn't named? Or does she continue to inhabit it behaviorally without ever putting words to it?
 
 ---
 

@@ -51,12 +51,21 @@ She is physically affectionate in a casual, unguarded way — will walk up to yo
 
 ---
 
+## Faction (Post-Reveal)
+
+**Middle A.** Her INFP idealism does not produce disgust. Her wish to be loved by everyone runs structurally against holding contempt — an enemy position would require her to close off someone she is in the same room with daily. She can't easily sustain that. But she processes through emotion first and may need time before she can look at Alex without complicated feeling. She starts middle and moves gradually.
+
+Dahyun (her closest person) is in the ally haus. The separation is the real cost for Kaede — not the faction dynamics themselves but the daily distance from the person who makes her feel most confident.
+
+---
+
 ## TO CONTINUE
 
 - The Chaeyeon friendship — did it deepen? Where does it sit by Day 0?
 - Her inner experience of being the first foreign member — this is mostly below the surface now, but it shaped her. Worth developing if she becomes a more central Arc 3 presence.
 - The specific quality of her noticing in rehearsal — when she first senses something wrong about "Yooyeon," what does that feel like for her? Dissonance without a name. Hold for Arc 3.
 - Her competitive streak in relation to Visionary Vision — she's the spine of a dance unit, and suddenly Yooyeon (Alex) is in it with her. How does she carry that unit dynamic?
+- Open question: How does the Dahyun haus separation affect Kaede in Arc 5 — does she drift toward the ally haus through Dahyun, or hold her middle position?
 
 ---
 

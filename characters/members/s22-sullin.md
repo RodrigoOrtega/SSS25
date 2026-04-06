@@ -59,7 +59,7 @@ Sullin is part of an informal internal group that includes Kaede, Kotone, Nien, 
 
 - **Pre-reveal:** Notices things that seem off about "Yooyeon" — small things, the kind everyone notices. Reads it as something personal bothering Yooyeon, does not escalate. Does not push. Consistent with her self-reliant pattern: she sits with observations quietly before naming them.
 - **Discovery:** Finds out at the full group meeting, along with most of the group. Has not been pre-briefed. Whatever framing exists in that room when the information arrives is what she receives.
-- **Post-reveal:** Undecided middle, but moves toward understanding faster than most in that faction. Her foreigner parallel does the work — she has her own framework for what Alex's displacement might feel like, and it activates quickly. She neither escalates against him nor performs ally; she processes, and the processing resolves relatively fast.
+- **Post-reveal:** Ally haus. Her foreigner parallel activates at the group meeting itself — she has her own structural framework for displacement and it fires fast. She commits before the meeting ends or immediately after. She does not arrive at this through reasoning; she recognizes the shape of it from the inside. She is the third to commit (after Mayu and Kotone), not because she was persuaded, but because she was already there.
 - **Emotional arc with Alex:** TBD — no specific scene established yet. Whether she has a direct exchange with Alex post-reveal or whether her arc is more diffuse (behavior, not conversation) is open.
 
 ---
