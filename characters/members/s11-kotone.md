@@ -75,7 +75,7 @@ Her discovery comes not through emotional attunement but through seeing clearly.
 ## Current State
 
 - **Arc position:** Pre-story
-- **Group context (Day 0):** S11; participated in ASSEMBLE24 (May 2024), promotions recently wrapped. EVOLution unit member. Neptune orbital unit. Visionary Vision member — will be in the same unit as Alex (as Yooyeon) when announced.
+- **Group context (Day 0):** S11; participated in ASSEMBLE24 (May 2024), promotions recently wrapped. EVOLution unit member. Neptune orbital unit. Visionary Vision member — will be in the same unit as Alex (as Yooyeon) when announced. Lives in **Spring haus** (Floor 4) with Jiwoo, Alex/Yooyeon, Nakyoung, Xinyu, Mayu. The discovery, the telling of Mayu, and the early ally formation all happen within this haus — she never has to carry the secret across floors.
 - **Emotional state:** —
 - **Relationship to Alex at this point:** —
 - **What she knows:** —

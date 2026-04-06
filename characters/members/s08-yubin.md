@@ -97,7 +97,7 @@ For Alex, she is the low-stakes recurring presence who is most likely to catch s
 ## Current State
 
 - **Arc position:** Pre-story
-- **Group context (Day 0):** S8; participated in ASSEMBLE24 (May 2024), promotions recently wrapped. AAA unit member. LOVElution unit member. Zenith orbital unit. Visionary Vision member — will be in the same unit as Alex (as Yooyeon) when announced.
+- **Group context (Day 0):** S8; participated in ASSEMBLE24 (May 2024), promotions recently wrapped. AAA unit member. LOVElution unit member. Zenith orbital unit. Visionary Vision member — will be in the same unit as Alex (as Yooyeon) when announced. Lives in **Summer haus** (Floor 4) with Seoyeon, Hyerin, Kaede, Sohyun, Chaewon.
 - **Emotional state:** —
 - **Relationship to Alex at this point:** —
 - **What she knows:** —

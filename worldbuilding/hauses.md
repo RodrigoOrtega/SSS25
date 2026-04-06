@@ -24,14 +24,12 @@ The building is managed by MODHAUS. The arrangement has been in place since [TBD
 
 Each haus houses 6 members. Hauses are named after the four seasons.
 
-| Haus | Members | Floor |
-|------|---------|-------|
-| Spring | TBD | TBD |
-| Summer | TBD | TBD |
-| Autumn | TBD | TBD |
-| Winter | TBD | TBD |
-
-Member-to-haus mapping and floor placement: TBD — see Open Questions below.
+| Haus | Floor | Pre-reveal members | → Post-reveal faction |
+|------|-------|-------------------|----------------------|
+| Spring | 4 | Jiwoo (S3), Alex/Yooyeon (S5), Nakyoung (S7), Kotone (S11), Xinyu (S15), Mayu (S16) | Ally |
+| Summer | 4 | Seoyeon (S1), Hyerin (S2), Yubin (S8), Kaede (S9), Sohyun (S14), Chaewon (S21) | Middle A |
+| Autumn | 3 | Chaeyeon (S4), Soomin (S6), Dahyun (S10), Yeonji (S12), Nien (S13), Lynn (S17) | Enemy |
+| Winter | 3 | Joobin (S18), Hayeon (S19), Shion (S20), Sullin (S22), SeoAh (S23), Jiyeon (S24) | Middle B |
 
 ### Haus Interior
 
@@ -49,7 +47,9 @@ Each haus contains:
 
 Members are assigned to hauses by agency arrangement. The initial assignment logic is not explained to members — it is simply how the building was set up. Assignments are stable for extended periods.
 
-> **Author note:** Haus assignment corresponds to orbital unit membership (Sun / Moon / Neptune / Zenith), which does not yet exist as a named concept at story time (Day 0). This correspondence is a meta-level organizational fact for authorial use, not an in-story element.
+The pre-reveal groupings follow a rough debut-cohort logic with practical cross-seeding — earlier members distributed across hauses, newer members clustered together. Spring's Japanese-member pairing (Kotone and Mayu) reflects the kind of practical grouping management would apply without a second thought. Winter's concentration of the newest members (S18–S24) is the most deliberate clustering.
+
+> **Author note:** Post-reveal haus assignments do NOT correspond to orbital unit membership. The factions and their haus placements are determined by personality-based response to the reveal.
 
 ---
 
@@ -58,6 +58,39 @@ Members are assigned to hauses by agency arrangement. The initial assignment log
 Haus assignments rotate periodically — approximately every [TBD — X months]. Rotation is logged with management and treated as routine. The members decide among themselves when to rotate and how; changes are submitted through standard channels. Because rotation is normal and expected, management does not question it.
 
 Seoyeon typically handles practical group-to-management communication, including haus rotation logistics. This becomes relevant in Arc 4.
+
+---
+
+## Pre-Reveal Haus Dynamics (Arcs 1–4)
+
+### Spring haus (Floor 4)
+Jiwoo (S3), Alex/Yooyeon (S5), Nakyoung (S7), Kotone (S11), Xinyu (S15), Mayu (S16)
+
+The haus Alex wakes up in on Day 0. The most narratively loaded pre-reveal space.
+
+- **Kotone and Mayu are already here.** Management's J-Line grouping puts the two people who will anchor the ally haus in Alex's immediate domestic environment. The discovery, the telling, and the early ally formation all happen within the same four walls. The secret never has to cross a floor.
+- **Nakyoung** provides real reference points for how Yooyeon behaves in casual domestic settings, but her INFP instinct is to not press on others' inner lives. She will notice wrongness and give it room rather than push into it. Survivable for Alex in the short term — more dangerous as time accumulates.
+- **Xinyu** has warm but not deep knowledge of Yooyeon — enough to register that things feel off, not enough to demand explanation. She becomes enemy post-reveal, which means three of Alex's six pre-reveal housemates end up in the enemy faction. The Spring haus contains the highest concentration of future enemies of any pre-reveal arrangement.
+- **Jiwoo** is the deliberate choice over Soomin. She has a documented capacity to sit with observations she doesn't act on (the Yubin feeling). She won't broadcast half-formed suspicions through her social network. What she accumulates, she holds — until the group meeting forces it into the open.
+
+### Summer haus (Floor 4)
+Seoyeon (S1), Hyerin (S2), Yubin (S8), Kaede (S9), Sohyun (S14), Chaewon (S21)
+
+Seoyeon's pre-reveal home. The most senior-weighted haus. Seoyeon's role as logistics manager means her haus functions as something close to an informal group hub.
+
+After the reshuffle, Seoyeon has to leave Summer. The paperwork she files — the rotation she submits as routine — displaces her from her own haus. She moves into the enemy Autumn haus. The group's administrative anchor is now living among the people who want Alex gone.
+
+### Autumn haus (Floor 3)
+Chaeyeon (S4), Soomin (S6), Dahyun (S10), Yeonji (S12), Nien (S13), Lynn (S17)
+
+EVOLution-heavy cluster: Chaeyeon, Dahyun, and Yeonji are all EVOLution members, with Soomin and Nien adding documented bilateral warmth (Legend pairing, Soomin + Yeonji; 999z connections, Nien). A naturally coherent haus with a lot of daily verbal energy.
+
+Becomes the enemy haus post-reveal. Kotone and Yeonji — pre-reveal housemates — end up on opposite sides of the faction divide. Kotone leaves for Spring/ally; the enemy members move in. The enemy haus occupies a space that belonged to Kotone, Yeonji, Dahyun.
+
+### Winter haus (Floor 3)
+Joobin (S18), Hayeon (S19), Shion (S20), Sullin (S22), SeoAh (S23), Jiyeon (S24)
+
+The newest members, S18–S24. The most stable pre-to-post arrangement — Winter loses Sullin (to ally) and gains Nien and Lynn from Autumn; Hayeon moves to Middle A. Four members stay: Joobin, Shion, SeoAh, Jiyeon, forming the stable core of Middle B.
 
 ---
 

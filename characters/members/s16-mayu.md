@@ -56,7 +56,7 @@ Kotone tells her. Mayu's role is not discovery — it is what happens after. She
 ## Current State
 
 - **Arc position:** Pre-story
-- **Group context (Day 0):** S16; participated in ASSEMBLE24 (May 2024), promotions recently wrapped. Sun orbital unit member (with Yooyeon, Hyerin, Chaeyeon, Xinyu, Chaewon).
+- **Group context (Day 0):** S16; participated in ASSEMBLE24 (May 2024), promotions recently wrapped. Sun orbital unit member (with Yooyeon, Hyerin, Chaeyeon, Xinyu, Chaewon). Lives in **Spring haus** (Floor 4) with Jiwoo, Alex/Yooyeon, Nakyoung, Kotone, Xinyu. The night of the reveal she moves Alex to the basement practice room and stays with him — the first physical act of the "I'll be responsible" declaration.
 - **Emotional state:** —
 - **Relationship to Alex at this point:** —
 - **What she knows:** —

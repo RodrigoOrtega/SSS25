@@ -55,18 +55,14 @@
 - **Open:** When does she reckon with this? Is it a private arc, or does it surface in a specific scene? Does she reach absolution, or does the story leave it unresolved?
 
 ### The Hauses — Member-to-Haus Mapping
-- **Status:** Unresolved
-- **What's established:** Four hauses named Spring / Summer / Autumn / Winter, 6 members each, corresponding to orbital unit membership at the meta/author level. Which season name maps to which orbital grouping has not been decided. Which hauses are on floor 3 vs floor 4 is also TBD.
-- **Open:** Assign season names to the four orbital groupings. Decide floor placement.
+- **Status:** Resolved — see Resolved section
 
 ### The Hauses — Bedroom and Rooming Arrangements
 - **Status:** Unresolved
-- **Open:** How many bedrooms per haus? Do members share bedrooms? If so, who rooms with whom in Yooyeon's haus specifically? This directly affects Alex's available private space in Arcs 1–2.
+- **Open:** How many bedrooms per haus? Do members share bedrooms? If so, who rooms with whom in Spring haus specifically (Jiwoo, Alex/Yooyeon, Nakyoung, Kotone, Xinyu, Mayu)? This directly affects Alex's available private space in Arcs 1–2.
 
 ### The Hauses — Post-Reveal Faction Assignment
-- **Status:** Partially resolved — composition finalized, season name mapping TBD
-- **What's established:** Ally haus: Alex, Mayu, Kotone, Sullin, Yeonji, Dahyun. Enemy haus: Seoyeon, Nakyoung, Sohyun, Xinyu, Yubin, Soomin. Middle A: Hyerin, Jiwoo, Chaeyeon, Kaede, Hayeon, Chaewon. Middle B: Nien, Lynn, Joobin, Shion, SeoAh, Jiyeon.
-- **Open:** Which season name maps to which faction haus? Floor placement TBD.
+- **Status:** Resolved — see Resolved section
 
 ### The Factions — Composition
 - **Status:** Resolved — see Resolved section
@@ -145,3 +141,4 @@
 | MBTI Audit — all 24 members | Researched against kprofiles, triples fandom wiki, kpop fandom wiki. Three corrections made: Jiwoo S03 INTP→INFP, Nien S13 ESFP→ENFP, Shion S20 ESFP→ESFJ. 21 others confirmed correct. Hyerin noted to have prior type history (ENFP→ISFJ→ESTP); current ESTP confirmed. | 2026-04-03 |
 | The Factions — Composition | **Ally haus:** Alex, Mayu (anchor), Kotone (anchor), Sullin, Yeonji, Dahyun — in order of commitment. **Enemy haus:** Seoyeon (anchor), Nakyoung, Sohyun, Xinyu (first to shift), Yubin, Soomin. **Middle A:** Hyerin, Jiwoo, Chaeyeon, Kaede, Hayeon, Chaewon. **Middle B:** Nien, Lynn, Joobin, Shion, SeoAh, Jiyeon. Faction placement determined by personality-first analysis — what each member's personality does with raw grief in the immediate aftermath of the reveal. Connection-to-ally-or-enemy-members was considered only when it mapped onto a personality mechanism (e.g. Xinyu's emotional porousness absorbing Sohyun's reaction), not as a standalone reason. | 2026-04-05 |
 | The practice room — night of the reveal | Alex cannot return to the Sun haus (Xinyu, enemy, is there). The same night as the group meeting, Mayu moves him to the practice room in the basement and stays with him. Kotone involved from the floor above. This is the first physical expression of Mayu's "I'll be responsible" declaration — not a speech, just her making a bed in the basement and sitting there. | 2026-04-05 |
+| The Hauses — Member-to-Haus Mapping | **Pre-reveal:** Spring (Floor 4): Jiwoo, Alex/Yooyeon, Nakyoung, Kotone, Xinyu, Mayu. Summer (Floor 4): Seoyeon, Hyerin, Yubin, Kaede, Sohyun, Chaewon. Autumn (Floor 3): Chaeyeon, Soomin, Dahyun, Yeonji, Nien, Lynn. Winter (Floor 3): Joobin, Hayeon, Shion, Sullin, SeoAh, Jiyeon. **Post-reveal:** Spring → Ally. Summer → Middle A. Autumn → Enemy. Winter → Middle B. Season name mapping: Spring = thaw/emergence (ally); Autumn = loss/grief (enemy); Summer = full presence unresolved (middle A); Winter = held still (middle B). | 2026-04-05 |

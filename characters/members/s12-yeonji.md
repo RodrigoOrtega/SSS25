@@ -67,7 +67,7 @@ The initial-cold-impression she had of Yooyeon is a story asset. She calibrated 
 ## Current State
 
 - **Arc position:** Pre-story
-- **Group context (Day 0):** S12; participated in ASSEMBLE24 (May 2024), promotions recently wrapped. EVOLution unit member. Zenith orbital unit. Visionary Vision member — will be in the same unit as Alex (as Yooyeon) when announced.
+- **Group context (Day 0):** S12; participated in ASSEMBLE24 (May 2024), promotions recently wrapped. EVOLution unit member. Zenith orbital unit. Visionary Vision member — will be in the same unit as Alex (as Yooyeon) when announced. Lives in **Autumn haus** (Floor 3) with Chaeyeon, Soomin, Dahyun, Nien, Lynn. Pre-reveal housemate of Kotone; they are in the same space until the reshuffle.
 - **Emotional state:** —
 - **Relationship to Alex at this point:** —
 - **What she knows:** —

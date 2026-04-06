@@ -44,7 +44,7 @@ She is physically affectionate in a casual, unguarded way — will walk up to yo
 ## Current State
 
 - **Arc position:** Pre-story
-- **Group context (Day 0):** ASSEMBLE24 promotions recently wrapped. LOVElution active. Visionary Vision not yet announced — Gravity announcement expected end of first week. Moon orbital unit member. In the first cohort (S1–S10); has been with the group since early formation.
+- **Group context (Day 0):** ASSEMBLE24 promotions recently wrapped. LOVElution active. Visionary Vision not yet announced — Gravity announcement expected end of first week. Moon orbital unit member. In the first cohort (S1–S10); has been with the group since early formation. Lives in **Summer haus** (Floor 4) with Seoyeon, Hyerin, Yubin, Sohyun, Chaewon.
 - **Emotional state:** —
 - **Relationship to Alex at this point:** —
 - **What she knows:** —

@@ -45,7 +45,7 @@ Nakyoung being a friend of Yooyeon's matters for Arc 3: she will have a real ref
 ## Current State
 
 - **Arc position:** Pre-story
-- **Group context (Day 0):** S7; participated in ASSEMBLE24 (May 2024), promotions recently wrapped. AAA unit member. EVOLution unit member. Neptune orbital unit. Visionary Vision member — will be in the same unit as Alex (as Yooyeon) when announced.
+- **Group context (Day 0):** S7; participated in ASSEMBLE24 (May 2024), promotions recently wrapped. AAA unit member. EVOLution unit member. Neptune orbital unit. Visionary Vision member — will be in the same unit as Alex (as Yooyeon) when announced. Lives in **Spring haus** (Floor 4) with Jiwoo, Alex/Yooyeon, Kotone, Xinyu, Mayu — highest concentration of future enemies of any pre-reveal haus.
 - **Emotional state:** —
 - **Relationship to Alex at this point:** —
 - **What she knows:** —

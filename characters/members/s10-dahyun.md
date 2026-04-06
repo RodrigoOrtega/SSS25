@@ -81,7 +81,7 @@ The contrast between her voice and her personality is not just characterization 
 ## Current State
 
 - **Arc position:** Pre-story
-- **Group context (Day 0):** S10; participated in ASSEMBLE24 (May 2024), promotions recently wrapped. LOVElution unit member. Neptune orbital unit. Leader and center of Aria (vocal sub-unit). Not selected for Visionary Vision — which is dance-focused; her exclusion is logical on paper, and whether she holds any feeling about it is TBD.
+- **Group context (Day 0):** S10; participated in ASSEMBLE24 (May 2024), promotions recently wrapped. LOVElution unit member. Neptune orbital unit. Leader and center of Aria (vocal sub-unit). Not selected for Visionary Vision — which is dance-focused; her exclusion is logical on paper, and whether she holds any feeling about it is TBD. Lives in **Autumn haus** (Floor 3) with Chaeyeon, Soomin, Yeonji, Nien, Lynn.
 - **Emotional state:** Something building toward Kotone, unnamed and not yet acted on.
 - **Relationship to Alex at this point:** —
 - **What she knows:** —

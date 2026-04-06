@@ -83,7 +83,7 @@ This makes her a specific kind of witness for Alex. She is not the most emotiona
 ## Current State
 
 - **Arc position:** Pre-story
-- **Group context (Day 0):** S4; participated in ASSEMBLE24 (May 2024), promotions recently wrapped. +(KR)ystal Eyes unit member. EVOLution unit member. Sun orbital unit. Not selected for Visionary Vision.
+- **Group context (Day 0):** S4; participated in ASSEMBLE24 (May 2024), promotions recently wrapped. +(KR)ystal Eyes unit member. EVOLution unit member. Sun orbital unit. Not selected for Visionary Vision. Lives in **Autumn haus** (Floor 3) with Soomin, Dahyun, Yeonji, Nien, Lynn.
 - **Emotional state:** —
 - **Relationship to Alex at this point:** —
 - **What she knows:** —
