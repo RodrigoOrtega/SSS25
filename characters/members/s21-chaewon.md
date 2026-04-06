@@ -56,7 +56,7 @@
 ## Current State
 
 - **Arc position:** Pre-story
-- **Group context (Day 0):** S21; participated in ASSEMBLE24 (May 2024). Currently promoting with Glow (*Inner Dance*). Sun orbital unit member.
+- **Group context (Day 0):** S21; participated in ASSEMBLE24 (May 2024). Currently promoting with Glow (*Inner Dance*). Sun orbital unit member. Lives in **Summer haus** (Floor 4) with Seoyeon, Hyerin, Yubin, Kaede, Sohyun.
 - **Emotional state:** —
 - **Relationship to Alex at this point:** —
 - **What she knows:** —

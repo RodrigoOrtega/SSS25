@@ -83,7 +83,7 @@ Her resolution, when it comes, is fully her own. Not derivative of anyone else's
 ## Current State
 
 - **Arc position:** Pre-story
-- **Group context (Day 0):** S14; participated in ASSEMBLE24 (May 2024), promotions recently wrapped. LOVElution unit member. Moon orbital unit. Visionary Vision member — will be in the same unit as Alex (as Yooyeon) when announced.
+- **Group context (Day 0):** S14; participated in ASSEMBLE24 (May 2024), promotions recently wrapped. LOVElution unit member. Moon orbital unit. Visionary Vision member — will be in the same unit as Alex (as Yooyeon) when announced. Lives in **Summer haus** (Floor 4) with Seoyeon, Hyerin, Yubin, Kaede, Chaewon.
 - **Emotional state:** —
 - **Relationship to Alex at this point:** —
 - **What she knows:** —

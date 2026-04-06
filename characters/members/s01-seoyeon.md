@@ -58,7 +58,7 @@ Alex inherits a damaged relationship whose damage he cannot see. He will navigat
 ## Current State
 
 - **Arc position:** Pre-story
-- **Group context (Day 0):** S1; participated in ASSEMBLE24 (May 2024), promotions recently wrapped. EVOLution unit member. Not in Visionary Vision.
+- **Group context (Day 0):** S1; participated in ASSEMBLE24 (May 2024), promotions recently wrapped. EVOLution unit member. Not in Visionary Vision. Lives in **Summer haus** (Floor 4) with Hyerin, Yubin, Kaede, Sohyun, Chaewon. Post-reveal she files the rotation paperwork that displaces her from her own haus and moves into Autumn (enemy).
 - **Emotional state:** The unresolved thing with Yooyeon is present but managed. She has built around it. She functions fully — in her role, in her relationships with other members, in the group. It is not consuming her. It sits.
 - **Relationship to Alex at this point:** —
 - **What she knows:** —

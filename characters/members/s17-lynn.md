@@ -85,7 +85,7 @@
 ## Current State
 
 - **Arc position:** Pre-story
-- **Group context (Day 0):** S17; participated in ASSEMBLE24 (May 2024), promotions recently wrapped. Moon orbital unit member. Company has pre-selected her for Visionary Vision, which has not yet been announced publicly.
+- **Group context (Day 0):** S17; participated in ASSEMBLE24 (May 2024), promotions recently wrapped. Moon orbital unit member. Company has pre-selected her for Visionary Vision, which has not yet been announced publicly. Lives in **Autumn haus** (Floor 3) with Chaeyeon, Soomin, Dahyun, Yeonji, Nien.
 - **Emotional state:** —
 - **Relationship to Alex at this point:** —
 - **What she knows:** —

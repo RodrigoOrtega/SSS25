@@ -68,7 +68,7 @@ The cost of this: she is in a different haus from both her closest friends. She 
 ## Current State
 
 - **Arc position:** Pre-story
-- **Group context (Day 0):** LOVElution unit member; participated in ASSEMBLE24 (May 2024). Visionary Vision member — will be in the same unit as Alex (as Yooyeon) when it is announced. Lives in the Ultimate Foreignerz' Room with Kaede (S9), Mayu (S16), and Chaewon (S21) — the room defined by shared foreign-line identity.
+- **Group context (Day 0):** LOVElution unit member; participated in ASSEMBLE24 (May 2024). Visionary Vision member — will be in the same unit as Alex (as Yooyeon) when it is announced. Lives in **Autumn haus** (Floor 3) with Chaeyeon, Soomin, Dahyun, Yeonji, Lynn. Note: the "Ultimate Foreignerz' Room" reference in earlier drafts was real-world arrangement and is not carried into the AU.
 - **Emotional state:** —
 - **Relationship to Alex at this point:** —
 - **What she knows:** —

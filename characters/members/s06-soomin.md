@@ -46,7 +46,7 @@ Soomin will be one of the early stress-tests for Alex in Arc 3: she is in the ha
 ## Current State
 
 - **Arc position:** Pre-story
-- **Group context (Day 0):** S6; participated in ASSEMBLE24 (May 2024), promotions recently wrapped. +(KR)ystal Eyes unit member. EVOLution unit member. Zenith orbital unit. Not selected for Visionary Vision.
+- **Group context (Day 0):** S6; participated in ASSEMBLE24 (May 2024), promotions recently wrapped. +(KR)ystal Eyes unit member. EVOLution unit member. Zenith orbital unit. Not selected for Visionary Vision. Lives in **Autumn haus** (Floor 3) with Chaeyeon, Dahyun, Yeonji, Nien, Lynn.
 - **Emotional state:** —
 - **Relationship to Alex at this point:** —
 - **What she knows:** —

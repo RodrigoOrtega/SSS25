@@ -73,7 +73,7 @@ Her shift creates distance from Sohyun. Sohyun, now holding the position alone, 
 ## Current State
 
 - **Arc position:** Pre-story
-- **Group context (Day 0):** S15; participated in ASSEMBLE24 (May 2024), promotions recently wrapped. LOVElution unit member. Sun orbital unit. Visionary Vision member — will be in the same unit as Alex (as Yooyeon) when announced.
+- **Group context (Day 0):** S15; participated in ASSEMBLE24 (May 2024), promotions recently wrapped. LOVElution unit member. Sun orbital unit. Visionary Vision member — will be in the same unit as Alex (as Yooyeon) when announced. Lives in **Spring haus** (Floor 4) with Jiwoo, Alex/Yooyeon, Nakyoung, Kotone, Mayu. Her presence in Alex's haus is the reason he cannot return there the night of the reveal.
 - **Emotional state:** Carrying real feelings for Sohyun, expressed through the fanservice register that keeps them deniable. Not in distress — this is a managed state, not an acute one. She has found a way to be close to Sohyun that feels sustainable, even if it has limits she hasn't examined.
 - **Relationship to Alex at this point:** —
 - **What she knows:** —

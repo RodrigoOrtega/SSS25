@@ -87,7 +87,7 @@ The practical constraint Jiwoo operates under is worth separating from the emoti
 ## Current State
 
 - **Arc position:** Pre-story
-- **Group context (Day 0):** S3; participated in ASSEMBLE24 (May 2024), promotions recently wrapped. +(KR)ystal Eyes unit member. EVOLution unit member. Zenith orbital unit.
+- **Group context (Day 0):** S3; participated in ASSEMBLE24 (May 2024), promotions recently wrapped. +(KR)ystal Eyes unit member. EVOLution unit member. Zenith orbital unit. Lives in **Spring haus** (Floor 4) with Alex/Yooyeon, Nakyoung, Kotone, Xinyu, Mayu.
 - **Emotional state:** Settled. The feeling for Yubin is present and named to herself; it does not press on her. She is not waiting for anything to change.
 - **Relationship to Alex at this point:** —
 - **What she knows:** —
@@ -97,6 +97,10 @@ The practical constraint Jiwoo operates under is worth separating from the emoti
 ## Faction (Post-Reveal)
 
 **Middle A.** Her INFP depth means the betrayal of trust runs real — the EVOLution intimacy was not nothing. But she also has a temperament that has already settled one unresolved thing (the Yubin feeling) by deciding the situation is what it is and finding it livable. She applies that same capacity to this. She does not reach contempt. She holds a complicated grief and stays in the middle while she processes it.
+
+She was Alex's pre-reveal housemate — Spring haus. She lived with him, noticed things were wrong, and held those observations without broadcasting them. When the group meeting arrives she has weeks of accumulated data she's been sitting with alone. She is one of the very few middle members who already knows something was wrong before being told. What she does with that distinction is open.
+
+Post-reveal she moves from Spring to Summer (Middle A). She leaves the haus she knew — where she watched the wrongness accumulate — and moves in with Hyerin, Chaeyeon, Kaede, Hayeon, Chaewon. She carries everything she observed into a space that has no idea what she was living through.
 
 Yubin (her closest person) is in the enemy haus. The haus separation doesn't change the friendship — that's not how Jiwoo works — but it adds friction to what was previously unmanaged daily proximity.
 

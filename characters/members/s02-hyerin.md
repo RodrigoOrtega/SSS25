@@ -47,7 +47,7 @@ The Visionary Vision structure compounds this. Hyerin leads the unit; Alex is in
 ## Current State
 
 - **Arc position:** Pre-story
-- **Group context (Day 0):** S2; participated in ASSEMBLE24 (May 2024), promotions recently wrapped. AAA unit member. LOVElution unit member. Visionary Vision member — in the same unit as Alex (as Yooyeon). Sun orbital unit.
+- **Group context (Day 0):** S2; participated in ASSEMBLE24 (May 2024), promotions recently wrapped. AAA unit member. LOVElution unit member. Visionary Vision member — in the same unit as Alex (as Yooyeon). Sun orbital unit. Lives in **Summer haus** (Floor 4) with Seoyeon, Yubin, Kaede, Sohyun, Chaewon.
 - **Emotional state:** —
 - **Relationship to Alex at this point:** —
 - **What she knows:** —
