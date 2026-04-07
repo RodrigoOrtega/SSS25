@@ -19,6 +19,29 @@ The story does not explain the swap. It is not a magical system, not a sci-fi de
 
 ---
 
+## The Dream State (Third Mechanism)
+
+### What It Is
+Yooyeon did not simply disappear. She exists in a state that manifests through Alex's dreams. From Arc 2 onward, Alex sees her in his dreams — or she appears there. He tries to reach her, to speak to her. He cannot quite do either. The contact is always partial: she is visible but unclear, present but not reachable. The gap between them in the dream space feels like the wrong kind of distance.
+
+These sequences are not frequent or dramatic. They are recurring, brief, and emotionally precise. Alex wakes from them carrying something he can't name.
+
+### What Is Established
+- The dreams begin in Arc 2 and recur through Arc 5
+- Yooyeon can be perceived but not clearly communicated with
+- The gap cannot be closed from Alex's side
+- The dream state gives Yooyeon some form of perception — she has watched enough of Alex's situation to make an informed final choice
+
+### What Remains Unresolved (Intentionally)
+- The exact mechanism of Yooyeon's perception (can she observe waking-life events, or only the dream contacts?)
+- Whether she reaches back toward Alex in the near-contact moments, or holds the distance — this defines her character across the story's full arc (see open-questions.md)
+- What the dream state is like for her — whether it is peace, limbo, or something else
+
+### The Ending Function
+A return mechanism exists — a way for Yooyeon to come back to her body. The process would cost Alex his existence. Before that mechanism can be used, Yooyeon breaks it herself. The dreams stop. Alex wakes up one day and she is simply gone from that space. He does not know she chose this. The story does not explain how she broke it. The mechanism of the swap was never explained; the mechanism of its ending is not explained either.
+
+---
+
 ## The AU Divergence
 
 This story takes place in an alternate universe that is otherwise identical to the real world, with one exception: the swap occurred. The tripleS group, its members, and K-pop industry function exactly as in reality up to the point the story begins.
