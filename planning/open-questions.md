@@ -21,7 +21,7 @@
 
 ### The Reveal — Mechanism of First Discovery
 - **Status:** Unresolved
-- **What's established:** The discovery needs to produce "you're not Yooyeon" as a conclusion, not just "something is wrong with Yooyeon." That requires a trigger more concrete than behavioral accumulation — something that makes the replacement conclusion unavoidable.
+- **What's established:** The discovery needs to produce "you're not Yooyeon" as a conclusion, not just "something is wrong with Yooyeon." That requires a trigger more concrete than behavioral accumulation — something that makes the replacement conclusion unavoidable. The identity leak subplot (gradual from Day 0) provides the accumulating texture Kotone reads; the specific trigger is the thing that converts "pattern" into "conclusion."
 - **Open:** What is that trigger? Options to consider: something Alex says that Yooyeon could not have known / something Alex does not know that Yooyeon would have / a physical or verbal slip that has no alternative explanation.
 
 ### The Reveal — Seoyeon's Confrontation Scene
@@ -84,6 +84,31 @@
 
 ---
 
+## Ending and Third Mechanism
+
+### The Bittersweet Ending — The Dream Thread Mechanics
+- **Status:** Partially established
+- **What's established:** Alex sees Yooyeon in his dreams from Arc 2 onward. Contact is partial — she is visible but unclear, present but not reachable. The gap cannot be closed. The dreams stop when Yooyeon makes her final choice (breaking the return mechanism). See subplots.md — The Dream Thread.
+- **Open:** In the moments when Alex almost reaches her — when the gap almost closes — does she reach back or hold the distance? This is the defining character question for Yooyeon across the story's full arc. If she reaches back, her sacrifice reads as love. If she holds the distance, it reads as a decision made in private, without involving him. Decision required before writing any dream sequence.
+
+### The Bittersweet Ending — Yooyeon's Awareness
+- **Status:** Unresolved
+- **What's established:** For the ending to work, Yooyeon must have sufficient awareness of what Alex has built in her life to make an informed choice to surrender her return. She has been watching — but the mechanism of that watching is not yet defined.
+- **Open:** What can Yooyeon perceive from the dream state? Can she observe events in her waking life? Is her knowledge of Alex's situation limited to the dream contacts, or does she have broader perception? This affects how complete her choice can be.
+
+### The Bittersweet Ending — The Moment of Yooyeon's Choice
+- **Status:** Unresolved
+- **What's established:** Yooyeon breaks the return mechanism herself. The dreams stop. Alex doesn't know she did it consciously.
+- **Open:** When in Arc 5 does this happen — before or after the assault scene, before or after Seoyeon's arc begins to crack? What does the moment look like from Alex's side — he simply wakes up one day and she's gone from the dream space? Does he try to reach her again after that, or does he understand without understanding why?
+
+### The Subplot — Member's Personal Crisis
+- **Status:** Unresolved
+- **Open:** Who is the member, and what is the crisis? Must be someone in Alex's immediate orbit (Spring haus or close contact). The crisis should thematically rhyme with one of Alex's themes (isolation, conditional care, the gap between public and private self) without duplicating it. Arc placement (3 or 5) depends on who and what.
+
+### The Subplot — Kotone-Yeonji Resolution
+- **Status:** Unresolved
+- **Open:** Does Kotone tell Yeonji the truth before the group meeting, or does Yeonji find out at the meeting with everyone else — having been unknowingly lied to by her closest person? Each path has distinct consequences for both characters.
+
 ## Character Questions
 
 ### Seoyeon
@@ -142,3 +167,7 @@
 | The Factions — Composition | **Ally haus:** Alex, Mayu (anchor), Kotone (anchor), Sullin, Yeonji, Dahyun — in order of commitment. **Enemy haus:** Seoyeon (anchor), Nakyoung, Sohyun, Xinyu (first to shift), Yubin, Soomin. **Middle A:** Hyerin, Jiwoo, Chaeyeon, Kaede, Hayeon, Chaewon. **Middle B:** Nien, Lynn, Joobin, Shion, SeoAh, Jiyeon. Faction placement determined by personality-first analysis — what each member's personality does with raw grief in the immediate aftermath of the reveal. Connection-to-ally-or-enemy-members was considered only when it mapped onto a personality mechanism (e.g. Xinyu's emotional porousness absorbing Sohyun's reaction), not as a standalone reason. | 2026-04-05 |
 | The practice room — night of the reveal | Alex cannot return to the Sun haus (Xinyu, enemy, is there). The same night as the group meeting, Mayu moves him to the practice room in the basement and stays with him. Kotone involved from the floor above. This is the first physical expression of Mayu's "I'll be responsible" declaration — not a speech, just her making a bed in the basement and sitting there. | 2026-04-05 |
 | The Hauses — Member-to-Haus Mapping | **Pre-reveal:** Spring (Floor 4): Jiwoo, Alex/Yooyeon, Nakyoung, Kotone, Xinyu, Mayu. Summer (Floor 4): Seoyeon, Hyerin, Yubin, Kaede, Sohyun, Chaewon. Autumn (Floor 3): Chaeyeon, Soomin, Dahyun, Yeonji, Nien, Lynn. Winter (Floor 3): Joobin, Hayeon, Shion, Sullin, SeoAh, Jiyeon. **Post-reveal:** Spring → Ally. Summer → Middle A. Autumn → Enemy. Winter → Middle B. Season name mapping: Spring = thaw/emergence (ally); Autumn = loss/grief (enemy); Summer = full presence unresolved (middle A); Winter = held still (middle B). | 2026-04-05 |
+| Subplot framework — six confirmed subplots | Yooyeon trail (investigation, Arc 2–3+), identity leak (narrative/practical pressure, Day 0 through Arc 4), dream thread (investigation/thematic, Arc 2 through Arc 5 end), Kotone-Yeonji (relational, Arc 3–4), member's personal crisis (thematic mirror, Arc 3 or 5 TBD), Seoyeon before the reveal (relational, Arc 3). Full documentation in planning/subplots.md. | 2026-04-06 |
+| Bittersweet ending branch — chosen | The becoming / Yooyeon's sacrifice. Yooyeon, present in the dream state throughout the story, breaks the return mechanism herself when the moment comes — knowing what it costs. She has watched Alex build something in her life and knows what she would be returning to. The dreams stop. Alex does not know she chose this consciously. He continues in her body, carrying a gift he didn't know was given deliberately. Full documentation in outline.md Arc 6. | 2026-04-06 |
+| Third mechanism — Yooyeon's location and the dream state | Yooyeon exists in a dream state. Alex sees her in his dreams from Arc 2 onward — she is visible but unclear, present but not reachable. Contact is always partial. The gap cannot be fully closed. She has perception of her waking life and of Alex's situation (mechanism of that perception is unresolved — see open questions). The dreams are the story's primary vehicle for her presence. | 2026-04-06 |
+| Yooyeon's pre-swap situation | Parents were pressuring her to finish university. She was struggling to balance the idol career and academic obligations — the weight of trying to maintain both was real. Her life had its own exhaustion before the swap. In the dream state she is freed from that pressure while watching Alex carry what she left behind. This is part of what makes her choice to not return comprehensible from the inside — not purely altruistic, but a genuine decision with reasons of her own. | 2026-04-06 |

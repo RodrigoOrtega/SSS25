@@ -36,6 +36,8 @@ Tone note: This arc should feel claustrophobic and fragmented. Short scenes, bro
 
 **Goal:** Alex navigating Yooyeon's private life — her space, body, routines — without anyone noticing.
 
+> **Dream thread begins here.** The first appearance of Yooyeon in the dream space — disorienting, unresolved, the gap between them already present. See subplots.md for full dream thread documentation.
+
 Key beats:
 - Learning the physical reality of inhabiting a different body (different height, different face, different physical habits)
 - Discovering Yooyeon's apartment, belongings, phone — her private world
@@ -155,8 +157,21 @@ All four endings share the same entry point but diverge based on what Alex choos
 ### Bad for Alex
 Alex's sense of self erodes entirely. He stops correcting people who call him Yooyeon. He stops trying. The ending is quiet and devastating — he is still there, but he is not Alex anymore.
 
-### Bittersweet
-Some form of resolution occurs — perhaps partial return, perhaps acceptance — but at permanent cost. He gains something and loses something of equal weight. The reader is left with both grief and something like peace.
+### Bittersweet — The Becoming (Yooyeon's Sacrifice)
+**Chosen ending. Established 2026-04-06.**
+
+The return mechanism exists — there is a way for Yooyeon to come back to her body. But the process would cost Alex his existence. Yooyeon, present in the dream state throughout the story (see subplots.md — The Dream Thread), has been watching. She has seen what Alex built in her life: the relationships, the first time care landed, the person he became through sustained, inescapable contact with people who would not let him disappear. She has also seen what she would be returning to — the university pressure, the impossible balance of academia and idol career, the exhaustion she carried before the swap.
+
+When the moment comes, she breaks the mechanism herself. Not from despair — from a genuine choice, made with full awareness of what it costs and what it gives. She is not returning. Alex continues.
+
+The dreams stop. Alex wakes up one day and she is simply gone from that space — not dramatically, just absent where a presence used to be. He does not know she chose this consciously. He cannot thank her, refuse her, or argue with her. He has to build the rest of his life carrying a gift he doesn't know was given deliberately.
+
+**The bittersweet balance:**
+- **Loss:** Yooyeon is permanently gone — not absent as before, but actively erased by her own hand. The members lose her more finally than they'd already lost her. Alex carries the weight of a life given to him by someone he never got to know.
+- **Growth:** Alex has been changed by years of embodied experience. He learned to receive care. He let people in. He is not who he was before the swap — and the swap has ended, but he hasn't reverted.
+- **New equilibrium:** Things can never go back to how they were. Yooyeon's choice closes that. What remains is Alex — changed, marked, holding her life — and 23 people who have been through something no one outside the group will ever understand.
+
+**The question the ending holds:** What does he do with it? The story ends before the answer is complete. The reader is left with him standing in a life that was given rather than chosen, by someone who saw what he could become and decided that was worth keeping.
 
 ### Bad for Yooyeon
 Yooyeon's return (or the possibility of it) is foreclosed by what Alex has done or become. She is the one who disappears, or is diminished. Morally complex — Alex may not have meant for this.
