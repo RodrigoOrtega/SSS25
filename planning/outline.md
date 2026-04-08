@@ -173,6 +173,54 @@ The dreams stop. Alex wakes up one day and she is simply gone from that space �
 
 **The question the ending holds:** What does he do with it? The story ends before the answer is complete. The reader is left with him standing in a life that was given rather than chosen, by someone who saw what he could become and decided that was worth keeping.
 
+---
+
+### The Final Dream — Scene Notes
+**Established 2026-04-08.**
+
+This is the last of Alex's recurring dream sequences. It is structurally distinct from all previous dreams in one way: the gap closes from her side. He does not reach her — she comes to him, or the space between them collapses, and she is suddenly close enough to be seen clearly for the first time.
+
+**What has been true of all previous dreams (the baseline the final scene breaks):**
+- She is always present but not reachable — visible but unclear
+- The distance doesn't close no matter how he moves toward it
+- He learns over time to wait rather than reach
+- Contact is always partial; no words, no real communication
+- He wakes carrying something he can't name
+
+**What is different in the final dream:**
+- The gap closes from her side — she moves toward him, not the other way
+- He can see her face clearly for the first time — which means seeing his own face approaching him, a register of strangeness the scene should hold
+- She speaks directly. Two lines. The first time in the entire dream thread she has communicated in words.
+
+**The two lines (established):**
+> *"I have somewhere, some place to go."*
+> *"And you do too."*
+
+**What the first line does:** reframes her choice entirely. She is not sacrificing herself into nothing — she is departing toward something. The destination is never named. It could be an afterlife, another existence, something the story has no word for. It does not matter and must not be explained. The register is: a person with somewhere to be, settling what she's leaving behind before she goes.
+
+**What the second line does:** gives Alex permission to call the life his. For a man who spent thirty years believing he didn't fully belong anywhere, being told "you have somewhere to go" — by the person whose life he occupied — is the specific thing that can release something. He doesn't have to understand what she meant for it to work on him. He carries it without knowing what to do with it yet.
+
+**Alex's behavior in the scene:**
+- He reaches — both hands, across the last distance, knowing what he's doing
+- He tries to argue, to offer himself in her place — this impulse (the self-sacrifice offer) is the completion of that arc; she closes the door on it with "and you do too"
+- She looks at him the way you look at something you've been watching for a long time — not studying, not judging; the look of someone who has already decided
+- Then she's gone. He's reaching for nothing.
+
+**The waking:**
+- He wakes before it's light
+- He lies still and feels the shape of what she left — doesn't know yet whether it's the saddest thing that's ever happened to him
+- The closing note: "and you do too" sitting with him, unresolved, the story ending before he knows what to do with it
+
+**Tone:** Quiet. Not dramatic. The horror, if there is any, is the stillness — the absence where a presence used to be. No tears, no breakdown. Alex's voice is measured even here. The grief arrives as stillness.
+
+**What is deliberately left unexplained:**
+- Where she is going
+- Whether she could hear him trying to argue
+- Whether she was at peace or not
+- What the dream state was like for her throughout
+
+**Draft exists at:** `drafts/arc-06-bittersweet/final-dream.md` — written as a reference, not a final version. Review before writing the actual chapter.
+
 ### Bad for Yooyeon
 Yooyeon's return (or the possibility of it) is foreclosed by what Alex has done or become. She is the one who disappears, or is diminished. Morally complex — Alex may not have meant for this.
 

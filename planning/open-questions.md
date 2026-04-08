@@ -97,9 +97,14 @@
 - **Open:** What can Yooyeon perceive from the dream state? Can she observe events in her waking life? Is her knowledge of Alex's situation limited to the dream contacts, or does she have broader perception? This affects how complete her choice can be.
 
 ### The Bittersweet Ending — The Moment of Yooyeon's Choice
+- **Status:** Partially resolved
+- **What's established:** Yooyeon breaks the return mechanism in the final dream. The final dream is structurally distinct from all others — the gap closes from her side for the first time. She speaks two lines: *"I have somewhere, some place to go"* and *"And you do too."* Alex reaches, tries to offer himself in her place, she closes that door. He wakes to her absence. The dreams do not return. He does not know her choice was deliberate.
+- **Open:** When in Arc 5 does the final dream occur relative to other events — after the assault scene, after Seoyeon's first crack, or at a different point? Does he try to reach her in dreams again after this and find nothing, or does he understand without being told that this was the last one?
+
+### The Dream Thread — Previous Dreams (Before the Final)
 - **Status:** Unresolved
-- **What's established:** Yooyeon breaks the return mechanism herself. The dreams stop. Alex doesn't know she did it consciously.
-- **Open:** When in Arc 5 does this happen — before or after the assault scene, before or after Seoyeon's arc begins to crack? What does the moment look like from Alex's side — he simply wakes up one day and she's gone from the dream space? Does he try to reach her again after that, or does he understand without understanding why?
+- **What's established:** All previous dreams share the same pattern: she is present but not reachable, the gap never closes, he learns over time to wait rather than reach, contact is always partial, no words exchanged. The final dream breaks this pattern completely.
+- **Open:** How many dream sequences appear in the story, and in which arcs? How do they evolve across the story — do they become more or less frequent? Does the near-contact quality intensify as the story progresses, or stay consistent until the sudden break? These decisions affect pacing and how the final dream lands.
 
 ### The Subplot — Member's Personal Crisis
 - **Status:** Unresolved
