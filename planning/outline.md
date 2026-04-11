@@ -160,69 +160,51 @@ All four endings share the same entry point but diverge based on what Alex choos
 ### Bad for Alex
 Alex's sense of self erodes entirely. He stops correcting people who call him Yooyeon. He stops trying. The ending is quiet and devastating — he is still there, but he is not Alex anymore.
 
-### Bittersweet — The Becoming (Yooyeon's Sacrifice)
-**Chosen ending. Established 2026-04-06.**
+### Bittersweet — The Becoming (Alex's Sacrifice)
+**Active branch. Established 2026-04-10. See also: endings/alex-sacrifice.**
 
-The return mechanism exists — there is a way for Yooyeon to come back to her body. But the process would cost Alex his existence. Yooyeon, present in the dream state throughout the story (see subplots.md — The Dream Thread), has been watching. She has seen what Alex built in her life: the relationships, the first time care landed, the person he became through sustained, inescapable contact with people who would not let him disappear. She has also seen what she would be returning to — the university pressure, the impossible balance of academia and idol career, the exhaustion she carried before the swap.
+> *Note: This branch replaces the "Yooyeon's Sacrifice" version documented on main (2026-04-06). The Yooyeon-sacrifice version remains on the main branch as an alternative. This branch develops the Alex-sacrifice version.*
 
-When the moment comes, she breaks the mechanism herself. Not from despair — from a genuine choice, made with full awareness of what it costs and what it gives. She is not returning. Alex continues.
+The return mechanism exists — a way for Yooyeon to come back to her body. The process would cost Alex his existence. Alex discovers the mechanism in late Arc 5. He makes his decision privately. He does not tell Yooyeon in the dream space — withholding specifically to prevent her from destroying the mechanism before he can use it.
 
-The dreams stop. Alex wakes up one day and she is simply gone from that space — not dramatically, just absent where a presence used to be. He does not know she chose this consciously. He cannot thank her, refuse her, or argue with her. He has to build the rest of his life carrying a gift he doesn't know was given deliberately.
+In the window between his decision and activation, he moves through the unspoken goodbye period (see Arc 5 above). He has been changed by over a year of life in her body, among her people. He has learned to give and receive care — the thing his architecture was built to prevent. He knows what he wants now. He wants to stay. And he recognizes that this life is not his to keep.
+
+His choice does not come from the self-blame layer ("I don't deserve this"). It comes from something he built: the capacity to see clearly whose something is and to give it back without that being the same as punishment. He is grateful. He is not erasing himself. He is returning something borrowed.
+
+**The final dream — the argument:**
+The gap closes from her side — she comes to him. She knows what he is about to do. The final dream is the argument: she fights for him to stay. He fights to give this back to her. Neither argument defeats the other cleanly. What ends it is not persuasion but action: he acts, and she cannot stop him. There is a moment where she understands she won't, and she has to let him go. That moment is the scene's emotional center.
+
+What she says in this scene and what he says are TBD — the two lines from the Yooyeon-sacrifice version (*"I have somewhere, some place to go" / "And you do too"*) do not transfer cleanly to this version. The dialogue for this final dream requires separate development.
+
+**What Alex knows when he acts:** That she was there. That she watched. That the relationship built between them in the dream space was real — partial, strange, wordless for a long time and then not. That she did not want this. He acts anyway. Not against her. For her.
+
+**The dreams stop.** Yooyeon wakes in her body. She knows what happened. She was there for the argument. She cannot unknow it.
 
 **The bittersweet balance:**
-- **Loss:** Yooyeon is permanently gone — not absent as before, but actively erased by her own hand. The members lose her more finally than they'd already lost her. Alex carries the weight of a life given to him by someone he never got to know.
-- **Growth:** Alex has been changed by years of embodied experience. He learned to receive care. He let people in. He is not who he was before the swap — and the swap has ended, but he hasn't reverted.
-- **New equilibrium:** Things can never go back to how they were. Yooyeon's choice closes that. What remains is Alex — changed, marked, holding her life — and 23 people who have been through something no one outside the group will ever understand.
+- **Loss:** Alex is gone. The members who came to care for him — Mayu, Kotone, the ally haus — lose someone real. Seoyeon's arc with him ends incomplete; she never arrived at the place where it could have mattered to him while he was present. The grief is visible and collective.
+- **Growth:** Yooyeon returns to a life that has been lived and changed. She comes back to people who knew someone she didn't know, in her body, and loved him. The life she returns to is not the life she left — it has been shaped by him.
+- **New equilibrium:** Yooyeon carries what he chose. She knows the weight of it. The members don't, initially — she tells them (see Second Reveal, below). The group that gathers around Yooyeon's return is the same group that held Alex for over a year, and they are not the same people they were at the start.
 
-**The question the ending holds:** What does he do with it? The story ends before the answer is complete. The reader is left with him standing in a life that was given rather than chosen, by someone who saw what he could become and decided that was worth keeping.
+**The question the ending holds:** What does Yooyeon do with a life that was kept for her at a cost she didn't ask for? The story ends before the answer is complete. The reader is left with her standing in a life that was returned rather than resumed, by someone who saw what it was worth and decided that was worth keeping.
 
 ---
 
-### The Final Dream — Scene Notes
-**Established 2026-04-08.**
+### The Second Reveal — Scene Notes
+**Established 2026-04-10.**
 
-This is the last of Alex's recurring dream sequences. It is structurally distinct from all previous dreams in one way: the gap closes from her side. He does not reach her — she comes to him, or the space between them collapses, and she is suddenly close enough to be seen clearly for the first time.
+When Yooyeon returns, she chooses to tell the group what happened. This is her decision, made fully and deliberately.
 
-**What has been true of all previous dreams (the baseline the final scene breaks):**
-- She is always present but not reachable — visible but unclear
-- The distance doesn't close no matter how he moves toward it
-- He learns over time to wait rather than reach
-- Contact is always partial; no words, no real communication
-- He wakes carrying something he can't name
+**Structure:** She begins by describing the final shared moments — the dream argument, what he said, what she said, what it felt like — without identifying herself. The group does not yet know who is speaking. The description is intimate and specific enough to be disorienting: this person knows things about Alex that no one outside the dream space could know. Then she identifies herself. The room reorganizes.
 
-**What is different in the final dream:**
-- The gap closes from her side — she moves toward him, not the other way
-- He can see her face clearly for the first time — which means seeing his own face approaching him, a register of strangeness the scene should hold
-- She speaks directly. Two lines. The first time in the entire dream thread she has communicated in words.
+**The verification:** The group needs to confirm she is Yooyeon and not Alex still performing, or something else entirely. A rapid-fire session follows — questions only the group would know to ask. Some are factual. Some are about texture — how Alex held himself, what he did in a specific moment, what he sounded like. Yooyeon can answer the Yooyeon questions correctly, and can relay what Alex told her about the events she witnessed abstractly. She cannot fake Alex's interiority. The questions that expose the boundary are the ones that matter most.
 
-**The two lines (established):**
-> *"I have somewhere, some place to go."*
-> *"And you do too."*
+At least one question was not expected to matter and turns out to be the one that convinces the room. It is quiet and specific — the kind of question only someone who loved him would think to ask. Mayu is the likely candidate to ask it.
 
-**What the first line does:** reframes her choice entirely. She is not sacrificing herself into nothing — she is departing toward something. The destination is never named. It could be an afterlife, another existence, something the story has no word for. It does not matter and must not be explained. The register is: a person with somewhere to be, settling what she's leaving behind before she goes.
+**The final question:** "Was he happy?" Simple. No detail requested. The answer is yes. The person who asks it is the last holdout — the one whose silence afterward, when they have no more questions, ends the scene. Seoyeon is the strongest candidate: asking it requires her to admit she cares about the answer, and the answer closes something she had been holding open. Her silence after the answer is not peace and not grief specifically — it is the stillness of someone who has been carrying something and finds out it was not exactly what they thought.
 
-**What the second line does:** gives Alex permission to call the life his. For a man who spent thirty years believing he didn't fully belong anywhere, being told "you have somewhere to go" — by the person whose life he occupied — is the specific thing that can release something. He doesn't have to understand what she meant for it to work on him. He carries it without knowing what to do with it yet.
+**Emotional register:** The scene holds two incompatible things simultaneously — relief that Yooyeon is back, grief for Alex. These are not resolved. Some members can access one and not the other. The dissonance is the scene. It should not be tidied into a unified emotional conclusion.
 
-**Alex's behavior in the scene:**
-- He reaches — both hands, across the last distance, knowing what he's doing
-- He tries to argue, to offer himself in her place — this impulse (the self-sacrifice offer) is the completion of that arc; she closes the door on it with "and you do too"
-- She looks at him the way you look at something you've been watching for a long time — not studying, not judging; the look of someone who has already decided
-- Then she's gone. He's reaching for nothing.
-
-**The waking:**
-- He wakes before it's light
-- He lies still and feels the shape of what she left — doesn't know yet whether it's the saddest thing that's ever happened to him
-- The closing note: "and you do too" sitting with him, unresolved, the story ending before he knows what to do with it
-
-**Tone:** Quiet. Not dramatic. The horror, if there is any, is the stillness — the absence where a presence used to be. No tears, no breakdown. Alex's voice is measured even here. The grief arrives as stillness.
-
-**What is deliberately left unexplained:**
-- Where she is going
-- Whether she could hear him trying to argue
-- Whether she was at peace or not
-- What the dream state was like for her throughout
-
-**Draft exists at:** `drafts/arc-06-bittersweet/final-dream.md` — written as a reference, not a final version. Review before writing the actual chapter.
+---
 
 ### Bad for Yooyeon
 Yooyeon's return (or the possibility of it) is foreclosed by what Alex has done or become. She is the one who disappears, or is diminished. Morally complex — Alex may not have meant for this.

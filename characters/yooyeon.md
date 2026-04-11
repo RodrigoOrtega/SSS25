@@ -67,10 +67,23 @@ From Arc 2 onward, Yooyeon exists in a state that manifests through Alex's dream
 ### The Key Character Question
 In the moments when Alex almost reaches her in the dream space — when the gap almost closes — does she reach back, or does she hold the distance? This answer defines her character across the story's full arc. It should be determined before writing any dream sequence, and the answer should be consistent across all appearances. The answer is branch-specific — it may differ between the endings variants (see endings/ branches).
 
-### Her Final Choice (Bittersweet Ending)
-Yooyeon discovers the return mechanism and understands what using it would cost Alex. She breaks it herself. The dreams stop. She does not tell him. She has watched him build something in her life — the relationships, the capacity for care he never had before — and she has weighed that against what she would be returning to (the university pressure, the exhaustion, the impossible balance). Her choice is made with full awareness. It is not only sacrifice; it is also, in some sense, a decision for herself.
+### Her Role in the Final Dream (Alex-Sacrifice Branch)
+> *This section documents the endings/alex-sacrifice branch. The Yooyeon-sacrifice version is on main.*
 
-Alex does not know she chose this. He cannot thank her. He cannot refuse her. He carries her gift without knowing it was given deliberately.
+In this ending, Alex discovers the return mechanism and chooses to activate it. Yooyeon knows. The final dream is the argument: she fights for him to stay. She does not want this. She cannot stop him. There is a moment where she understands she won't be able to, and she has to let him go.
+
+She wakes in her body carrying full knowledge of what he chose and why. She was there for the argument. She cannot unknow it.
+
+**What she carries returning:**
+- The knowledge that he chose this deliberately, from a place of peace — not self-erasure, not punishment, genuine recognition
+- The weight of having argued against it and lost — not cleanly, not with resolution, just: he acted and now she is here
+- Over a year of his life in her body, which she perceived abstractly — the shape of what he built in her relationships, her world
+- The knowledge that people she will return to loved him, and that their grief is real, and that she will have to hold that alongside her own
+
+**The return:**
+Yooyeon does not wake to the life she left. She wakes to a life that has been lived and changed. Her relationships have been shaped by someone who was not her. Some things are different from how she would have kept them. Some things are better than how she left them. She has to figure out what is hers.
+
+She chooses to tell the group what happened. This is fully her decision. See outline.md — The Second Reveal.
 
 ### Questions the Story Holds
 - What is the dream state like for her — peace, limbo, or something else entirely?

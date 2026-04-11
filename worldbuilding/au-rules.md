@@ -39,8 +39,14 @@ These sequences are not frequent or dramatic. They are recurring, brief, and emo
 - What the dream state is like for her experientially — whether it is peace, limbo, or something else
 - The exact texture of how her abstract perception works
 
-### The Ending Function
-A return mechanism exists — a way for Yooyeon to come back to her body. The process would cost Alex his existence. Before that mechanism can be used, Yooyeon breaks it herself. The dreams stop. Alex wakes up one day and she is simply gone from that space. He does not know she chose this. The story does not explain how she broke it. The mechanism of the swap was never explained; the mechanism of its ending is not explained either.
+### The Ending Function (Alex-Sacrifice Branch)
+> *This branch documents the endings/alex-sacrifice version. The Yooyeon-sacrifice version (Yooyeon breaks the mechanism herself) remains on main.*
+
+A return mechanism exists — a way for Yooyeon to come back to her body. The process would cost Alex his existence. Alex discovers the mechanism in late Arc 5. He decides privately. He withholds this from Yooyeon in the dream space during the goodbye window — to prevent her from acting to block him before he can use it.
+
+In the final dream, she knows. The dream is the argument. She fights to stop him. He acts anyway. She wakes in her body. The dreams stop because the dream state ends — there is no longer a displaced person to anchor it.
+
+The mechanism of the swap was never explained. The mechanism of its ending is not explained either. The story does not need to explain how it works — only that he knew what it would cost and chose it anyway.
 
 ---
 

@@ -168,6 +168,35 @@
 
 ---
 
+---
+
+## Endings/Alex-Sacrifice Branch — Specific Questions
+
+> Questions specific to this branch. Shared questions (dream thread, goodbye window, second reveal) are in the sections above.
+
+### The Final Dream — Dialogue
+- **Status:** Unresolved
+- **What's established:** The two lines from the Yooyeon-sacrifice version (*"I have somewhere, some place to go" / "And you do too"*) do not transfer cleanly. The final dream in this branch is an argument — she fights for him to stay, he acts anyway. What they say to each other is TBD.
+- **Open:** What does she say? What does he say? What is the last thing exchanged before he acts? The dialogue must be consistent with: she genuinely wants him to stay; he is choosing from peace, not self-punishment; neither argument defeats the other cleanly; she has to let go.
+
+### Does Yooyeon reach back in near-contact moments (pre-final-dream)?
+- **Status:** Unresolved
+- **Open:** Given that in this branch she argues against the sacrifice — meaning she wants him to stay — it would be consistent for her to have been reaching back across the story's arc. If she reaches back, the relationship in the dream space has always been mutual, which gives the final argument more weight. Decide before writing any dream sequence on this branch.
+
+### How does Alex discover the mechanism?
+- **Status:** Unresolved
+- **Open:** Does Yooyeon communicate it to him through the dreams (inadvertently or deliberately)? Does he find something during the Yooyeon trail investigation? Is it revealed through a dream that neither of them fully understands at first? The mechanism of discovery determines his agency in finding it — whether it was something he sought or something that found him.
+
+### What does Yooyeon's return look like to the outside world?
+- **Status:** Unresolved
+- **Open:** Is there a visible moment of transition — she simply wakes up? Does it happen when he is alone, or in the presence of others? The first person to interact with her after the return will need to navigate something they can't explain. Does anyone notice immediately that something has shifted?
+
+### Yooyeon's relationship with the ally members post-return
+- **Status:** Unresolved
+- **Open:** Mayu, Kotone, and the ally haus loved Alex and helped him become who he became. They will grieve him. Yooyeon returns to people who have an intimate relationship with her body and her life but through someone else. What is the specific texture of her first interactions with Mayu — the person who held Alex most directly? Does she know from her abstract perception that Mayu was the anchor? What can she give Mayu, if anything?
+
+---
+
 ## Resolved Questions
 
 > Move entries here once a decision is made. Include the decision reached.
