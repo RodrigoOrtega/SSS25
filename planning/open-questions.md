@@ -87,9 +87,9 @@
 ## Ending and Third Mechanism
 
 ### The Bittersweet Ending — The Dream Thread Mechanics
-- **Status:** Partially established
-- **What's established:** Alex sees Yooyeon in his dreams from Arc 2 onward. Contact is partial — she is visible but unclear, present but not reachable. The gap cannot be closed. The dreams stop when Yooyeon makes her final choice (breaking the return mechanism). See subplots.md — The Dream Thread.
-- **Open:** In the moments when Alex almost reaches her — when the gap almost closes — does she reach back or hold the distance? This is the defining character question for Yooyeon across the story's full arc. If she reaches back, her sacrifice reads as love. If she holds the distance, it reads as a decision made in private, without involving him. Decision required before writing any dream sequence.
+- **Status:** Substantially updated — see subplots.md and au-rules.md (session 2026-04-10)
+- **What's established:** Alex sees Yooyeon in his dreams from Arc 2 onward. Contact evolves from near-but-unreachable to genuine partial interaction. Alex narrates significant events to her from Arc 3 onward. Yooyeon is a real character in the dream space — she has presence, pushes back, grows across the arc. Her perception of waking life is real but abstract (partly what Alex shares, partly unexplained mechanism). The dreams stop when the return mechanism is activated.
+- **Open (branch-specific):** Does she reach back in near-contact moments, or hold the distance? This is branch-specific — the answer may differ between endings variants. Must be decided before writing any dream sequence for a given branch.
 
 ### The Bittersweet Ending — Yooyeon's Awareness
 - **Status:** Unresolved
@@ -101,12 +101,26 @@
 - **What's established:** Yooyeon breaks the return mechanism in the final dream. The final dream is structurally distinct from all others — the gap closes from her side for the first time. She speaks two lines: *"I have somewhere, some place to go"* and *"And you do too."* Alex reaches, tries to offer himself in her place, she closes that door. He wakes to her absence. The dreams do not return. He does not know her choice was deliberate.
 - **Open:** When in Arc 5 does the final dream occur relative to other events — after the assault scene, after Seoyeon's first crack, or at a different point? Does he try to reach her in dreams again after this and find nothing, or does he understand without being told that this was the last one?
 
-### The Dream Thread — Previous Dreams (Before the Final)
-- **Status:** Unresolved
-- **What's established:** All previous dreams share the same pattern: she is present but not reachable, the gap never closes, he learns over time to wait rather than reach, contact is always partial, no words exchanged. The final dream breaks this pattern completely.
-- **Open:** How many dream sequences appear in the story, and in which arcs? How do they evolve across the story — do they become more or less frequent? Does the near-contact quality intensify as the story progresses, or stay consistent until the sudden break? These decisions affect pacing and how the final dream lands.
+### The Dream Thread — Evolution and Pacing
+- **Status:** Framework established (session 2026-04-10); pacing unresolved
+- **What's established:** Dreams evolve by arc: Arc 2 = disorienting near-contact; Arc 3–4 = he begins speaking/narrating, relationship forms in adverse conditions; Arc 5 = intensifying contact, more specific presence; Arc 6 = final dream categorically different (branch-specific). The overall shape is established.
+- **Open:** How many dream sequences appear per arc? Do they become more or less frequent across arcs? The intensification pattern in Arc 5 needs pacing decisions before scenes are written. Withholding-from-Yooyeon period (goodbye window): what does she perceive or sense in the dreams during this window — does she feel the gap in what he's sharing?
 
-### The Subplot — Member's Personal Crisis
+### The Unspoken Goodbye Window — Specific Members and Beats
+- **Status:** Framework established (session 2026-04-10); specific beats unresolved
+- **What's established:** After Alex discovers the mechanism and decides, a window opens before activation. He moves toward certain members in ways he has not before — not dramatic gestures, small ones. Seoyeon and Sohyun specifically identified as the resistant members he attempts to reach. At least one attempt does not land. He accepts it. Window closes when mechanism activates.
+- **Open:** Which other members does the window include, and what is the specific nature of each quiet attempt? What does the one that fails look like — who is it with, and how does it not land? Is the attempt with Seoyeon the one that fails, or does he get something from her?
+
+### The Goodbye Window — Yooyeon's Perception
+- **Status:** Unresolved
+- **Open:** During the goodbye window, Alex deliberately stops narrating to Yooyeon in the dreams to prevent her from acting first. Does she sense the gap — the sudden absence of what he had been sharing? Does this register to her as something wrong, something withheld, before the final dream makes it clear? This affects the texture of the final dream argument: she may be arriving already knowing something was kept from her.
+
+### The Second Reveal — Yooyeon's Return (Shared Across Bittersweet Endings)
+- **Status:** Framework established (session 2026-04-10); specifics TBD
+- **What's established:** When Yooyeon returns, she chooses to tell the group what happened. The reveal is staged: she begins by describing the final shared moments without identifying herself, then reveals she is Yooyeon, then reveals Alex's choice. The group undergoes rapid-fire verification — questions only they would know to ask, some factual, at least one quiet and personal. The final question is "was he happy?" — answered simply, without detail. The answer is yes. The silence of the last holdout ends the scene.
+- **Open:** Who is the last holdout — who is the last to run out of questions? Who asks "was he happy?" — and are these the same person? Seoyeon identified as the strongest candidate for the final question. Rapid-fire verification needs at least one question that wasn't expected to matter but turns out to be the one that convinces everyone (Mayu's quiet specific question identified as likely candidate).
+
+### The Member's Personal Crisis
 - **Status:** Unresolved
 - **Open:** Who is the member, and what is the crisis? Must be someone in Alex's immediate orbit (Spring haus or close contact). The crisis should thematically rhyme with one of Alex's themes (isolation, conditional care, the gap between public and private self) without duplicating it. Arc placement (3 or 5) depends on who and what.
 
@@ -176,3 +190,8 @@
 | Bittersweet ending branch — chosen | The becoming / Yooyeon's sacrifice. Yooyeon, present in the dream state throughout the story, breaks the return mechanism herself when the moment comes — knowing what it costs. She has watched Alex build something in her life and knows what she would be returning to. The dreams stop. Alex does not know she chose this consciously. He continues in her body, carrying a gift he didn't know was given deliberately. Full documentation in outline.md Arc 6. | 2026-04-06 |
 | Third mechanism — Yooyeon's location and the dream state | Yooyeon exists in a dream state. Alex sees her in his dreams from Arc 2 onward — she is visible but unclear, present but not reachable. Contact is always partial. The gap cannot be fully closed. She has perception of her waking life and of Alex's situation (mechanism of that perception is unresolved — see open questions). The dreams are the story's primary vehicle for her presence. | 2026-04-06 |
 | Yooyeon's pre-swap situation | Parents were pressuring her to finish university. She was struggling to balance the idol career and academic obligations — the weight of trying to maintain both was real. Her life had its own exhaustion before the swap. In the dream state she is freed from that pressure while watching Alex carry what she left behind. This is part of what makes her choice to not return comprehensible from the inside — not purely altruistic, but a genuine decision with reasons of her own. | 2026-04-06 |
+| Overall story duration | At most two years from Day 0 (June 24, 2024). Reveal approximately one year in (around Are You Alive?). Arc 5 spans undetermined months after that. Story ends before the two-year mark. | 2026-04-10 |
+| Yooyeon in the dream state — character development | Yooyeon is a real character in the dream space, not a passive presence. Contact evolves from near-but-unreachable (Arc 2) to genuine partial interaction (Arc 3 onward). Alex narrates significant events to her from Arc 3 onward. She pushes back, grows across the arc, has opinions about what Alex is doing. Her perception of waking life is abstract — the shape and emotional weight of events, partly through what Alex shares, partly unexplained. | 2026-04-10 |
+| The unspoken goodbye window — structural placement | After Alex discovers the return mechanism and decides (late Arc 5), a window opens before activation. He moves toward certain members quietly — something not done with them before. Not dramatic gestures. At least one attempt fails. He withholds from Yooyeon in the dream space during this window. Window closes at activation. Seoyeon and Sohyun specifically identified as resistant members he attempts to reach. | 2026-04-10 |
+| Seoyeon's arc — what it can and cannot resolve | Her arc with Alex ends incomplete — she never arrives at the place where it could have mattered to him while he was still there. What the story gives her instead is the beginning of the arc that actually belongs to her: the unresolved thing with Yooyeon. That resolution requires the real Yooyeon — it cannot be provided by Alex. | 2026-04-10 |
+| Core thematic statement — what Alex's story is about | A man who lost the ability to desire. The swap shows him a side of life full of care, wanting, giving and receiving. At the very end, he makes peace with his past and current life — grateful for the experience, but recognizing it is not his place to take. The ending must come from peace, not from the self-blame layer. The bad-for-Alex ending is the version where this peace is never reached. | 2026-04-10 |

@@ -28,14 +28,16 @@ These sequences are not frequent or dramatic. They are recurring, brief, and emo
 
 ### What Is Established
 - The dreams begin in Arc 2 and recur through Arc 5
-- Yooyeon can be perceived but not clearly communicated with
-- The gap cannot be closed from Alex's side
-- The dream state gives Yooyeon some form of perception — she has watched enough of Alex's situation to make an informed final choice
+- Contact evolves: early dreams are near but unreachable; later dreams are genuine partial interaction — ethereal, wordless at first, increasingly real
+- Alex begins narrating to her from Arc 3 onward — telling her about significant events in her own life, choosing to keep her informed
+- Yooyeon is a real character in the dream space: she has presence, she pushes back, she grows across the story's arc
+- Her perception of waking life is real but abstract — the shape and emotional weight of events, partly through what Alex shares, partly through a mechanism the story does not explain
+- The gap cannot be closed from Alex's side in early dreams; this changes as the story progresses
 
 ### What Remains Unresolved (Intentionally)
-- The exact mechanism of Yooyeon's perception (can she observe waking-life events, or only the dream contacts?)
-- Whether she reaches back toward Alex in the near-contact moments, or holds the distance — this defines her character across the story's full arc (see open-questions.md)
-- What the dream state is like for her — whether it is peace, limbo, or something else
+- Whether she reaches back toward Alex in the near-contact moments, or holds the distance — branch-specific; must be decided per endings variant before writing dream sequences
+- What the dream state is like for her experientially — whether it is peace, limbo, or something else
+- The exact texture of how her abstract perception works
 
 ### The Ending Function
 A return mechanism exists — a way for Yooyeon to come back to her body. The process would cost Alex his existence. Before that mechanism can be used, Yooyeon breaks it herself. The dreams stop. Alex wakes up one day and she is simply gone from that space. He does not know she chose this. The story does not explain how she broke it. The mechanism of the swap was never explained; the mechanism of its ending is not explained either.

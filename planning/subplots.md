@@ -80,16 +80,24 @@ The leak is gradual by design. It cannot be a noticeable performance failure in 
 
 ### 3. The Dream Thread (Third Mechanism)
 **Type:** Investigation / thematic
-**Arc span:** Arc 2 onward, recurring through Arc 5; the dreams stop when Yooyeon makes her final choice
-**Summary:** Alex sees Yooyeon in his dreams — or she appears there. He tries to reach her, to talk to her. He cannot quite do either. The contact is always partial: she is visible but unclear, present but not reachable. The gap between them in the dream space feels like the wrong kind of distance — not the distance of strangers, but of two people trying to speak through glass. He wakes from these dreams carrying something he can't name.
+**Arc span:** Arc 2 onward, recurring through Arc 5; the dreams stop when the return mechanism is activated
+**Summary:** Alex sees Yooyeon in his dreams — or she appears there. The contact evolves across the story's arc. In early dreams she is present but not reachable: visible, unclear, the gap uncloseable from his side. Over time, something shifts. The dreams become genuine, if partial, interaction — not fully legible conversation, but real contact: ethereal, dreamlike, the texture of two people in the same space who can't quite hold the same frame at once.
 
-These sequences are not frequent or melodramatic. They are recurring, brief, and emotionally precise. They do double work: fueling the Yooyeon trail (every near-contact tells Alex something about who she is, something he adds to the picture he is building in waking life) and building toward the ending (when the dreams stop, the absence registers as a final loss with full weight, not just a change in sleep).
+Alex begins narrating to her. Not knowing whether she hears, not receiving clean confirmation, but choosing to tell her things — significant events, moments in her life he has lived in her absence. Comebacks, schedules, the texture of her relationships. He treats her as someone who deserves to know what is happening in her own life. The narration is not performed; it is a private choice, made in the space the dreams provide. It is also, though he cannot see it this way yet, the first form of care he gives freely and without calculation.
+
+These sequences are not frequent or melodramatic. They are recurring, brief, and emotionally precise. They do double work: fueling the Yooyeon trail (what he learns about her in waking life and what he perceives of her in dreams are two separate and sometimes contradictory pictures of the same person) and building toward the ending (the final dream is structurally distinct from all that preceded it — see Arc 6 documentation in outline.md).
 
 The reader, knowing Yooyeon's backstory — the university pressure, the exhaustion of balancing that with the idol career — may understand what she is experiencing in the dream state better than Alex does. He is reading fragments of her. The reader can infer more.
 
-**Key open question:** In the moments when Alex almost reaches her — when the gap almost closes — does she reach back, or does she hold the distance? This answer defines her character across the story's full arc and shapes how her final choice reads. If she has always reached back, her sacrifice reads as love. If she has always held the distance, it reads as a decision made in private, without involving him.
+**Dream thread evolution by arc:**
+- Arc 2: First appearances. She is present but unreachable. He reaches; the gap does not close. He wakes carrying something he can't name. Disorienting, unresolved.
+- Arc 3–4: Contact becomes more consistent. He learns to wait rather than reach. He begins speaking to her without expecting response — telling her things. A relationship forms in adverse conditions, partial and wordless, but real.
+- Arc 5: The contact deepens as the story's pressures peak. She is more present, more specific. The near-contact quality intensifies. He has told her enough by now that she has a picture — not complete, but real — of who he is and what he has built.
+- Arc 6: The final dream is categorically different. The gap closes from her side. Something is communicated that has not been communicated before. Then the dreams stop.
 
-**Structural function:** Primary vehicle for Yooyeon's presence in the story; investigation subplot; direct feed into the bittersweet ending.
+**Key open question:** In the moments when Alex almost reaches her — when the gap almost closes — does she reach back, or does she hold the distance? This answer defines her character across the story's full arc. The answer should be consistent with the ending branch being written (see endings/ branches for branch-specific resolution of this question).
+
+**Structural function:** Primary vehicle for Yooyeon's presence in the story; investigation subplot; direct feed into the ending regardless of branch.
 
 ---
 
@@ -154,7 +162,9 @@ Widest arc for character space. Practical pressure subplots active (Visionary Vi
 Identity leak reaches its conclusion (Kotone's discovery). Reveal structure unfolds (Stages 1–5 per outline.md). Kotone-Yeonji subplot resolves. Dream thread continues — may intensify during or after the reveal as pressure on Alex increases.
 
 ### Arc 5 — Slow Burn
-Relational subplots pay off: Seoyeon's arc, Kotone's guilt, Nakyoung question, Mayu-Alex dynamic, assault scene and its ripple. Member's personal crisis if placed here. Dream thread continues, then ends — Yooyeon makes her final choice somewhere in this arc or at its close.
+Relational subplots pay off: Seoyeon's arc, Kotone's guilt, Nakyoung question, Mayu-Alex dynamic, assault scene and its ripple. Member's personal crisis if placed here. Dream thread continues, intensifying as the story's pressures peak.
+
+**The unspoken goodbye window** opens in the latter part of Arc 5, after Alex discovers the return mechanism but before he activates it. He does not tell anyone — not the members, not Yooyeon in the dream space (withholding from her specifically to prevent her from acting first). In the window between discovery and activation, he moves toward certain people in ways he has not before. Not dramatic gestures. Something he had not done with that person previously — a question he had not asked, a room he stays in longer, a moment where he listens instead of managing the distance. The members do not know what they are receiving. He knows exactly what he is giving. At least one of these attempts does not land — the person isn't ready to receive it — and he carries that without trying again. The incomplete thing is part of what he accepts. Specific members this window touches: to be determined by which relationships most need a quiet note before the ending. Seoyeon and Sohyun are specifically identified as the more resistant members toward whom he makes an attempt — not to extract resolution, but to see them once as real people rather than as positions they hold toward him.
 
 ### Arc 6 — Endings
 Subplots should close before or within the ending, or resolve differently per branch. The dream thread's end is the structural trigger for the bittersweet ending.
