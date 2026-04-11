@@ -56,12 +56,16 @@
 Yooyeon is never a POV character, but her reality shadows the story throughout and her agency determines its ending.
 
 ### The Dream State
-From Arc 2 onward, Yooyeon exists in a state that manifests through Alex's dreams. She is present but unclear — visible but not reachable. Alex tries to communicate with her; the contact is always partial. The gap cannot be closed from his side.
+From Arc 2 onward, Yooyeon exists in a state that manifests through Alex's dreams. The contact evolves. In early dreams she is present but unclear — visible but not quite reachable. As the story progresses, the dreams become genuine if partial interaction: ethereal, dreamlike, the texture of two people who cannot fully occupy the same frame but are genuinely present to each other.
 
-She has some form of perception of her waking life — enough to watch what Alex is building in her body, enough to understand by the end what her choice means. The mechanism of this perception is intentionally unresolved.
+**Alex narrates to her.** From some point in Arc 3 onward, he begins speaking to her in the dream space — not knowing with certainty she hears, not receiving clean confirmation, but choosing to tell her things. Significant events. Comebacks. The texture of her relationships as he has lived inside them. He tells her about her own life. This is not performed care; it is a private choice, made in the only channel available. It is the first form of giving he does freely and without calculating the return.
+
+**Her perception of waking life** is real but abstract. She is aware of major events — not as though watching a live feed, but in a way that gives her the shape and emotional weight of what has happened. The information arrives partly through what Alex chooses to share with her and partly through a mechanism the story does not explain. She knows enough by the time the ending arrives to make an informed choice.
+
+**Her character in the dream space** grows across the story's arc. She pushes back. She has opinions about what Alex is doing and what he is becoming. She is not a passive presence. The relationship that develops between them in the dream space — partial, wordless in early arcs, more genuine as the story progresses — is the only relationship in the story where Alex cannot manage the distance. She is not addressable as a member. She is not performable as Yooyeon. She is simply herself, in whatever the dream state is, and he has to be simply himself in return.
 
 ### The Key Character Question
-In the moments when Alex almost reaches her in the dream space — when the gap almost closes — does she reach back, or does she hold the distance? This is the most important unresolved question about her character. It shapes every dream sequence and determines how her final choice reads to the reader.
+In the moments when Alex almost reaches her in the dream space — when the gap almost closes — does she reach back, or does she hold the distance? This answer defines her character across the story's full arc. It should be determined before writing any dream sequence, and the answer should be consistent across all appearances. The answer is branch-specific — it may differ between the endings variants (see endings/ branches).
 
 ### Her Final Choice (Bittersweet Ending)
 Yooyeon discovers the return mechanism and understands what using it would cost Alex. She breaks it herself. The dreams stop. She does not tell him. She has watched him build something in her life — the relationships, the capacity for care he never had before — and she has weighed that against what she would be returning to (the university pressure, the exhaustion, the impossible balance). Her choice is made with full awareness. It is not only sacrifice; it is also, in some sense, a decision for herself.

@@ -68,4 +68,16 @@
 
 ---
 
+## Overall Story Duration
+
+**The story spans at most two years from Day 0 (June 24, 2024).**
+
+- The reveal happens approximately one year in — around the "Are You Alive?" period
+- Arc 5 spans an undetermined number of months after that
+- The ending (whichever branch) resolves before the two-year mark
+
+This cap is load-bearing: the members have lived with Alex for over a year, not years plural. The relationships, faction positions, and emotional trajectories were all built in that compressed window. The ending's weight comes from what was built in real, bounded time — not from the slow erosion of a longer stretch.
+
+---
+
 > This document will be updated as arcs are drafted and timing becomes clearer.
