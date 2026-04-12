@@ -12,11 +12,13 @@ The building is managed by MODHAUS. The arrangement has been in place since [TBD
 
 | Floor | Contents |
 |-------|----------|
-| Floor 4 | Two hauses (TBD — which two) |
-| Floor 3 | Two hauses (TBD — which two) |
-| Floor 2 | Communal areas (TBD — specifics to be developed) |
+| Rooftop | Terrace — outdoor seating, planters; the only outdoor space accessible to members without leaving the building |
+| Floor 4 | Spring haus, Summer haus |
+| Floor 3 | Autumn haus, Winter haus |
+| Floor 2 | Communal areas — see below |
 | Floor 1 | Gym |
 | Basement | Practice room — full rehearsal space for routines |
+| Ground floor | Lobby — delivery management, building entry |
 
 ---
 
@@ -34,12 +36,32 @@ Each haus houses 6 members. Hauses are named after the four seasons.
 ### Haus Interior
 
 Each haus contains:
-- At least 3 bedrooms (rooming arrangements TBD — some members may share)
+- 4 bedrooms (rooming arrangements vary — Spring haus specified below; others TBD)
 - Kitchen
 - Living room
 - Dining room
-- At least one bathroom (exact count TBD)
-- Laundry room
+- 3 bathrooms (all communal — not en-suite; 2 members per bathroom at capacity)
+- Storage room (costume, equipment, and personal overflow)
+
+Laundry is shared on floor 2, not per-haus.
+
+---
+
+## Floor 2 — Communal Areas
+
+| Space | Description |
+|-------|-------------|
+| Large common room | The building's primary gathering space — the only room that holds all 24 members at once. Used for group meals, birthday gatherings, downtime, and — in Arc 4 — the full-group meeting. Furnished as a living space: sofas, a large screen, a table large enough for the whole group. |
+| Shared kitchen and dining | Larger than haus kitchens; used for group cooking occasions and large shared meals. Members who cook tend to use this rather than the haus kitchen when feeding more than their own six. |
+| Laundry room | Shared machines for all four hauses. Scheduling conflicts are a recurring domestic texture. |
+
+### Delivery management (ground floor lobby)
+
+The volume of delivery orders from 24 members made individual door-to-door delivery impractical. Management installed a centralized system in the lobby: a staffed desk during waking hours, a bank of labeled lockers for after-hours arrivals. Members retrieve their own orders. Staff log orders that come from unfamiliar accounts — a minor but real layer of oversight. Relevant to Alex's management of Yooyeon's delivery habits in Arc 2.
+
+### Rooftop
+
+Accessible from the stairwell above floor 4. Outdoor terrace with seating and planters — not elaborate, but functional. The only place in the building with open air and sky that doesn't require going public. No management oversight. Used informally: late nights, early mornings, when someone needs to get out of the building without leaving it. Narratively: the space for two-person scenes that need distance from the haus texture — the kind of conversation that happens when there's nowhere else to go.
 
 ---
 
@@ -73,6 +95,14 @@ The haus Alex wakes up in on Day 0. The most narratively loaded pre-reveal space
 - **Xinyu** has warm but not deep knowledge of Yooyeon — enough to register that things feel off, not enough to demand explanation. She becomes enemy post-reveal, which means three of Alex's six pre-reveal housemates end up in the enemy faction. The Spring haus contains the highest concentration of future enemies of any pre-reveal arrangement.
 - **Jiwoo** is the deliberate choice over Soomin. She has a documented capacity to sit with observations she doesn't act on (the Yubin feeling). She won't broadcast half-formed suspicions through her social network. What she accumulates, she holds — until the group meeting forces it into the open.
 
+**Bedroom arrangement:**
+- **Yooyeon (S5) — private room.** The oldest member in the group; a private room is a quiet seniority benefit. Her role as the haus's informal emotional anchor means people come to her — not the other way around. Load-bearing for Arc 2: Alex needs this space to be his alone for the Yooyeon trail investigation and the first weeks of psychological processing.
+- **Kotone (S11) + Mayu (S16) — shared room.** J-line grouping management applied without a second thought. Narrative payoff: the first two people who know Alex's secret already share a room. When Kotone tells Mayu, it happens behind a closed door with no ears to catch it.
+- **Jiwoo (S3) + Nakyoung (S7) — shared room.** Both quiet processors; neither broadcasts half-formed observations. Low-noise domestic pairing that won't escalate the tension Alex generates by existing in the haus.
+- **Xinyu (S15) — private room.** She is the first crack in the enemy faction post-reveal. Having private space pre-reveal means her early doubts aren't witnessed or reinforced by a daily roommate. Her shift, when it comes, is processed alone — in the space her room already gave her.
+
+---
+
 ### Summer haus (Floor 4)
 Seoyeon (S1), Hyerin (S2), Yubin (S8), Kaede (S9), Sohyun (S14), Chaewon (S21)
 
@@ -80,12 +110,16 @@ Seoyeon's pre-reveal home. The most senior-weighted haus. Seoyeon's role as logi
 
 After the reshuffle, Seoyeon has to leave Summer. The paperwork she files — the rotation she submits as routine — displaces her from her own haus. She moves into the enemy Autumn haus. The group's administrative anchor is now living among the people who want Alex gone.
 
+---
+
 ### Autumn haus (Floor 3)
 Chaeyeon (S4), Soomin (S6), Dahyun (S10), Yeonji (S12), Nien (S13), Lynn (S17)
 
 EVOLution-heavy cluster: Chaeyeon, Dahyun, and Yeonji are all EVOLution members, with Soomin and Nien adding documented bilateral warmth (Legend pairing, Soomin + Yeonji; 999z connections, Nien). A naturally coherent haus with a lot of daily verbal energy.
 
 Becomes the enemy haus post-reveal. Kotone and Yeonji — pre-reveal housemates — end up on opposite sides of the faction divide. Kotone leaves for Spring/ally; the enemy members move in. The enemy haus occupies a space that belonged to Kotone, Yeonji, Dahyun.
+
+---
 
 ### Winter haus (Floor 3)
 Joobin (S18), Hayeon (S19), Shion (S20), Sullin (S22), SeoAh (S23), Jiyeon (S24)
@@ -104,12 +138,10 @@ Kotone and Mayu are the most vocal advocates for the arrangement that protects A
 
 | Haus | Faction | Members |
 |------|---------|---------|
-| TBD (Ally) | Ally | Alex (S5), Mayu (S16), Kotone (S11), Sullin (S22), Yeonji (S12), Dahyun (S10) |
-| TBD (Middle A) | Middle | Hyerin (S2), Jiwoo (S3), Chaeyeon (S4), Kaede (S9), Hayeon (S19), Chaewon (S21) |
-| TBD (Middle B) | Middle | Nien (S13), Lynn (S17), Joobin (S18), Shion (S20), SeoAh (S23), Jiyeon (S24) |
-| TBD (Enemy) | Enemy | Seoyeon (S1), Nakyoung (S7), Sohyun (S14), Xinyu (S15), Yubin (S8), Soomin (S6) |
-
-Which season haus receives which faction: TBD.
+| Spring (Floor 4) | Ally | Alex (S5), Mayu (S16), Kotone (S11), Sullin (S22), Yeonji (S12), Dahyun (S10) |
+| Summer (Floor 4) | Middle A | Hyerin (S2), Jiwoo (S3), Chaeyeon (S4), Kaede (S9), Hayeon (S19), Chaewon (S21) |
+| Winter (Floor 3) | Middle B | Nien (S13), Lynn (S17), Joobin (S18), Shion (S20), SeoAh (S23), Jiyeon (S24) |
+| Autumn (Floor 3) | Enemy | Seoyeon (S1), Nakyoung (S7), Sohyun (S14), Xinyu (S15), Yubin (S8), Soomin (S6) |
 
 ### Ally haus — order of commitment
 
@@ -123,11 +155,9 @@ The five ally members did not all commit simultaneously. The sequence matters be
 
 ### Immediate night — the practice room
 
-The haus reorganization settles over the days following the group meeting, not on the night itself. But Alex cannot return to the Sun haus — Xinyu (enemy) is already there. The same night as the meeting, Mayu moves him to the practice room in the basement. She stays with him. This is the first physical expression of what her "I'll be responsible" declaration means: not a speech, just her making a bed in the basement and sitting there.
+The haus reorganization settles over the days following the group meeting, not on the night itself. But Alex cannot return to the Spring haus — Xinyu (enemy) is already there. The same night as the meeting, Mayu moves him to the practice room in the basement. She stays with him. This is the first physical expression of what her "I'll be responsible" declaration means: not a speech, just her making a bed in the basement and sitting there.
 
 Kotone is likely involved in the arrangement from the floor above, but Mayu acts because she is already Alex's haus member and the most immediate responsible party.
-
-Which season haus receives which faction: TBD.
 
 ---
 
@@ -178,18 +208,7 @@ Several Middle B members are documented as drifting toward ally over time: Sulli
 
 ## Open Questions
 
-- Member-to-haus mapping for the initial (pre-reveal) arrangement: TBD
-- Which floor holds which hauses: TBD
-- Bedroom count and rooming arrangements within each haus: TBD
-- Floor 2 communal areas — what is there specifically: TBD
-- Building location in Seoul: TBD
-- When members moved into this building: TBD
-- Rotation interval (every X months): TBD
-- Post-reveal haus assignment — which season haus holds which faction: TBD
-- Season name to faction mapping: TBD
-- Which floor holds which hauses: TBD
-- Bedroom count and rooming arrangements within each haus: TBD
-- Floor 2 communal areas — what is there specifically: TBD
+- Bedroom rooming arrangements for Summer, Autumn, and Winter hauses: TBD
 - Building location in Seoul: TBD
 - When members moved into this building: TBD
 - Rotation interval (every X months): TBD
