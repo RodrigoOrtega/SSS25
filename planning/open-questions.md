@@ -58,8 +58,14 @@
 - **Status:** Resolved — see Resolved section
 
 ### The Hauses — Bedroom and Rooming Arrangements
-- **Status:** Unresolved
-- **Open:** How many bedrooms per haus? Do members share bedrooms? If so, who rooms with whom in Spring haus specifically (Jiwoo, Alex/Yooyeon, Nakyoung, Kotone, Xinyu, Mayu)? This directly affects Alex's available private space in Arcs 1–2.
+- **Status:** Partially resolved
+- **What's established:** 4 bedrooms per haus, 3 communal bathrooms. Spring haus resolved: Yooyeon private room (seniority; load-bearing for Arc 2 investigation and processing); Kotone + Mayu shared (J-line; narrative payoff — first two people who know the secret share a door); Jiwoo + Nakyoung shared (low-noise pairing); Xinyu private room (first to shift post-reveal; processes her doubts without a daily roommate reinforcing the enemy position). See hauses.md.
+- **Open:** Bedroom arrangements for Summer, Autumn, and Winter hauses.
+
+### Cosmo Lives — Performance Under Dual Observation
+- **Status:** Unresolved — practical pressure note for Arc 3 onward
+- **What's established:** tripleS members broadcast personal Cosmo lives from their own rooms, not from a shared studio. These are intimate, informal streams. Management monitors all streams in real time: for inappropriate fan chat, for anything the member says that creates a PR issue, and for the member's general presentation. Alex must conduct these as Yooyeon, live, from her room, under simultaneous observation from fans with calibrated expectations of her and management who will notice deviation from her established pattern. No retakes. No editing. The most exposed version of the performance.
+- **Open:** How does Alex handle his first Cosmo live? Does management notice anything in his early streams — a different cadence, a different way of responding to fans? Does a Cosmo live slip become part of the identity leak accumulation? Does the format (intimate, fan-facing, unedited) produce a specific kind of near-miss that other obligations don't?
 
 ### The Hauses — Post-Reveal Faction Assignment
 - **Status:** Resolved — see Resolved section
@@ -76,6 +82,11 @@
 - **Status:** Partially established
 - **What's established:** A male fan attempts to touch Alex inappropriately. Private setting — no public witnesses, not at a fansign. Happens after the reveal. Alex absorbs it alone initially; this is consistent with his pattern of carrying things solo and not asking for help. He eventually tells Mayu — the first time in the story he voluntarily asks for something from someone. He asks her to keep it quiet. Mayu holds the information, then decides Seoyeon needs to hear it, and carries it to Seoyeon directly without Alex's involvement. This is the first involuntary crack in Seoyeon's enemy position. Hayeon finds out separately — either through Mayu or through Alex in a later, quieter moment — completing the echo of the pinky promise scene (first time he couldn't receive her grace; this becomes an instance of him finally turning toward someone).
 - **Open:** Exact timing within Arc 5 relative to other events. Who else in the ally/middle network hears about it and in what order. Whether Seoyeon's reaction when she hears is visible to Alex or happens entirely off-screen. Whether Hayeon finds out through Mayu or through Alex directly.
+
+### Arc 3 — The Idol Work First Crack
+- **Status:** Unresolved
+- **What's established:** Alex spends the Visionary Vision promotional period performing love for the work that he observes in others but cannot access in himself. This is a structural problem, not a competence problem — it does not lift when the choreography improves, because the block is the same one that prevents him from caring about anything. At some point after or near the end of Visionary Vision, or possibly during the next subunit, something gets through before the architecture can stop it. Not investment, not love for the work — the briefest presence, brief enough he can almost dismiss it. The first time the performance stops being purely endurance and becomes something adjacent to being in it.
+- **Open:** What is the specific texture of that moment? What triggers it — a rehearsal moment, a fan interaction that goes differently than he expected, the body doing something through muscle memory before the mind can redirect it? Does he recognize it as significant when it happens, or only in retrospect?
 
 ### Arc 5 — The Pressure Architecture (Multiple Breaking Points)
 - **Status:** Established as a structural principle
@@ -153,7 +164,8 @@
 
 ### Nakyoung
 - Does the Nakyoung-Yooyeon friendship survive the reveal? The security she felt was real, but built around someone who wasn't there.
-- Which faction does she land in?
+- Which faction does she land in? **Resolved: enemy faction.** Her INFP values around authentic connection make the reveal a specific violation — she doesn't lose Yooyeon in the abstract, she loses the specific relationship she thought she had.
+- **Arc 5 trajectory — unresolved:** She is the first member whose warmth finds the part of Alex he is hiding from himself (pre-reveal). Her enemy position means the first genuine connection he allowed himself is structurally unavailable after the reveal. Does she move out of the enemy position in Arc 5? If so, what triggers the shift — and does she reach a partial restoration (half or three-quarters of pre-reveal) before Alex is gone? The partial restoration would address, incompletely, the sibling wound his actual siblings created. It does not have to close fully. Whether she arrives before or after he activates the mechanism is load-bearing for the ending's emotional weight.
 
 ### Hyerin
 - What gives the Soomin connection its depth if it isn't romantic?

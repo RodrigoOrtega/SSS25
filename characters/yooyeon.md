@@ -64,6 +64,16 @@ From Arc 2 onward, Yooyeon exists in a state that manifests through Alex's dream
 
 **Her character in the dream space** grows across the story's arc. She pushes back. She has opinions about what Alex is doing and what he is becoming. She is not a passive presence. The relationship that develops between them in the dream space — partial, wordless in early arcs, more genuine as the story progresses — is the only relationship in the story where Alex cannot manage the distance. She is not addressable as a member. She is not performable as Yooyeon. She is simply herself, in whatever the dream state is, and he has to be simply himself in return.
 
+**Her arc across the dream space — from pity to genuine help.**
+
+Her starting point is not warmth. In the early period, when Alex is at his most desperate — no knowledge of idol life, no map for the performance demands, the body-swap still acute — she acts, when she acts at all, from something closer to pity than care. She cannot watch someone drown in her body without throwing something. This does not mean she has decided anything about him. She does not have to like him for the reflex to fire.
+
+What changes her is the narrating. From Arc 3 onward, Alex begins telling her things — significant events in her life, what the members said, how a rehearsal went, what he has learned about her. He does this as a private choice, not knowing with certainty she hears. She does hear. And across that narration, she builds a picture of him: not the body-swap situation, which she was already aware of, but *him* — how he processes, what he notices, what he says when he is not performing anything for anyone. The person who would choose to keep someone informed about their own life, without being asked, without calculating the return.
+
+As she builds that picture, her relationship to helping shifts. It stops being a reflex against watching something fail. It becomes something more specific — directed at him as a person she has come to know. The knowledge transfer that began as pity becomes intentional. She is helping him because she understands him, not because she can't look away from the distress.
+
+By the time the final dream arrives, she knows him well enough to argue for his life. That is the full distance the relationship traveled. The starting point being pity is what gives it that distance to cover.
+
 ### The Key Character Question
 In the moments when Alex almost reaches her in the dream space — when the gap almost closes — does she reach back, or does she hold the distance? This answer defines her character across the story's full arc. It should be determined before writing any dream sequence, and the answer should be consistent across all appearances. The answer is branch-specific — it may differ between the endings variants (see endings/ branches).
 

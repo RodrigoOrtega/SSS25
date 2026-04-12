@@ -105,6 +105,99 @@ Whether he gets to keep what he learns — whether any of it belongs to him, giv
 
 ---
 
+## Emotional Arc
+
+> What Alex actually feels across the story — distinct from the pre-swap profile (who he is) and the thematic arc (what the story is doing to him). This section tracks emotional texture and progression as the story unfolds.
+
+### Immediate post-swap — Day 0, first hours
+
+Alex's first response is functional, not felt. He runs the problem before he allows himself to feel it. This buys him hours, not more.
+
+What breaks through the functional layer before he's ready:
+
+- **The body's physical demands don't pause.** Hunger, bathroom, temperature, center of gravity — all wrong. He cannot defer the physical reality to attend to the existential one. They arrive simultaneously, and the body is more insistent.
+- **The shame/curiosity compound.** He has had private pre-swap moments of imagining inhabiting a different body — sometimes female, in the daydream register of wanting to be someone else entirely. The reality is nothing like the imagining. The imagining is now in the room with him regardless. The gap between what he fantasized and what this actually is carries shame that exists independent of whether the connection is rational. He knows it isn't, and it doesn't help.
+- **The first name.** When a member calls him Yooyeon — or knocks and uses her name — he is addressed as someone who isn't there. The warmth directed at her is real and cannot reach him. Being surrounded by genuine care with no mechanism to receive it is its own emotional register: not grief exactly, not anxiety. Closer to invisibility. Watching something through glass.
+- **No private adjustment period.** He wakes in a shared haus on a weekday morning. The building comes alive around him whether he is ready or not. Processing and performance start simultaneously. He never gets a clean private window. The absence of adjustment time is not a narrative inconvenience — it is part of what makes the situation hard.
+
+The full emotional reality of the swap doesn't land in those first hours. It arrives in pieces, over days, as the functional layer is gradually overwhelmed by what it's been holding back.
+
+---
+
+### The survival period — Arcs 1 through Visionary Vision (Arcs 2–3)
+
+The dominant register during this period is **operational anxiety**: get through today, maintain the performance, figure out what she had scheduled next. There is no room for much else while the performance demands are acute.
+
+**The terror has two distinct forms.**
+
+*Stage and physical performance terror* — he has no knowledge of choreography, no fluency with her vocal range, no map of what the body can do. Yooyeon's gradual dream-based knowledge transfer reduces this over time, not instantly. It arrives as fragments across multiple dreams, not a sudden download. Knowing how something should feel and being able to execute it in her body are different problems. The terror becomes manageable as the performance becomes more automatic. It does not go away entirely.
+
+*Intimate fan interaction terror* — Cosmo lives, fan signs, one-on-one encounters with fans who came specifically for her. This is worse in some ways than stage performance. On stage he is one of twelve; the audience is not exclusively examining Yooyeon. In intimate fan interaction he is alone with someone who knows exactly how she behaves, with no collective to hide behind and no retakes. This is the form of the performance pressure he was least prepared for and cannot reduce through practice alone.
+
+**What he can see but cannot access.** He can observe, clearly and analytically, why the members love what they do. He watches them before a performance and understands the mechanism — the exchange with fans, the satisfaction of executing something well, the collective energy of 24 people moving toward the same thing. He can describe it. He can see it in their faces. He cannot access it for himself. He performs love for the work that others feel genuinely, and the gap between performing and feeling is its own sustained pressure beneath everything else.
+
+This is not stage fright and it is not the same problem. Stage fright dissolves with competence. This is structural: it doesn't lift when the performance improves, because the problem is not competence. He is not capable of letting himself care about the work in a way that would make him vulnerable to losing it.
+
+**The hidden caring.** Alex's self-assessment is that he is not capable of loving things or people. He believes this. It is deeply rooted — not unbreakable, but a structural part of how he understands himself. What it actually protects is a part of him that does care, that he has suppressed long enough he no longer knows how to navigate when it surfaces. He is not ignorant of the feeling when it appears. He is incompetent in the face of it — no practice, no map for the territory, thirty years of having kept it below the threshold where it would require a response. The belief "I cannot love" is both a description of his experienced state and a protection: if you believe you cannot love things, you cannot lose them.
+
+---
+
+### Connections forming — Arc 3 (pre-reveal)
+
+Before any member knows about the swap, something starts to form. The warmth directed at him is directed at Yooyeon — his architecture can always categorize it that way, can always use "it's addressed to her, not to me" as a redirect. The redirect starts to fail.
+
+**Nakyoung is the first.** Her INFP quality — patient, non-demanding, noticing things and giving them room rather than pressing into them — is precisely the form of care his architecture was not built to handle. His defenses are calibrated against direct approach: people who want something, who press, who ask questions he doesn't want to answer. She does none of those things. She is simply present, consistently, without agenda. The ordinariness of it is what gets through.
+
+He registers her absence before he registers her presence. A day she has a separate schedule, and the shape of it is noticeable in a way he doesn't immediately explain to himself. The caring forms before he can name it as caring. Yooyeon, watching from the dream state, can see it before he does.
+
+The relational register of what she gives is sibling-like — not romantic, not parental, something in the texture of a sibling relationship he never actually had. His actual siblings were present in the logistical sense and unavailable in the ways that mattered. What Nakyoung gives without knowing she's giving it is warmth without the underlying calculus of who owes what. A partial version of something he never had is still more than zero.
+
+**The cost this creates.** These connections form while members believe they are directed at Yooyeon. When the reveal happens, Alex will know that something real was developing on his end while they were being misled. This specific knowledge — he started to care about people who were being deceived about who they were caring for — sits worse than the exposure itself in some ways. He cannot explain what was forming without explaining everything. He holds it alone.
+
+---
+
+### The reveal and its aftermath — Arc 4
+
+The reveal demolishes the small framework he had started to build. This is how it is supposed to go. The connections were real; now they carry the cost of how they were formed.
+
+**Nakyoung in the enemy faction.** Her INFP values run deep around authentic connection. Finding out that the warmth she gave freely was received by someone she didn't know, through a premise she never agreed to — this is a specific violation for someone with her profile. She doesn't lose Yooyeon in the abstract. She loses the specific relationship she thought she had. Her enemy position is grief, not cruelty. For Alex: the first genuine connection he allowed himself is now structurally unavailable. Not the general grief of the reveal, but the particular knowledge that he had started to let one person's warmth matter, and that person is now on the other side of a line he didn't draw.
+
+Love hurts. He wanted it or not is not the question. It happened.
+
+---
+
+### The relational map — Arc 5
+
+Through the ally haus and the slow burn of Arc 5, a relational structure forms around Alex that addresses specific wounds from his pre-swap life:
+
+- **Mayu — maternal.** Reliable, freely extended care. She made herself responsible for him and holds to it without asking for anything in return. The wound from a mother whose care came with conditions and costs finds its partial answer here.
+- **Kotone — friendship.** Present, honest, steady. The first person who saw him as a victim rather than a problem. A form of friendship that doesn't require him to earn it and doesn't accumulate debt.
+- **Nakyoung — sibling-like (partial, if her Arc 5 trajectory moves her out of enemy position).** What she returns to after the enemy arc is not what it was — maybe half or three-quarters of the pre-reveal dynamic. That partial restoration addresses the sibling wound his actual siblings created: people who shared his life but not his weight, who were not people he could rely on. Even partial is more than zero. The wound doesn't close fully. That is alright.
+- **The paternal figure — unaddressed.** The father wound (care that was genuine but consistently de-prioritized; not being first to someone) does not find a direct analog among the members. No one in this world fills that specific shape. The nearest answer may not be another person at all — his final choice, the first decision in his life made from what he values rather than from a cost calculation, is the first time he is first to himself. If the wound closes at all, it closes there.
+
+---
+
+### The romantic wound and Seoyeon — Arcs 4–5 and the goodbye window
+
+Alex has a self-imposed romantic wound: decades of preemptive withdrawal from romantic closeness, managed out of existence before it could form. The same belief — I cannot love, I protect others from the disappointment of who I am — applied here. His romantic history is not a history of failed love. It is a history of love that was never allowed to start.
+
+The Seoyeon situation is both a mirror of this pattern and a direct consequence of it. He occupies the body and life of the person she loves. He performs Yooyeon badly in the places that mattered most to Seoyeon. He caused her to suffer through what felt like rejection that was never even real. Her grief has nowhere else to go.
+
+**His side closes silently.** The structure resembles his pre-swap absorption pattern: he has always endured things that fell on him without choosing them — the caretaker burden, the family expectations, the career he stayed in because leaving was riskier than enduring. He did not choose those things. They landed on him and he carried them. With Seoyeon, the structure is the same: he did not choose the swap, her grief is not entirely fair in how it is directed, and he carries the part of the guilt that genuinely belongs to him without using it to punish himself and without using it to demand resolution from her.
+
+The internal quality is different from the pre-swap absorption, even if nothing visible distinguishes them. Before: resignation, the math checking out, the cost of resistance higher than the cost of endurance. Here: acceptance. He holds the guilt as his and lets it be what it is.
+
+**The goodbye window.** He makes a quiet attempt toward Seoyeon before activating the mechanism — consistent with the goodbye window's logic, a small move toward her rather than a dramatic gesture. It does not land the way he hoped. What he receives instead is her grief in its direct form: an outburst or rambling that does not fully see him, that carries her account of what he did and what he is. He does not correct her. He absorbs it. He holds what is his.
+
+This becomes their goodbye without either of them knowing it. He had not expected a moment of amending. He does not get one. By the time it happens he has come to terms with the incompleteness. Not every arc closes both ways. Not every wound has a corresponding person. He accepts this as part of what he carries going in.
+
+> **TO CONTINUE:**
+> - The specific texture of the first idol work moment where something gets through before the architecture can stop it — not investment, just the briefest presence; brief enough that he can almost dismiss it; what it looks like and what triggers it
+> - Nakyoung's Arc 5 trajectory — how far she comes back, what triggers the shift out of enemy position, whether it reaches the partial restoration described here before Alex is gone
+> - The Seoyeon outburst/rambling scene — what she says, what he hears in it, what he holds afterward
+
+---
+
 ## Internal Voice
 
 Alex's narration is:
