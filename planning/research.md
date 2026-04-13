@@ -56,6 +56,115 @@ A member gives Alex a look after he answers wrong about something that involves 
 **How Alex would actually disclose — critical note:**
 He won't frame it as unburdening. Won't build to it emotionally. Won't cry. He'll say it flat, minimal, watching for the response. The emotional weight will all be in the other person's face, which he reads and processes without showing. *The gap between what the disclosure means and how he delivers it is where the scene lives.*
 
+### Prose Formatting Conventions
+
+*Researched 2026-04-12. Sources: AO3 community guides, Chicago Manual of Style, FanFiction.net conventions, Wattpad guidelines, Tumblr writing guides (Ivy Blossom, dear-ao3), MasterClass, NowNovel, Jami Gold, Fiction University.*
+
+---
+
+#### Internal monologue (thoughts)
+
+Three valid options — pick one and apply consistently throughout the work.
+
+**Italics** — most common on AO3 and in contemporary fanfiction.
+> *He's going to notice. Everything falls apart if he does.*
+
+**Free indirect discourse (no formatting)** — literary approach; blends the character's voice into narration. Works naturally in close first-person or deep third-person POV. The narration *is* the character's thinking, so no markup is needed.
+> He was going to notice. Everything would fall apart if he did.
+
+**Quotation marks with "thought"** — traditional but dated. Largely avoided in modern fiction.
+> "He's going to notice," she thought.
+
+**For this story:** Free indirect discourse is the right default. Alex's narration is close first-person — the narration is already his internal voice. Reserve italics for moments where a thought stands apart from the surrounding prose: raw, unmediated, not yet shaped into narrated reflection.
+
+The Chicago Manual of Style's formal position: internal monologue formatting is "according to the context or the writer's preference." No mandatory rule. Consistency matters more than which convention is chosen.
+
+---
+
+#### Dialogue (spoken, whether to others or aloud to self)
+
+- Double quotation marks for all spoken words
+- Punctuation **inside** the closing quote
+- **New paragraph every time the speaker changes** — the most important formatting signal readers use
+- Comma (not period) before a dialogue tag: `"Something," she said.`
+- Question mark or exclamation point replaces the comma: `"Why?" she asked.` — lowercase after
+- Speaking aloud to oneself uses the same formatting as dialogue to another person (it is *spoken*, not thought)
+
+---
+
+#### Dialogue attribution
+
+**Dialogue tags** — identify speaker and how something was said. Use `said` and `asked` 90% of the time. These are functionally invisible to readers. Varying tags constantly to avoid repetition draws more attention than just repeating `said`.
+
+**Action beats** — a character's physical action used instead of a tag. More useful: adds movement and character texture simultaneously.
+> "I don't trust him." Marcus leaned against the wall.
+> Sarah's jaw tightened. "You never did."
+
+**Critical rule:** Never attach an action beat to dialogue with a comma as if it were a tag.
+- Wrong: `"Text," she smiled.` (you cannot smile words)
+- Right: `"Text." She smiled.` (separate sentences)
+
+**When attribution can be dropped:** Rapid back-and-forth between two characters. If paragraph breaks make it obvious who speaks, tags are clutter.
+
+---
+
+#### Conversations with 3+ speakers
+
+- Tag the first line when a new speaker enters
+- Establish each character through **physical staging** (where they are, what they're doing) and **distinct voice** (vocabulary, rhythm, sentence length)
+- Limit how many people are actively speaking at once — let some drop out and re-enter
+- Return to tagging whenever ambiguity is possible, or when a character returns after silence
+
+---
+
+#### Interruption vs. trailing off
+
+**Em-dash (—)** for abrupt interruption — cut off by another person or event. Place directly after the final word, inside the closing quote, no space before.
+> "I think we should—"
+> 
+> "No," she said.
+
+**Ellipsis (...)** for trailing off — the character loses steam, hesitates, or lets the sentence die on their own.
+> "Maybe we could just..." He didn't finish.
+
+These are not interchangeable. Em-dash = external cut. Ellipsis = internal fade.
+
+---
+
+#### Scene breaks
+
+**`* * *`** (three asterisks with spaces) — most common across AO3, FanFiction.net, Wattpad. Traditional and widely recognized.
+
+**`<hr>` (HTML horizontal rule)** — AO3's accessibility recommendation. Preferred for screen reader compatibility on that platform specifically.
+
+**`---`** (three hyphens) — less common but functional. Already in use throughout this project's documents; consistent to carry into prose.
+
+---
+
+#### Text messages and phone calls
+
+No single standard exists. Common options for texts:
+
+Labeled chat format:
+> **MarcusK:** where are you?
+> **SarahM:** on my way
+
+Inline with italics:
+> Her phone buzzed. *"where are you???"*
+
+As dialogue with attribution:
+> "Where are you?" the message read.
+
+For phone calls with only one side heard: write what the character says and convey the other side through reaction and action. If both sides are needed, standard dialogue formatting works — no special treatment required.
+
+---
+
+#### Key principle
+
+There is no universally correct system. The right choice is whichever system is applied consistently throughout the work. In a close first-person story like this one, the most natural lean is toward free indirect discourse — Alex's voice and the narration are already merged — with italics reserved for sharp, unprocessed flashes of thought that haven't yet settled into prose.
+
+---
+
 ### Slow Burn Pacing
 - TBD
 
