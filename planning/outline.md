@@ -171,10 +171,28 @@ In the window between his decision and activation, he moves through the unspoken
 
 His choice does not come from the self-blame layer ("I don't deserve this"). It comes from something he built: the capacity to see clearly whose something is and to give it back without that being the same as punishment. He is grateful. He is not erasing himself. He is returning something borrowed.
 
-**The final dream — the argument:**
-The gap closes from her side — she comes to him. She knows what he is about to do. The final dream is the argument: she fights for him to stay. He fights to give this back to her. Neither argument defeats the other cleanly. What ends it is not persuasion but action: he acts, and she cannot stop him. There is a moment where she understands she won't, and she has to let him go. That moment is the scene's emotional center.
+**The final dream — the argument and the crossing:**
+*Established 2026-04-13.*
 
-What she says in this scene and what he says are TBD — the two lines from the Yooyeon-sacrifice version (*"I have somewhere, some place to go" / "And you do too"*) do not transfer cleanly to this version. The dialogue for this final dream requires separate development.
+The barrier is present at the start of this dream — the gap that has defined their contact across the whole arc. The argument happens across it: she fights for him to stay. He fights to give this back to her. Neither argument defeats the other cleanly.
+
+What ends the argument is not persuasion but revelation: he tells her the thing he has never told anyone — the biographical fact of the overheard argument, the night he understood he was unplanned, the thing at the bottom of the three-layer architecture. He tells it across the barrier, in his voice: brief, minimal, the weight underneath. The first and only time he has said it to anyone.
+
+She receives it. Two lines, across the distance: *"That wasn't your fault."* Then: *"You never told me, Alex."* His name in her mouth — the only time anyone in the story addresses him as himself. Said with grief, not accusation: he narrated everything to her across the arc, and this one thing he kept.
+
+He does not respond. He crosses.
+
+The barrier closes from his side — the occupier's side, the only side from which it can be closed. The mechanism is position-specific: she cannot do this from the displaced side regardless of understanding; only the one in the body can open the channel fully. The hug is the act of crossing: the first sincere physical closeness he has ever initiated in the story, directed at someone who has seen him clearly and named him correctly. She meets him — not acceptance, she has not accepted this, but she has run out of ways to fight and meets him rather than pulling away.
+
+Inside the hug: he tries to say something. He almost says *"I'm sorry"* — the self-blame layer surfacing one last time. He catches it. That is the wrong register. He is not asking forgiveness. He is returning something. He decides not to say it.
+
+*"Thank you, Yooyeon."*
+
+The scene ends here. They are still holding each other.
+
+**What this resolves:** The hug is the act of what he never had — someone who understood him until the end and held him in his last moments, without conditions, without agenda. The conditional care wound. The perception wound. The three-layer architecture, dismantled by being seen clearly and named correctly. He is Alex, to someone, at the end. The name she gives him and the name he returns to her are the last things exchanged between them.
+
+**The mechanism:** The return is not external. There is no object, no ritual, no spell. The mechanism is the breaking of the self-imposed barrier — the love and care block he imposed on himself across thirty years and maintained across the whole story. The barrier was always the mechanism's carrier. Telling the secret made crossing possible; crossing closed it. The dreams stop because the split resolves. She wakes.
 
 **What Alex knows when he acts:** That she was there. That she watched. That the relationship built between them in the dream space was real — partial, strange, wordless for a long time and then not. That she did not want this. He acts anyway. Not against her. For her.
 

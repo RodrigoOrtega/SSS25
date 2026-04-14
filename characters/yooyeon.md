@@ -79,8 +79,21 @@ In the moments when Alex almost reaches her in the dream space — when the gap 
 
 ### Her Role in the Final Dream (Alex-Sacrifice Branch)
 > *This section documents the endings/alex-sacrifice branch. The Yooyeon-sacrifice version is on main.*
+> *Beat structure established 2026-04-13.*
 
-In this ending, Alex discovers the return mechanism and chooses to activate it. Yooyeon knows. The final dream is the argument: she fights for him to stay. She does not want this. She cannot stop him. There is a moment where she understands she won't be able to, and she has to let him go.
+The barrier is present at the start of the final dream — the gap that has defined their contact across the whole arc. The argument happens across it. She fights for him to stay. She does not want this.
+
+The argument ends when he tells her the thing he has never told anyone: the biographical fact of the overheard argument, the night he understood he was unplanned. He tells it across the barrier — brief, minimal, his voice. The first and only time he has said it to anyone.
+
+She responds with two lines, still across the distance: *"That wasn't your fault."* Then: *"You never told me, Alex."* His name in her mouth — the only time anyone in the story addresses him as himself. Said with grief, not accusation. He narrated everything to her across the arc, and this one thing he kept.
+
+He does not respond. He crosses.
+
+The barrier closes from his side — position-specific: only the occupier can close the gap from the body's side. She cannot do this from the displaced side regardless of understanding. The hug is the act of crossing — the first sincere physical closeness he has ever initiated in the story. She meets him. Not acceptance, but she has run out of ways to fight and meets him rather than pulling away.
+
+Inside the hug: he tries to say something, almost says *"I'm sorry,"* catches it — wrong register, the self-blame layer — and decides not to. He says *"Thank you, Yooyeon."* The scene ends here, with them still holding each other.
+
+**What this asks of her:** She is not passive in the second half of the scene. She named him — *"You never told me, Alex"* — and that naming is what moves him to cross. She receives the crossing. She holds him. That is not agreement; it is what she has when argument fails. She gives him what she has left.
 
 She wakes in her body carrying full knowledge of what he chose and why. She was there for the argument. She cannot unknow it.
 

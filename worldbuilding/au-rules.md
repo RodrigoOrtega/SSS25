@@ -41,10 +41,19 @@ These sequences are not frequent or dramatic. They are recurring, brief, and emo
 
 ### The Ending Function (Alex-Sacrifice Branch)
 > *This branch documents the endings/alex-sacrifice version. The Yooyeon-sacrifice version (Yooyeon breaks the mechanism herself) remains on main.*
+> *Mechanism established 2026-04-13.*
 
-A return mechanism exists — a way for Yooyeon to come back to her body. The process would cost Alex his existence. Alex discovers the mechanism in late Arc 5. He decides privately. He withholds this from Yooyeon in the dream space during the goodbye window — to prevent her from acting to block him before he can use it.
+The return mechanism is not external. There is no object, no ritual, no spell. The mechanism is the breaking of the self-imposed barrier — the love and care block Alex imposed on himself across thirty years and maintained across the whole story. The barrier was always the mechanism's carrier.
 
-In the final dream, she knows. The dream is the argument. She fights to stop him. He acts anyway. She wakes in her body. The dreams stop because the dream state ends — there is no longer a displaced person to anchor it.
+The mechanism is position-specific: only the occupier can close the gap from the body's side. Yooyeon cannot activate the return from the displaced side regardless of understanding or intent. The closing must come from him.
+
+Two things are required for the closing:
+
+**The secret.** Alex tells Yooyeon the thing he has never told anyone — the biographical fact of the overheard argument, the night he understood he was unplanned. Telling it is what makes crossing possible. Without it, the barrier holds.
+
+**The crossing.** He walks through the barrier to reach her. The hug is the act of crossing — the first sincere physical closeness he has ever initiated. This closes the split. The dreams stop. She wakes in her body.
+
+Alex discovers the mechanism in late Arc 5 — not as external information found, but as the realization of capacity: he understands that the barrier is the mechanism's carrier, and that he has become someone who can break it from peace rather than despair. He withholds this from Yooyeon in the dream space during the goodbye window, to prevent her from acting to block him before he can use it.
 
 The mechanism of the swap was never explained. The mechanism of its ending is not explained either. The story does not need to explain how it works — only that he knew what it would cost and chose it anyway.
 

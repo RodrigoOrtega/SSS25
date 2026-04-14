@@ -187,17 +187,15 @@
 > Questions specific to this branch. Shared questions (dream thread, goodbye window, second reveal) are in the sections above.
 
 ### The Final Dream — Dialogue
-- **Status:** Unresolved
-- **What's established:** The two lines from the Yooyeon-sacrifice version (*"I have somewhere, some place to go" / "And you do too"*) do not transfer cleanly. The final dream in this branch is an argument — she fights for him to stay, he acts anyway. What they say to each other is TBD.
-- **Open:** What does she say? What does he say? What is the last thing exchanged before he acts? The dialogue must be consistent with: she genuinely wants him to stay; he is choosing from peace, not self-punishment; neither argument defeats the other cleanly; she has to let go.
+- **Status:** Resolved — see Resolved section (2026-04-13)
 
 ### Does Yooyeon reach back in near-contact moments (pre-final-dream)?
-- **Status:** Unresolved
-- **Open:** Given that in this branch she argues against the sacrifice — meaning she wants him to stay — it would be consistent for her to have been reaching back across the story's arc. If she reaches back, the relationship in the dream space has always been mutual, which gives the final argument more weight. Decide before writing any dream sequence on this branch.
+- **Status:** Resolved — see Resolved section (2026-04-13)
 
 ### How does Alex discover the mechanism?
-- **Status:** Unresolved
-- **Open:** Does Yooyeon communicate it to him through the dreams (inadvertently or deliberately)? Does he find something during the Yooyeon trail investigation? Is it revealed through a dream that neither of them fully understands at first? The mechanism of discovery determines his agency in finding it — whether it was something he sought or something that found him.
+- **Status:** Partially resolved
+- **What's established:** The mechanism is internal, not external — no object, ritual, or found document. The discovery is the realization of capacity: Alex understands, in late Arc 5, that the barrier he has maintained across thirty years is the mechanism's carrier, and that he has become someone who can break it from peace rather than despair or resignation. He could not have done this earlier — not because the option was unavailable, but because he was not yet the person capable of choosing it from the right place.
+- **Open:** What is the specific moment or trigger in late Arc 5 that produces this realization? Does it come through the dream space — something in how the near-contact feels, a pattern he finally names? Does something in waking life precipitate it? The exact scene or sequence of recognition remains TBD.
 
 ### What does Yooyeon's return look like to the outside world?
 - **Status:** Unresolved
@@ -236,3 +234,5 @@
 | The unspoken goodbye window — structural placement | After Alex discovers the return mechanism and decides (late Arc 5), a window opens before activation. He moves toward certain members quietly — something not done with them before. Not dramatic gestures. At least one attempt fails. He withholds from Yooyeon in the dream space during this window. Window closes at activation. Seoyeon and Sohyun specifically identified as resistant members he attempts to reach. | 2026-04-10 |
 | Seoyeon's arc — what it can and cannot resolve | Her arc with Alex ends incomplete — she never arrives at the place where it could have mattered to him while he was still there. What the story gives her instead is the beginning of the arc that actually belongs to her: the unresolved thing with Yooyeon. That resolution requires the real Yooyeon — it cannot be provided by Alex. | 2026-04-10 |
 | Core thematic statement — what Alex's story is about | A man who lost the ability to desire. The swap shows him a side of life full of care, wanting, giving and receiving. At the very end, he makes peace with his past and current life — grateful for the experience, but recognizing it is not his place to take. The ending must come from peace, not from the self-blame layer. The bad-for-Alex ending is the version where this peace is never reached. | 2026-04-10 |
+| The Final Dream — Dialogue (alex-sacrifice branch) | Beat structure established. Sequence: argument across the barrier → Alex tells the secret (the overheard argument, being unplanned) across the barrier → Yooyeon: *"That wasn't your fault"* / *"You never told me, Alex"* (his name, across the gap, with grief not accusation) → Alex silent → he crosses (hug — first sincere physical closeness he initiates in the story) → she meets him → inside the hug: he almost says *"I'm sorry,"* catches it (self-blame layer, wrong register — he is returning something, not apologizing), decides not to → *"Thank you, Yooyeon"* → scene ends in the hug. The name exchange is the last thing between them: she gives him his, he returns hers. Full documentation in outline.md. | 2026-04-13 |
+| Does Yooyeon reach back in near-contact moments — alex-sacrifice branch | Yes. She has been reaching back throughout. This is consistent with the final dream: she argues for him to stay, meaning she has always wanted him to remain. The relationship in the dream space is mutual from early in the contact, not unidirectional. This gives the final argument its full weight — she is not a passive presence who suddenly objects at the end; she has been reaching, and the final dream is the last form of that reaching. | 2026-04-13 |
