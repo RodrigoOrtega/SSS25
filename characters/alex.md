@@ -103,6 +103,20 @@ This is not achieved through insight. He already has insight. It is achieved thr
 
 Whether he gets to keep what he learns — whether any of it belongs to him, given the body it was learned in — is a question the endings hold differently.
 
+### The forgiveness arc — emotional destination of the story
+
+Alex's story does not end in happiness. It ends in peace — which is something he never had before the swap and could not have reached without everything the swap forced him through. The emotional destination is not arrival at a better life. It is arrival at a settled relationship with the life he had.
+
+This arc has three movements, which the story does not announce but tracks:
+
+**Forgiving others.** The people who shaped the architecture — his mother, whose care came with conditions and costs; his father, whose care was genuine and consistently de-prioritized; his siblings, who were present logistically and unavailable in the ways that mattered; the family system that placed the caretaking burden on him before he was old enough to consent to it. He does not confront any of them directly. The forgiveness is not a scene. It is the gradual loosening of the vigilance he has maintained against them — the scanning, the self-monitoring, the performance of legibility designed to manage their verdict. By the time he reaches the goodbye window, something in that architecture has quietly released. He is not running the family calculation anymore.
+
+**Forgiving himself.** The self-blame layer — *I am fundamentally bad and I deserve what I have* — is the one that fires as a fallback when the surface story fails. The story's sustained pressure on the surface layer (the withdrawal-as-protection frame collapses repeatedly when members refuse to let him manage them out) forces the self-blame layer into the open. It cannot stay a fallback when it is the only story left. What the ally haus gives him — Mayu's unearned care, Kotone's steady presence, the relational texture of Arc 5 — is specifically the material that makes the self-blame layer untenable. Not through argument. Through evidence that contradicts it long enough and specifically enough that it stops functioning as a description of reality.
+
+**Letting go.** The third layer: the biographical fact of the overheard argument, the knowledge that he was unplanned, filed as trivia for thirty years because the other two layers were always sufficient to keep it from having to carry weight. He has never told anyone. He tells Yooyeon — across the barrier, in the final dream, in his own voice. The telling is what makes the crossing possible. Letting go is not forgetting. It is releasing the weight the fact has been carrying: the explanation for why he was never first, why closeness was unsafe, why the architecture was necessary. It was never the explanation. It was just something that happened before he had a frame for it. He gives it back to its actual size.
+
+The sacrifice follows from all three. A man still running the family calculation could not give this life back — the cost would read as punishment. A man still in the self-blame layer could not give it back from peace — it would read as erasure. A man still carrying the biographical fact as weight could not cross without it meaning something it shouldn't mean. The ending requires all three movements to have been made, or it is a different kind of ending.
+
 ---
 
 ## Emotional Arc
@@ -139,6 +153,18 @@ The dominant register during this period is **operational anxiety**: get through
 This is not stage fright and it is not the same problem. Stage fright dissolves with competence. This is structural: it doesn't lift when the performance improves, because the problem is not competence. He is not capable of letting himself care about the work in a way that would make him vulnerable to losing it.
 
 **The hidden caring.** Alex's self-assessment is that he is not capable of loving things or people. He believes this. It is deeply rooted — not unbreakable, but a structural part of how he understands himself. What it actually protects is a part of him that does care, that he has suppressed long enough he no longer knows how to navigate when it surfaces. He is not ignorant of the feeling when it appears. He is incompetent in the face of it — no practice, no map for the territory, thirty years of having kept it below the threshold where it would require a response. The belief "I cannot love" is both a description of his experienced state and a protection: if you believe you cannot love things, you cannot lose them.
+
+**The body's emotional register — hormonal mismatch.**
+
+> *Writing reference — name the mechanism here, do not explain it to the reader in prose. In scenes, render the experience directly: the speed, the intensity, the unfamiliarity. Alex may name the cause once to himself — he is smart enough to know what is happening biologically — and then move on, because understanding it changes nothing.*
+
+Alex's body before the swap ran on a higher-testosterone baseline. Yooyeon's runs on a higher-estrogen one. The practical result: emotions arrive faster, hit harder, and do not wait for the analytical layer to intercept them. His coping architecture — slow down, categorize, manage from a distance — was calibrated for a different nervous system. It does not stop working entirely, but it stops working reliably. The buffer that has held for thirty years now has gaps.
+
+This is not the same as becoming a more emotional person. It is the experience of familiar emotions at an unfamiliar intensity and speed, without the habituation that would make them manageable. Yooyeon is not an unusually emotional person — her public composure is real and her private baseline is settled. What Alex is experiencing is not her emotional range. It is the body's hormonal environment without her years of having adapted to it. She habituated to this nervous system over time. He gets the full intensity on day one.
+
+The emotional arc of Phase 1 is therefore not a slow curve. It moves in minutes or hours. His state at the beginning of a scene is not reliably his state by the middle of it. A bad rehearsal note can produce something closer to shame than frustration before he registers the shift. A member saying something genuinely kind can produce an emotional response he has no container for. The overload is not only from negative inputs — warmth arrives at the same intensity, which is its own problem.
+
+The analytical naming helps and does not help. He can identify the mechanism, trace it to its source, hold it at arm's length in language. The feelings continue arriving. This is the same structure as everything else he has ever understood about himself: the understanding is available; the exit from it is not.
 
 ---
 

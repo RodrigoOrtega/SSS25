@@ -22,6 +22,16 @@ Alex's pre-swap life was organized around avoidance: keep the status quo, manage
 
 The swap closes that option by force. It is not a lesson or a persuasion. It is the removal of the architecture he used to avoid change. The story is interested in what happens to someone when the only way forward is the thing they have spent years not doing — not because they are now ready, but because the alternative is no longer available.
 
+### Forgiveness as Arrival
+
+The story's emotional destination is not happiness. It is peace — with others, with himself, with the life he had before the swap and the life he is living inside of. Alex reaches this not through insight (he had insight the whole time) but through sustained contact with people who refused to let him stay at a distance, and through being pressed into situations that made the old patterns structurally unavailable.
+
+The forgiveness arc has three movements: forgiving others (the people who shaped the architecture of his avoidance), forgiving himself (releasing the self-blame layer that functioned as a fallback explanation for his life), and letting go (the biographical fact of the overheard argument, which he has carried as an unexplained weight for thirty years, and which he finally names to someone). These are not resolved as dramatic scenes. They accumulate as quiet shifts across Arc 5, only visible as a pattern in retrospect.
+
+The ending belongs to this arc. The sacrifice is not possible from anywhere other than the place these three movements reach. It is the first decision he makes from what he values rather than from a cost calculation — and that is only possible because he has stopped running the calculations that kept him from himself.
+
+**What the story does not do:** resolve the forgiveness into peace with specific people. His mother does not change. His father does not change. His siblings do not change. The group does not unanimously arrive at warmth. Seoyeon's arc ends incomplete. Forgiveness in this story is not reconciliation. It is the release of a weight — not giving the other person absolution, but putting down the thing he has been carrying on their account.
+
 ---
 
 ## Tone Notes
