@@ -110,6 +110,7 @@ Each character file contains:
 - Never contradict an established event in the log without a story reason
 - If a character learns something, note it. If a relationship changes, note it. If they make a decision, note it.
 - When in doubt about what a character knows or feels, check their log before writing
+- **Before writing any scene that includes dialogue addressed to Yooyeon/Alex:** check `planning/naming-conventions.md` for the correct form each member uses. Forms vary by member and register; using the wrong one in dialogue is a continuity error.
 
 ---
 
@@ -121,6 +122,7 @@ Each character file contains:
 - When Claude writes a chapter draft, it goes in `drafts/` first, then moves to `story/` after review
 - Always commit planning/character updates separately from story content
 - Use `planning/open-questions.md` as the central registry for unresolved story decisions, unanswered character questions, and plot flows still in development
+- Use `planning/naming-conventions.md` for how each member addresses Yooyeon — consult before writing any dialogue scene
 
 ### Tracking open questions
 

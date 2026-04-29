@@ -18,6 +18,7 @@
 
 - **Known traits:** Intelligent, observant, composed. Older-sister energy — a presence that is calm enough to make rooms feel steadier. Rarely the most visible member but consistently present. Not known for emotional display or crying in public; the composure reads as settled rather than cold.
 - **Role in the group:** Informal emotional anchor. The person members bring private things to — not the one who manages schedules or interfaces with management (that is Seoyeon), but the one whose door is open. The group's emotional infrastructure runs partly through her without this being named or performed. She is the oldest member by age; the role fit naturally onto that.
+- **How members address her:** See `planning/naming-conventions.md` for the full reference. Each member uses a specific form based on their personality and closeness. Seoyeon's form (Yooyeon-a) is unique and carries particular weight in scenes.
 - **Public image:** TBD — further development needed for the gap between public persona and private person that Alex will discover in Arc 2.
 - **Alex's prior perception of her:** Casual, secondhand. He knows she's beautiful and from what he watched of Badge War Season 1, came away with the impression that she's also genuinely smart. That impression has stayed loosely. Nothing deeper. The gap between that thin perception and the reality of her life — her relationships, her private world, her inner texture — is load-bearing for Arc 2.
 
