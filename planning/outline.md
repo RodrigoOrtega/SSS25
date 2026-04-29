@@ -22,13 +22,46 @@ Questions to answer before writing:
 
 **Goal:** The body swap moment and its immediate aftermath. Disorientation, denial, first realization.
 
+**Scope:** Day 0 (June 24, 2024) through approximately the Visionary Vision gravity announcement (~June 30, end of first week).
+
+**What this arc is:**
+- Alex alone with the body
+- Alex alone with the apartment
+- Alex alone with what he has to get through today
+- Domestic near-misses with members of the Spring haus
+- The first private window that cannot be used well enough
+
+**What this arc does NOT contain:**
+- Any idol stage performance
+- Any serious choreography confrontation
+- Visionary Vision pressure (gravity not yet announced on Day 0)
+- Group dynamic complexity at full intensity
+
+**Buffer note:** Glow (Chaewon, Sullin, SeoAh, Jiyeon) is the active unit as of Day 0 — their promotion is ongoing. Yooyeon is not in this unit. That is part of why Alex has a buffer before idol work demands begin.
+
+**What this arc does NOT resolve:**
+- What happened to Alex's body / where Yooyeon is
+- Why this happened
+- What he is going to do
+- Whether anyone will notice
+These are Arc 2 questions. Arc 1 ends with him having survived the first morning.
+
 Key beats:
-- Alex wakes up — the first sensory details of wrongness
-- The mirror moment (or equivalent)
-- First attempts to rationalize, then to reject, then to accept the impossible
-- The immediate practical crisis: where is he, what day is it, what is expected of him today
+- Alex wakes up — the first sensory details of wrongness (5:30 AM, habit-driven, the body resisting)
+- The discovery sequence — slow, one thing at a time: ceiling, hair, hands/chest, stumble, deduction, mirror
+- The mirror moment — two beats: stranger, then recognition (he has seen this face; this is Yooyeon)
+- First breakdown — stillness, not theatrics; the shame/curiosity compound enters here
+- The bathroom — functional, brief; the deeper reckoning with the body placed in Arc 2 (shower)
+- The voice test — private, minimal; does not prepare him for the real thing
+- First external demand — Mayu knocks through the closed door asking about breakfast
+- He goes to breakfast — cost calculation, not readiness
+- The phone — accessed at breakfast via Touch ID; Gravity note found, filed privately
+- The Kotone walk-in — she enters mid-afternoon without fully knocking; finds him at the mirror
 
 Tone note: This arc should feel claustrophobic and fragmented. Short scenes, broken thoughts.
+
+> For full scene-level notes, writing instructions, and craft decisions: see
+> `planning/arc-01-morning-sequence.md`
 
 ---
 
